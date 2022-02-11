@@ -29,13 +29,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "com/mojang/netty/1.7.7/netty-1.7.7.jar",
-                    "sha1": "dc4a57fabcfdfc66420751f29cda96644d0294f7",
-                    "size": 14725,
-                    "url": "https://libraries.minecraft.net/com/mojang/netty/1.7.7/netty-1.7.7.jar"
+                    "path": "com/mojang/netty/1.8.8/netty-1.8.8.jar",
+                    "sha1": "0a796914d1c8a55b4da9f4a8856dd9623375d8bb",
+                    "size": 15966,
+                    "url": "https://libraries.minecraft.net/com/mojang/netty/1.8.8/netty-1.8.8.jar"
                 }
             },
-            "name": "com.mojang:netty:1.7.7"
+            "name": "com.mojang:netty:1.8.8"
         },
         {
             "downloads": {
@@ -541,9 +541,9 @@
             "argument": "-Dlog4j.configurationFile=${path}",
             "file": {
                 "id": "client-1.7.xml",
-                "sha1": "6605d632a2399010c0085d3e4da58974d62ccdfe",
-                "size": 871,
-                "url": "https://launcher.mojang.com/v1/objects/6605d632a2399010c0085d3e4da58974d62ccdfe/client-1.7.xml"
+                "sha1": "50c9cc4af6d853d9fc137c84bcd153e2bd3a9a82",
+                "size": 966,
+                "url": "https://launcher.mojang.com/v1/objects/50c9cc4af6d853d9fc137c84bcd153e2bd3a9a82/client-1.7.xml"
             },
             "type": "log4j2-xml"
         }
