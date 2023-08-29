@@ -31,7 +31,8 @@
                 "1.20.1-47.1.71",
                 "1.20.1-47.1.72",
                 "1.20.1-47.1.73",
-                "1.20.1-47.1.74"
+                "1.20.1-47.1.74",
+                "1.20.1-47.1.75"
             ]
         }
     },
@@ -1003,6 +1004,40 @@
             "mcversion": "1.20.1",
             "recommended": false,
             "version": "47.1.74"
+        },
+        "1.20.1-47.1.75": {
+            "build": 75,
+            "files": {
+                "changelog": {
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "forge-1.20.1-47.1.75": {
+                    "classifier": "forge-1.20.1-47.1.75",
+                    "extension": "pom"
+                },
+                "installer": {
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "sources": {
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "universal": {
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "userdev": {
+                    "classifier": "userdev",
+                    "extension": "jar"
+                }
+            },
+            "latest": false,
+            "longversion": "1.20.1-47.1.75",
+            "mcversion": "1.20.1",
+            "recommended": false,
+            "version": "47.1.75"
         },
         "1.20.1-47.1.8": {
             "build": 8,
