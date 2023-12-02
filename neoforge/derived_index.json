@@ -109,7 +109,10 @@
                 "20.2.76-beta",
                 "20.2.77-beta",
                 "20.2.78-beta",
-                "20.2.80-beta"
+                "20.2.80-beta",
+                "20.2.81-beta",
+                "20.2.82-beta",
+                "20.2.83-beta"
             ]
         }
     },
@@ -3944,6 +3947,117 @@
             "mcversion": "1.20.2",
             "recommended": false,
             "version": "80"
+        },
+        "20.2.81-beta": {
+            "artifact": "neoforge",
+            "branch": "beta",
+            "build": 81,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                }
+            },
+            "latest": false,
+            "longversion": "20.2.81-beta",
+            "mcversion": "1.20.2",
+            "recommended": false,
+            "version": "81"
+        },
+        "20.2.82-beta": {
+            "artifact": "neoforge",
+            "branch": "beta",
+            "build": 82,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                }
+            },
+            "latest": false,
+            "longversion": "20.2.82-beta",
+            "mcversion": "1.20.2",
+            "recommended": false,
+            "version": "82"
+        },
+        "20.2.83-beta": {
+            "artifact": "neoforge",
+            "branch": "beta",
+            "build": 83,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                }
+            },
+            "latest": false,
+            "longversion": "20.2.83-beta",
+            "mcversion": "1.20.2",
+            "recommended": false,
+            "version": "83"
         }
     }
 }
