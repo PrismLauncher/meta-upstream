@@ -120,7 +120,8 @@
         },
         "1.20.3": {
             "versions": [
-                "20.3.1-beta"
+                "20.3.1-beta",
+                "20.3.2-beta"
             ]
         }
     },
@@ -4213,6 +4214,43 @@
             "mcversion": "1.20.3",
             "recommended": false,
             "version": "1"
+        },
+        "20.3.2-beta": {
+            "artifact": "neoforge",
+            "branch": "beta",
+            "build": 2,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                }
+            },
+            "latest": false,
+            "longversion": "20.3.2-beta",
+            "mcversion": "1.20.3",
+            "recommended": false,
+            "version": "2"
         }
     }
 }
