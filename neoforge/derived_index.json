@@ -39,7 +39,8 @@
                 "1.20.1-47.1.79",
                 "1.20.1-47.1.80",
                 "1.20.1-47.1.81",
-                "1.20.1-47.1.83"
+                "1.20.1-47.1.83",
+                "1.20.1-47.1.84"
             ]
         },
         "1.20.2": {
@@ -1551,6 +1552,67 @@
             "mcversion": "1.20.1",
             "recommended": false,
             "version": "47.1.83"
+        },
+        "1.20.1-47.1.84": {
+            "artifact": "forge",
+            "build": 84,
+            "files": {
+                "changelog": {
+                    "artifact": "forge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "changelog.txt": {
+                    "artifact": "forge",
+                    "classifier": "changelog.txt",
+                    "extension": "asc"
+                },
+                "installer": {
+                    "artifact": "forge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "installer.jar": {
+                    "artifact": "forge",
+                    "classifier": "installer.jar",
+                    "extension": "asc"
+                },
+                "sources": {
+                    "artifact": "forge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "sources.jar": {
+                    "artifact": "forge",
+                    "classifier": "sources.jar",
+                    "extension": "asc"
+                },
+                "universal": {
+                    "artifact": "forge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "universal.jar": {
+                    "artifact": "forge",
+                    "classifier": "universal.jar",
+                    "extension": "asc"
+                },
+                "userdev": {
+                    "artifact": "forge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                },
+                "userdev.jar": {
+                    "artifact": "forge",
+                    "classifier": "userdev.jar",
+                    "extension": "asc"
+                }
+            },
+            "latest": false,
+            "longversion": "1.20.1-47.1.84",
+            "mcversion": "1.20.1",
+            "recommended": false,
+            "version": "47.1.84"
         },
         "1.20.1-47.1.9": {
             "artifact": "forge",
