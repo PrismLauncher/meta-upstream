@@ -42,7 +42,8 @@
                 "1.20.1-47.1.83",
                 "1.20.1-47.1.84",
                 "1.20.1-47.1.85",
-                "1.20.1-47.1.86"
+                "1.20.1-47.1.86",
+                "1.20.1-47.1.87"
             ]
         },
         "1.20.2": {
@@ -238,7 +239,8 @@
                 "20.4.104-beta",
                 "20.4.105-beta",
                 "20.4.106-beta",
-                "20.4.107-beta"
+                "20.4.107-beta",
+                "20.4.108-beta"
             ]
         }
     },
@@ -1797,6 +1799,67 @@
             "mcversion": "1.20.1",
             "recommended": false,
             "version": "47.1.86"
+        },
+        "1.20.1-47.1.87": {
+            "artifact": "forge",
+            "build": 87,
+            "files": {
+                "changelog": {
+                    "artifact": "forge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "changelog.txt": {
+                    "artifact": "forge",
+                    "classifier": "changelog.txt",
+                    "extension": "asc"
+                },
+                "installer": {
+                    "artifact": "forge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "installer.jar": {
+                    "artifact": "forge",
+                    "classifier": "installer.jar",
+                    "extension": "asc"
+                },
+                "sources": {
+                    "artifact": "forge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "sources.jar": {
+                    "artifact": "forge",
+                    "classifier": "sources.jar",
+                    "extension": "asc"
+                },
+                "universal": {
+                    "artifact": "forge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "universal.jar": {
+                    "artifact": "forge",
+                    "classifier": "universal.jar",
+                    "extension": "asc"
+                },
+                "userdev": {
+                    "artifact": "forge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                },
+                "userdev.jar": {
+                    "artifact": "forge",
+                    "classifier": "userdev.jar",
+                    "extension": "asc"
+                }
+            },
+            "latest": false,
+            "longversion": "1.20.1-47.1.87",
+            "mcversion": "1.20.1",
+            "recommended": false,
+            "version": "47.1.87"
         },
         "1.20.1-47.1.9": {
             "artifact": "forge",
@@ -5455,6 +5518,68 @@
             "mcversion": "1.20.4",
             "recommended": false,
             "version": "107"
+        },
+        "20.4.108-beta": {
+            "artifact": "neoforge",
+            "branch": "beta",
+            "build": 108,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "changelog.txt": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog.txt",
+                    "extension": "asc"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "installer.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "installer.jar",
+                    "extension": "asc"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "sources.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "sources.jar",
+                    "extension": "asc"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "universal.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "universal.jar",
+                    "extension": "asc"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                },
+                "userdev.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev.jar",
+                    "extension": "asc"
+                }
+            },
+            "latest": false,
+            "longversion": "20.4.108-beta",
+            "mcversion": "1.20.4",
+            "recommended": false,
+            "version": "108"
         },
         "20.4.11-beta": {
             "artifact": "neoforge",
