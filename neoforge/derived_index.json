@@ -304,7 +304,8 @@
                 "20.4.157-beta",
                 "20.4.158-beta",
                 "20.4.159-beta",
-                "20.4.160-beta"
+                "20.4.160-beta",
+                "20.4.161-beta"
             ]
         }
     },
@@ -9821,6 +9822,68 @@
             "mcversion": "1.20.4",
             "recommended": false,
             "version": "160"
+        },
+        "20.4.161-beta": {
+            "artifact": "neoforge",
+            "branch": "beta",
+            "build": 161,
+            "files": {
+                "changelog": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog",
+                    "extension": "txt"
+                },
+                "changelog.txt": {
+                    "artifact": "neoforge",
+                    "classifier": "changelog.txt",
+                    "extension": "asc"
+                },
+                "installer": {
+                    "artifact": "neoforge",
+                    "classifier": "installer",
+                    "extension": "jar"
+                },
+                "installer.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "installer.jar",
+                    "extension": "asc"
+                },
+                "sources": {
+                    "artifact": "neoforge",
+                    "classifier": "sources",
+                    "extension": "jar"
+                },
+                "sources.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "sources.jar",
+                    "extension": "asc"
+                },
+                "universal": {
+                    "artifact": "neoforge",
+                    "classifier": "universal",
+                    "extension": "jar"
+                },
+                "universal.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "universal.jar",
+                    "extension": "asc"
+                },
+                "userdev": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev",
+                    "extension": "jar"
+                },
+                "userdev.jar": {
+                    "artifact": "neoforge",
+                    "classifier": "userdev.jar",
+                    "extension": "asc"
+                }
+            },
+            "latest": false,
+            "longversion": "20.4.161-beta",
+            "mcversion": "1.20.4",
+            "recommended": false,
+            "version": "161"
         },
         "20.4.17-beta": {
             "artifact": "neoforge",
