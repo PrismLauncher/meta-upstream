@@ -1,0 +1,42 @@
+[
+    {
+        "abi": "any",
+        "arch": "x86",
+        "archive_type": "zip",
+        "availability_type": "CA",
+        "build_date": "2019-03-29T22:24:00+00:00",
+        "certifications": [
+            "tck"
+        ],
+        "cpu_gen": [],
+        "distro_version": [
+            12,
+            1,
+            3,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu12.1.3-ca-jre12.0.0-win_x64.zip",
+        "hw_bitness": 64,
+        "java_package_type": "jre",
+        "java_version": [
+            12,
+            0,
+            0
+        ],
+        "javafx_bundled": false,
+        "last_modified": "2023-06-20T12:59:48+00:00",
+        "latest": true,
+        "md5_hash": "51a574b393f07571f6989efd5647bf6b",
+        "name": "zulu12.1.3-ca-jre12.0.0-win_x64.zip",
+        "openjdk_build_number": 33,
+        "os": "windows",
+        "package_uuid": "6dc51be4-dd4c-11ea-a8fe-fa163ed8e833",
+        "product": "zulu",
+        "release_status": "ga",
+        "release_type": "PSU",
+        "sha256_hash": "5eddaa5c4ba4480c3964476a064eabaddd59f81d636706528abfc19d62fbfd55",
+        "signatures": [],
+        "size": 43903200,
+        "support_term": "sts"
+    }
+]
