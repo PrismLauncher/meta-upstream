@@ -3,13 +3,13 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 186787,
+                "download_count": 186955,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "1e726c0ea2a8b25c2c75a8174df173dd54c98caa0235ef49d84a03292f152bfc",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_windows_hotspot_18.0.2.1_1.msi.sha256.txt",
-                    "download_count": 171517,
+                    "download_count": 171666,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_windows_hotspot_18.0.2.1_1.msi",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_windows_hotspot_18.0.2.1_1.msi.json",
                     "name": "OpenJDK18U-jre_x64_windows_hotspot_18.0.2.1_1.msi",
@@ -21,7 +21,7 @@
                 "package": {
                     "checksum": "ba7976e86e9a7e27542c7cf9d5081235e603a9be368b6cbd49673b417da544b1",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_windows_hotspot_18.0.2.1_1.zip.sha256.txt",
-                    "download_count": 15270,
+                    "download_count": 15289,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_windows_hotspot_18.0.2.1_1.zip",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_windows_hotspot_18.0.2.1_1.zip.json",
                     "name": "OpenJDK18U-jre_x64_windows_hotspot_18.0.2.1_1.zip",
@@ -34,13 +34,13 @@
             },
             {
                 "architecture": "x32",
-                "download_count": 54258,
+                "download_count": 54305,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "dfdd3b64d2d5ea56a9ba93c044b84e11e8a4a6d4b42f5dceb6ac904557e9df0e",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2.1_1.msi.sha256.txt",
-                    "download_count": 50719,
+                    "download_count": 50758,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2.1_1.msi",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2.1_1.msi.json",
                     "name": "OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2.1_1.msi",
@@ -52,7 +52,7 @@
                 "package": {
                     "checksum": "30a61d2f44633b3acdd9840720a686b657ec5704a4f96e399e7794ea5421952e",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2.1_1.zip.sha256.txt",
-                    "download_count": 3539,
+                    "download_count": 3547,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2.1_1.zip",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2.1_1.zip.json",
                     "name": "OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2.1_1.zip",
@@ -65,13 +65,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 75340,
+                "download_count": 75449,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "463971980ba318d884c1cf9b868033c896fc4afc487586a5176d38c9be41a9ac",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2.1_1.pkg.sha256.txt",
-                    "download_count": 72372,
+                    "download_count": 72473,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2.1_1.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2.1_1.pkg.json",
                     "name": "OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2.1_1.pkg",
@@ -83,7 +83,7 @@
                 "package": {
                     "checksum": "071f073efb9550838bc02e429ef972f9450b477360f803dd1cf19096ca41182e",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2.1_1.tar.gz.sha256.txt",
-                    "download_count": 2968,
+                    "download_count": 2976,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2.1_1.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2.1_1.tar.gz.json",
                     "name": "OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2.1_1.tar.gz",
@@ -96,13 +96,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 75295,
+                "download_count": 75405,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "6dff5638bbe2b2dd7ee85005dcd466f18b4e5b912aa28040211a8334d2605473",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_mac_hotspot_18.0.2.1_1.pkg.sha256.txt",
-                    "download_count": 72242,
+                    "download_count": 72345,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_mac_hotspot_18.0.2.1_1.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_mac_hotspot_18.0.2.1_1.pkg.json",
                     "name": "OpenJDK18U-jre_x64_mac_hotspot_18.0.2.1_1.pkg",
@@ -114,7 +114,7 @@
                 "package": {
                     "checksum": "3629e3dc9dbab7ed13070fbea3a827030acdd62afa557496e88a6d01f9300474",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_mac_hotspot_18.0.2.1_1.tar.gz.sha256.txt",
-                    "download_count": 3053,
+                    "download_count": 3060,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_mac_hotspot_18.0.2.1_1.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_mac_hotspot_18.0.2.1_1.tar.gz.json",
                     "name": "OpenJDK18U-jre_x64_mac_hotspot_18.0.2.1_1.tar.gz",
@@ -127,7 +127,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 5609,
+                "download_count": 5617,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -135,7 +135,7 @@
                 "package": {
                     "checksum": "e11e00438c2f6f79f86ff1ca2b015913b0e16bd9491953a082d5c786402cb50a",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_aarch64_linux_hotspot_18.0.2.1_1.tar.gz.sha256.txt",
-                    "download_count": 5609,
+                    "download_count": 5617,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_aarch64_linux_hotspot_18.0.2.1_1.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_aarch64_linux_hotspot_18.0.2.1_1.tar.gz.json",
                     "name": "OpenJDK18U-jre_aarch64_linux_hotspot_18.0.2.1_1.tar.gz",
@@ -148,7 +148,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 2823,
+                "download_count": 2832,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -156,7 +156,7 @@
                 "package": {
                     "checksum": "52bc6f5420ae46e8b9868c63c1d9b5af77d21ef5bda413617b2ad3fbb6b6c64a",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_s390x_linux_hotspot_18.0.2.1_1.tar.gz.sha256.txt",
-                    "download_count": 2823,
+                    "download_count": 2832,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_s390x_linux_hotspot_18.0.2.1_1.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_s390x_linux_hotspot_18.0.2.1_1.tar.gz.json",
                     "name": "OpenJDK18U-jre_s390x_linux_hotspot_18.0.2.1_1.tar.gz",
@@ -169,7 +169,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 187835,
+                "download_count": 188429,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -177,7 +177,7 @@
                 "package": {
                     "checksum": "74f602ab5abaa554859a5e92a65e5bb6e23c2d4165228299c7f54ed56dbc5959",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_linux_hotspot_18.0.2.1_1.tar.gz.sha256.txt",
-                    "download_count": 187835,
+                    "download_count": 188429,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_linux_hotspot_18.0.2.1_1.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_linux_hotspot_18.0.2.1_1.tar.gz.json",
                     "name": "OpenJDK18U-jre_x64_linux_hotspot_18.0.2.1_1.tar.gz",
@@ -190,7 +190,7 @@
             },
             {
                 "architecture": "arm",
-                "download_count": 3196,
+                "download_count": 3206,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -198,7 +198,7 @@
                 "package": {
                     "checksum": "0ae7281fa883de0d39a75b39bfbbcec1d2a5f8ed8691af12226962ce1a761cd7",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_arm_linux_hotspot_18.0.2.1_1.tar.gz.sha256.txt",
-                    "download_count": 3196,
+                    "download_count": 3206,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_arm_linux_hotspot_18.0.2.1_1.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_arm_linux_hotspot_18.0.2.1_1.tar.gz.json",
                     "name": "OpenJDK18U-jre_arm_linux_hotspot_18.0.2.1_1.tar.gz",
@@ -211,7 +211,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 2811,
+                "download_count": 2818,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -219,7 +219,7 @@
                 "package": {
                     "checksum": "2298504c99b4c15f620f70415215e481766d2b2f784d066206eed8c583922f8f",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_ppc64le_linux_hotspot_18.0.2.1_1.tar.gz.sha256.txt",
-                    "download_count": 2811,
+                    "download_count": 2818,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_ppc64le_linux_hotspot_18.0.2.1_1.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_ppc64le_linux_hotspot_18.0.2.1_1.tar.gz.json",
                     "name": "OpenJDK18U-jre_ppc64le_linux_hotspot_18.0.2.1_1.tar.gz",
@@ -232,7 +232,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 4155,
+                "download_count": 4167,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -240,7 +240,7 @@
                 "package": {
                     "checksum": "ad23309a82e690f769037b1e6417022f588702d214da533289f116bba0f61f4e",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_alpine-linux_hotspot_18.0.2.1_1.tar.gz.sha256.txt",
-                    "download_count": 4155,
+                    "download_count": 4167,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_alpine-linux_hotspot_18.0.2.1_1.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2.1%2B1/OpenJDK18U-jre_x64_alpine-linux_hotspot_18.0.2.1_1.tar.gz.json",
                     "name": "OpenJDK18U-jre_x64_alpine-linux_hotspot_18.0.2.1_1.tar.gz",
@@ -252,7 +252,7 @@
                 "updated_at": "2022-08-27T13:50:03+00:00"
             }
         ],
-        "download_count": 2582325,
+        "download_count": 2586567,
         "id": "RE_kwDOFmqclc4Ef8lX.CIv22Gyj+GF48g==",
         "release_link": "https://github.com/adoptium/temurin18-binaries/releases/tag/jdk-18.0.2.1%2B1",
         "release_name": "jdk-18.0.2.1+1",
@@ -284,7 +284,7 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 9524,
+                "download_count": 9533,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -292,7 +292,7 @@
                 "package": {
                     "checksum": "efcfe9206ce467a0a197463283e74621f4ba037994d29606c572766945a01a91",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_linux_hotspot_18.0.2_9.tar.gz.sha256.txt",
-                    "download_count": 9524,
+                    "download_count": 9533,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_linux_hotspot_18.0.2_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_linux_hotspot_18.0.2_9.tar.gz.json",
                     "name": "OpenJDK18U-jre_x64_linux_hotspot_18.0.2_9.tar.gz",
@@ -305,7 +305,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 2803,
+                "download_count": 2812,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -313,7 +313,7 @@
                 "package": {
                     "checksum": "b084a373f3d4a8735f10a68cf2e73ff5c454162c62dd1bd268265b22ae1d8818",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_ppc64le_linux_hotspot_18.0.2_9.tar.gz.sha256.txt",
-                    "download_count": 2803,
+                    "download_count": 2812,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_ppc64le_linux_hotspot_18.0.2_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_ppc64le_linux_hotspot_18.0.2_9.tar.gz.json",
                     "name": "OpenJDK18U-jre_ppc64le_linux_hotspot_18.0.2_9.tar.gz",
@@ -326,13 +326,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 49904,
+                "download_count": 49945,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "5a29dbdbdfff80c24a02aa6ee239f36a1891efc4c07e80ebb238d2f9b6cdb0a8",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_windows_hotspot_18.0.2_9.msi.sha256.txt",
-                    "download_count": 46159,
+                    "download_count": 46191,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_windows_hotspot_18.0.2_9.msi",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_windows_hotspot_18.0.2_9.msi.json",
                     "name": "OpenJDK18U-jre_x64_windows_hotspot_18.0.2_9.msi",
@@ -344,7 +344,7 @@
                 "package": {
                     "checksum": "ef3794f25a02b513416c37bf4087c37a6c57a504b19820a8fa4f80d7651a27f9",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_windows_hotspot_18.0.2_9.zip.sha256.txt",
-                    "download_count": 3745,
+                    "download_count": 3754,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_windows_hotspot_18.0.2_9.zip",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_windows_hotspot_18.0.2_9.zip.json",
                     "name": "OpenJDK18U-jre_x64_windows_hotspot_18.0.2_9.zip",
@@ -357,7 +357,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 2916,
+                "download_count": 2924,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -365,7 +365,7 @@
                 "package": {
                     "checksum": "bc9bb8cebd403ef67ca727e05f5bd046ffc8421538fb1ba0a3634c6ec97eda49",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_alpine-linux_hotspot_18.0.2_9.tar.gz.sha256.txt",
-                    "download_count": 2916,
+                    "download_count": 2924,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_alpine-linux_hotspot_18.0.2_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_alpine-linux_hotspot_18.0.2_9.tar.gz.json",
                     "name": "OpenJDK18U-jre_x64_alpine-linux_hotspot_18.0.2_9.tar.gz",
@@ -378,7 +378,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 3242,
+                "download_count": 3251,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -386,7 +386,7 @@
                 "package": {
                     "checksum": "b95934d11105c5a99a8bf087fdfc28a8a644b4265b6cf7518d70404a4dc82da2",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_aarch64_linux_hotspot_18.0.2_9.tar.gz.sha256.txt",
-                    "download_count": 3242,
+                    "download_count": 3251,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_aarch64_linux_hotspot_18.0.2_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_aarch64_linux_hotspot_18.0.2_9.tar.gz.json",
                     "name": "OpenJDK18U-jre_aarch64_linux_hotspot_18.0.2_9.tar.gz",
@@ -399,7 +399,7 @@
             },
             {
                 "architecture": "arm",
-                "download_count": 3166,
+                "download_count": 3174,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -407,7 +407,7 @@
                 "package": {
                     "checksum": "bec2d075e81e4732835f71b7ea5c91b4a42e7b7d38b99ab845f76b421cc0b00e",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_arm_linux_hotspot_18.0.2_9.tar.gz.sha256.txt",
-                    "download_count": 3166,
+                    "download_count": 3174,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_arm_linux_hotspot_18.0.2_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_arm_linux_hotspot_18.0.2_9.tar.gz.json",
                     "name": "OpenJDK18U-jre_arm_linux_hotspot_18.0.2_9.tar.gz",
@@ -420,13 +420,13 @@
             },
             {
                 "architecture": "x32",
-                "download_count": 42727,
+                "download_count": 42767,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "f50ebcf0f0e5f89bfb37794f08832639a73df00c9d838888e76104ee2ab85938",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2_9.msi.sha256.txt",
-                    "download_count": 39897,
+                    "download_count": 39929,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2_9.msi",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2_9.msi.json",
                     "name": "OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2_9.msi",
@@ -438,7 +438,7 @@
                 "package": {
                     "checksum": "053d1df0ec134d23c0fccaf5b2dbcaeac3ea59f05ca4fc12898de617086e0f53",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2_9.zip.sha256.txt",
-                    "download_count": 2830,
+                    "download_count": 2838,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2_9.zip",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2_9.zip.json",
                     "name": "OpenJDK18U-jre_x86-32_windows_hotspot_18.0.2_9.zip",
@@ -451,7 +451,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 2768,
+                "download_count": 2776,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -459,7 +459,7 @@
                 "package": {
                     "checksum": "67de23a526b4feda63d87dc57b6755beb997e3231017ab1cd70ef9193637979a",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_s390x_linux_hotspot_18.0.2_9.tar.gz.sha256.txt",
-                    "download_count": 2768,
+                    "download_count": 2776,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_s390x_linux_hotspot_18.0.2_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_s390x_linux_hotspot_18.0.2_9.tar.gz.json",
                     "name": "OpenJDK18U-jre_s390x_linux_hotspot_18.0.2_9.tar.gz",
@@ -472,13 +472,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 41298,
+                "download_count": 41337,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "1666b820449a943fa7cb97606d8f898c3baca3fc59e50e359e6ec7b9c8f688ad",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2_9.pkg.sha256.txt",
-                    "download_count": 38495,
+                    "download_count": 38526,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2_9.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2_9.pkg.json",
                     "name": "OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2_9.pkg",
@@ -490,7 +490,7 @@
                 "package": {
                     "checksum": "30b71a4a963688fbe3baee7dab133b62fa6e85753e238ff5313b1b7d10f878d9",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2_9.tar.gz.sha256.txt",
-                    "download_count": 2803,
+                    "download_count": 2811,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2_9.tar.gz.json",
                     "name": "OpenJDK18U-jre_aarch64_mac_hotspot_18.0.2_9.tar.gz",
@@ -503,13 +503,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 39801,
+                "download_count": 39840,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "afc1d12aac86b3292b021b10fac482c990ffb9d19176d3acfb40e4ecf50758bb",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_mac_hotspot_18.0.2_9.pkg.sha256.txt",
-                    "download_count": 37017,
+                    "download_count": 37048,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_mac_hotspot_18.0.2_9.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_mac_hotspot_18.0.2_9.pkg.json",
                     "name": "OpenJDK18U-jre_x64_mac_hotspot_18.0.2_9.pkg",
@@ -521,7 +521,7 @@
                 "package": {
                     "checksum": "03e03b396cf1b5342aa9fa4d5caf7d7680baf8ba1478c2c1f4517affc827c309",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_mac_hotspot_18.0.2_9.tar.gz.sha256.txt",
-                    "download_count": 2784,
+                    "download_count": 2792,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_mac_hotspot_18.0.2_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jre_x64_mac_hotspot_18.0.2_9.tar.gz.json",
                     "name": "OpenJDK18U-jre_x64_mac_hotspot_18.0.2_9.tar.gz",
@@ -533,7 +533,7 @@
                 "updated_at": "2022-08-14T11:37:09+00:00"
             }
         ],
-        "download_count": 518735,
+        "download_count": 519344,
         "id": "MDc6UmVsZWFzZTcyNjUxNDU5.Zkm1PwdbTIaCvA==",
         "release_link": "https://github.com/adoptium/temurin18-binaries/releases/tag/jdk-18.0.2%2B9",
         "release_name": "jdk-18.0.2+9",
@@ -559,7 +559,7 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 17813,
+                "download_count": 17822,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -567,7 +567,7 @@
                 "package": {
                     "checksum": "67c2cea6040b12c125bb1bea74b3eeb42c94072713b152b720e50c897b946ffa",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_linux_hotspot_18.0.1_10.tar.gz.sha256.txt",
-                    "download_count": 17813,
+                    "download_count": 17822,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_linux_hotspot_18.0.1_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_linux_hotspot_18.0.1_10.tar.gz.json",
                     "name": "OpenJDK18U-jre_x64_linux_hotspot_18.0.1_10.tar.gz",
@@ -579,13 +579,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 68743,
+                "download_count": 68783,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "75a0749dfdec3f7238b0ba2572ff9b2f7debbb56710531b960d60769b1b070f5",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_windows_hotspot_18.0.1_10.msi.sha256.txt",
-                    "download_count": 62446,
+                    "download_count": 62478,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_windows_hotspot_18.0.1_10.msi",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_windows_hotspot_18.0.1_10.msi.json",
                     "name": "OpenJDK18U-jre_x64_windows_hotspot_18.0.1_10.msi",
@@ -596,7 +596,7 @@
                 "package": {
                     "checksum": "6e6aa724c04ecd22ce60717c496710ff4745195660becb307a94093cf01f7d2f",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_windows_hotspot_18.0.1_10.zip.sha256.txt",
-                    "download_count": 6297,
+                    "download_count": 6305,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_windows_hotspot_18.0.1_10.zip",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_windows_hotspot_18.0.1_10.zip.json",
                     "name": "OpenJDK18U-jre_x64_windows_hotspot_18.0.1_10.zip",
@@ -608,13 +608,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 52359,
+                "download_count": 52398,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "a601b1b7f78d0c0abe8e76eeef1ec42cec97fb6bf79f31cd78c5454e25f0edbd",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_mac_hotspot_18.0.1_10.pkg.sha256.txt",
-                    "download_count": 49213,
+                    "download_count": 49244,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_mac_hotspot_18.0.1_10.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_mac_hotspot_18.0.1_10.pkg.json",
                     "name": "OpenJDK18U-jre_x64_mac_hotspot_18.0.1_10.pkg",
@@ -625,7 +625,7 @@
                 "package": {
                     "checksum": "77586251f1b8987c9a332a8da4e228c09922f586c0946f12ed980462e46b951b",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_mac_hotspot_18.0.1_10.tar.gz.sha256.txt",
-                    "download_count": 3146,
+                    "download_count": 3154,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_mac_hotspot_18.0.1_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_mac_hotspot_18.0.1_10.tar.gz.json",
                     "name": "OpenJDK18U-jre_x64_mac_hotspot_18.0.1_10.tar.gz",
@@ -637,7 +637,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 3870,
+                "download_count": 3877,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -645,7 +645,7 @@
                 "package": {
                     "checksum": "cacb261967585ccd3eefe9a44f277b23aaa0b60772589ac220f03941c2bcdad1",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_aarch64_linux_hotspot_18.0.1_10.tar.gz.sha256.txt",
-                    "download_count": 3870,
+                    "download_count": 3877,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_aarch64_linux_hotspot_18.0.1_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_aarch64_linux_hotspot_18.0.1_10.tar.gz.json",
                     "name": "OpenJDK18U-jre_aarch64_linux_hotspot_18.0.1_10.tar.gz",
@@ -657,7 +657,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 3012,
+                "download_count": 3021,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -665,7 +665,7 @@
                 "package": {
                     "checksum": "3b43c2a662a88054886c7a89696248c0c99927fe97750c5e7690eddba4fb9645",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_ppc64le_linux_hotspot_18.0.1_10.tar.gz.sha256.txt",
-                    "download_count": 3012,
+                    "download_count": 3021,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_ppc64le_linux_hotspot_18.0.1_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_ppc64le_linux_hotspot_18.0.1_10.tar.gz.json",
                     "name": "OpenJDK18U-jre_ppc64le_linux_hotspot_18.0.1_10.tar.gz",
@@ -677,7 +677,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 3339,
+                "download_count": 3348,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -685,7 +685,7 @@
                 "package": {
                     "checksum": "4362a13e81456ce66bc0f8c057e9ce964267a357573d5ccd15e9c955619c68f3",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_alpine-linux_hotspot_18.0.1_10.tar.gz.sha256.txt",
-                    "download_count": 3339,
+                    "download_count": 3348,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_alpine-linux_hotspot_18.0.1_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x64_alpine-linux_hotspot_18.0.1_10.tar.gz.json",
                     "name": "OpenJDK18U-jre_x64_alpine-linux_hotspot_18.0.1_10.tar.gz",
@@ -697,7 +697,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 3054,
+                "download_count": 3061,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -705,7 +705,7 @@
                 "package": {
                     "checksum": "c9fb7c6fb110ad2e6ffaae9a8c3b8ea51098f98c60eaa1a0fcb0019c980227ab",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_s390x_linux_hotspot_18.0.1_10.tar.gz.sha256.txt",
-                    "download_count": 3054,
+                    "download_count": 3061,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_s390x_linux_hotspot_18.0.1_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_s390x_linux_hotspot_18.0.1_10.tar.gz.json",
                     "name": "OpenJDK18U-jre_s390x_linux_hotspot_18.0.1_10.tar.gz",
@@ -717,7 +717,7 @@
             },
             {
                 "architecture": "arm",
-                "download_count": 3147,
+                "download_count": 3155,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -725,7 +725,7 @@
                 "package": {
                     "checksum": "24ec0eb692e30c7055cc863e4f47aa9cec2c069849f09b227adb14c87a70e8e7",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_arm_linux_hotspot_18.0.1_10.tar.gz.sha256.txt",
-                    "download_count": 3147,
+                    "download_count": 3155,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_arm_linux_hotspot_18.0.1_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_arm_linux_hotspot_18.0.1_10.tar.gz.json",
                     "name": "OpenJDK18U-jre_arm_linux_hotspot_18.0.1_10.tar.gz",
@@ -737,13 +737,13 @@
             },
             {
                 "architecture": "x32",
-                "download_count": 53703,
+                "download_count": 53743,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "212440f89b9093529c94942a5772150e0ce5b8a9d02878354ca7519fc9946b94",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.1_10.msi.sha256.txt",
-                    "download_count": 50531,
+                    "download_count": 50563,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.1_10.msi",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.1_10.msi.json",
                     "name": "OpenJDK18U-jre_x86-32_windows_hotspot_18.0.1_10.msi",
@@ -754,7 +754,7 @@
                 "package": {
                     "checksum": "aba055687482af36865b19a0073d3ef471273e6c39f808f3c5517e4ff1b9fea0",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.1_10.zip.sha256.txt",
-                    "download_count": 3172,
+                    "download_count": 3180,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.1_10.zip",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_x86-32_windows_hotspot_18.0.1_10.zip.json",
                     "name": "OpenJDK18U-jre_x86-32_windows_hotspot_18.0.1_10.zip",
@@ -766,13 +766,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 50152,
+                "download_count": 50190,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "d50169fa9edb97a41cc65eb65fed0fefd72044fc464a78e0fd43dafc2672107e",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.1_10.pkg.sha256.txt",
-                    "download_count": 47058,
+                    "download_count": 47089,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.1_10.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.1_10.pkg.json",
                     "name": "OpenJDK18U-jre_aarch64_mac_hotspot_18.0.1_10.pkg",
@@ -783,7 +783,7 @@
                 "package": {
                     "checksum": "48ccacbd585bc7a3fb750886476ca061886e6b25b2bff1714d5cc72a0923febd",
                     "checksum_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.1_10.tar.gz.sha256.txt",
-                    "download_count": 3094,
+                    "download_count": 3101,
                     "link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.1_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jre_aarch64_mac_hotspot_18.0.1_10.tar.gz.json",
                     "name": "OpenJDK18U-jre_aarch64_mac_hotspot_18.0.1_10.tar.gz",
@@ -794,7 +794,7 @@
                 "updated_at": "2022-05-13T09:54:02+00:00"
             }
         ],
-        "download_count": 1629492,
+        "download_count": 1630677,
         "id": "MDc6UmVsZWFzZTY1MDg2NjQw.BcRnWUpM6E9uyA==",
         "release_link": "https://github.com/adoptium/temurin18-binaries/releases/tag/jdk-18.0.1%2B10",
         "release_name": "jdk-18.0.1+10",
