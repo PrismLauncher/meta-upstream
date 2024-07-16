@@ -3,80 +3,120 @@
         "availability_type": "CA",
         "distro_version": [
             22,
-            30,
-            13,
+            32,
+            15,
             0
         ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu22.30.13-ca-jre22.0.1-macosx_x64.zip",
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu22.32.15-ca-jre22.0.2-macosx_x64.zip",
         "java_version": [
             22,
             0,
-            1
+            2
         ],
         "latest": true,
-        "name": "zulu22.30.13-ca-jre22.0.1-macosx_x64.zip",
-        "openjdk_build_number": 8,
-        "package_uuid": "d81b657c-9b3d-4716-a609-9a9b61e6adb9",
+        "name": "zulu22.32.15-ca-jre22.0.2-macosx_x64.zip",
+        "openjdk_build_number": 9,
+        "package_uuid": "d739fd48-c871-4cb3-8065-cec2ff9d1c40",
         "product": "zulu"
     },
     {
         "availability_type": "CA",
         "distro_version": [
             22,
-            30,
-            13,
+            32,
+            15,
             0
         ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu22.30.13-ca-jre22.0.1-macosx_aarch64.zip",
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu22.32.15-ca-jre22.0.2-macosx_aarch64.zip",
         "java_version": [
             22,
             0,
-            1
+            2
         ],
         "latest": true,
-        "name": "zulu22.30.13-ca-jre22.0.1-macosx_aarch64.zip",
-        "openjdk_build_number": 8,
-        "package_uuid": "ab954d5c-827d-4596-8376-1e2078c9ab98",
+        "name": "zulu22.32.15-ca-jre22.0.2-macosx_aarch64.zip",
+        "openjdk_build_number": 9,
+        "package_uuid": "693445c1-9867-4803-84fb-15226a7a7b20",
         "product": "zulu"
     },
     {
         "availability_type": "CA",
         "distro_version": [
             22,
-            30,
-            13,
+            32,
+            15,
             0
         ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu22.30.13-ca-jre22.0.1-win_x64.zip",
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu22.32.15-ca-jre22.0.2-win_x64.zip",
         "java_version": [
             22,
             0,
-            1
+            2
         ],
         "latest": true,
-        "name": "zulu22.30.13-ca-jre22.0.1-win_x64.zip",
-        "openjdk_build_number": 8,
-        "package_uuid": "e3e5c8ff-32f3-4c23-9472-728c3360bdaa",
+        "name": "zulu22.32.15-ca-jre22.0.2-win_x64.zip",
+        "openjdk_build_number": 9,
+        "package_uuid": "8d91460e-0fdb-4de4-a8dc-be94c4954c7a",
         "product": "zulu"
     },
     {
         "availability_type": "CA",
         "distro_version": [
             22,
-            30,
-            13,
+            32,
+            15,
             0
         ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu22.30.13-ca-jre22.0.1-linux_x64.zip",
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu22.32.15-ca-jre22.0.2-linux_x64.zip",
         "java_version": [
             22,
             0,
-            1
+            2
         ],
         "latest": true,
-        "name": "zulu22.30.13-ca-jre22.0.1-linux_x64.zip",
-        "openjdk_build_number": 8,
-        "package_uuid": "715fe25c-d70f-4bb6-b294-978d4489424f",
+        "name": "zulu22.32.15-ca-jre22.0.2-linux_x64.zip",
+        "openjdk_build_number": 9,
+        "package_uuid": "977851b6-fe42-4520-90e9-a18180aae37a",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            21,
+            36,
+            17,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu21.36.17-ca-jre21.0.4-win_x64.zip",
+        "java_version": [
+            21,
+            0,
+            4
+        ],
+        "latest": true,
+        "name": "zulu21.36.17-ca-jre21.0.4-win_x64.zip",
+        "openjdk_build_number": 7,
+        "package_uuid": "8e1f985b-b861-4552-b6b2-8ab6e8112e49",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            21,
+            36,
+            17,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu21.36.17-ca-jre21.0.4-linux_x64.zip",
+        "java_version": [
+            21,
+            0,
+            4
+        ],
+        "latest": true,
+        "name": "zulu21.36.17-ca-jre21.0.4-linux_x64.zip",
+        "openjdk_build_number": 7,
+        "package_uuid": "611f0e4e-80eb-4135-a45b-ce3270060366",
         "product": "zulu"
     },
     {
@@ -117,46 +157,6 @@
         "name": "zulu21.34.19-ca-jre21.0.3-macosx_aarch64.zip",
         "openjdk_build_number": 9,
         "package_uuid": "82d44ab9-8b0d-4d4f-9aa2-f1831a3a7326",
-        "product": "zulu"
-    },
-    {
-        "availability_type": "CA",
-        "distro_version": [
-            21,
-            34,
-            19,
-            0
-        ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jre21.0.3-win_x64.zip",
-        "java_version": [
-            21,
-            0,
-            3
-        ],
-        "latest": true,
-        "name": "zulu21.34.19-ca-jre21.0.3-win_x64.zip",
-        "openjdk_build_number": 9,
-        "package_uuid": "cd8c425e-8c4a-4dfa-832b-be834ea020f3",
-        "product": "zulu"
-    },
-    {
-        "availability_type": "CA",
-        "distro_version": [
-            21,
-            34,
-            19,
-            0
-        ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu21.34.19-ca-jre21.0.3-linux_x64.zip",
-        "java_version": [
-            21,
-            0,
-            3
-        ],
-        "latest": true,
-        "name": "zulu21.34.19-ca-jre21.0.3-linux_x64.zip",
-        "openjdk_build_number": 9,
-        "package_uuid": "e965ea37-e664-4b9d-9164-8100a464d2c3",
         "product": "zulu"
     },
     {
@@ -569,6 +569,86 @@
         "availability_type": "CA",
         "distro_version": [
             17,
+            52,
+            17,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu17.52.17-ca-jre17.0.12-linux_x64.zip",
+        "java_version": [
+            17,
+            0,
+            12
+        ],
+        "latest": true,
+        "name": "zulu17.52.17-ca-jre17.0.12-linux_x64.zip",
+        "openjdk_build_number": 7,
+        "package_uuid": "b3f0e022-3d88-4e40-94d6-e691e223d6d2",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            17,
+            52,
+            17,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu17.52.17-ca-jre17.0.12-linux_i686.zip",
+        "java_version": [
+            17,
+            0,
+            12
+        ],
+        "latest": true,
+        "name": "zulu17.52.17-ca-jre17.0.12-linux_i686.zip",
+        "openjdk_build_number": 7,
+        "package_uuid": "9e06c745-188d-4cd7-b990-b6f82c94441f",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            17,
+            52,
+            17,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu17.52.17-ca-jre17.0.12-win_x64.zip",
+        "java_version": [
+            17,
+            0,
+            12
+        ],
+        "latest": true,
+        "name": "zulu17.52.17-ca-jre17.0.12-win_x64.zip",
+        "openjdk_build_number": 7,
+        "package_uuid": "1b32dc07-bc42-4f79-bd2a-756f3545ba53",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            17,
+            52,
+            17,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu17.52.17-ca-jre17.0.12-win_i686.zip",
+        "java_version": [
+            17,
+            0,
+            12
+        ],
+        "latest": true,
+        "name": "zulu17.52.17-ca-jre17.0.12-win_i686.zip",
+        "openjdk_build_number": 7,
+        "package_uuid": "211410f6-d747-4b96-ba19-8310ac5f5e56",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            17,
             50,
             19,
             0
@@ -603,86 +683,6 @@
         "name": "zulu17.50.19-ca-jre17.0.11-macosx_aarch64.zip",
         "openjdk_build_number": 9,
         "package_uuid": "a0238616-4d77-405a-8fde-caeb99e48d7d",
-        "product": "zulu"
-    },
-    {
-        "availability_type": "CA",
-        "distro_version": [
-            17,
-            50,
-            19,
-            0
-        ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu17.50.19-ca-jre17.0.11-linux_x64.zip",
-        "java_version": [
-            17,
-            0,
-            11
-        ],
-        "latest": true,
-        "name": "zulu17.50.19-ca-jre17.0.11-linux_x64.zip",
-        "openjdk_build_number": 9,
-        "package_uuid": "61008190-afa5-4881-9e99-37f617f71998",
-        "product": "zulu"
-    },
-    {
-        "availability_type": "CA",
-        "distro_version": [
-            17,
-            50,
-            19,
-            0
-        ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu17.50.19-ca-jre17.0.11-linux_i686.zip",
-        "java_version": [
-            17,
-            0,
-            11
-        ],
-        "latest": true,
-        "name": "zulu17.50.19-ca-jre17.0.11-linux_i686.zip",
-        "openjdk_build_number": 9,
-        "package_uuid": "ef3d64d0-93cf-49d7-b27b-49ed75ade7c0",
-        "product": "zulu"
-    },
-    {
-        "availability_type": "CA",
-        "distro_version": [
-            17,
-            50,
-            19,
-            0
-        ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu17.50.19-ca-jre17.0.11-win_x64.zip",
-        "java_version": [
-            17,
-            0,
-            11
-        ],
-        "latest": true,
-        "name": "zulu17.50.19-ca-jre17.0.11-win_x64.zip",
-        "openjdk_build_number": 9,
-        "package_uuid": "2941d020-d026-49b3-92fa-a7101fd02e0c",
-        "product": "zulu"
-    },
-    {
-        "availability_type": "CA",
-        "distro_version": [
-            17,
-            50,
-            19,
-            0
-        ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu17.50.19-ca-jre17.0.11-win_i686.zip",
-        "java_version": [
-            17,
-            0,
-            11
-        ],
-        "latest": true,
-        "name": "zulu17.50.19-ca-jre17.0.11-win_i686.zip",
-        "openjdk_build_number": 9,
-        "package_uuid": "9134dc2f-adfa-4c2b-90d6-26eecabc413a",
         "product": "zulu"
     },
     {
@@ -1149,6 +1149,126 @@
         "availability_type": "CA",
         "distro_version": [
             11,
+            74,
+            15,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu11.74.15-ca-jre11.0.24-linux_x64.zip",
+        "java_version": [
+            11,
+            0,
+            24
+        ],
+        "latest": true,
+        "name": "zulu11.74.15-ca-jre11.0.24-linux_x64.zip",
+        "openjdk_build_number": 8,
+        "package_uuid": "bd20f6db-2cfc-422c-a0e8-9507618afeb5",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            11,
+            74,
+            15,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu11.74.15-ca-jre11.0.24-linux_i686.zip",
+        "java_version": [
+            11,
+            0,
+            24
+        ],
+        "latest": true,
+        "name": "zulu11.74.15-ca-jre11.0.24-linux_i686.zip",
+        "openjdk_build_number": 8,
+        "package_uuid": "8f44f660-97de-4c08-85a7-37372ec896e9",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            11,
+            74,
+            15,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu11.74.15-ca-jre11.0.24-win_x64.zip",
+        "java_version": [
+            11,
+            0,
+            24
+        ],
+        "latest": true,
+        "name": "zulu11.74.15-ca-jre11.0.24-win_x64.zip",
+        "openjdk_build_number": 8,
+        "package_uuid": "e5d86c51-703c-4ca8-b194-9f6622e1989d",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            11,
+            74,
+            15,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu11.74.15-ca-jre11.0.24-win_i686.zip",
+        "java_version": [
+            11,
+            0,
+            24
+        ],
+        "latest": true,
+        "name": "zulu11.74.15-ca-jre11.0.24-win_i686.zip",
+        "openjdk_build_number": 8,
+        "package_uuid": "482d208d-a79f-4bca-82a2-2b24cfb44f86",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            11,
+            74,
+            15,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu11.74.15-ca-jre11.0.24-solaris_x64.zip",
+        "java_version": [
+            11,
+            0,
+            24
+        ],
+        "latest": true,
+        "name": "zulu11.74.15-ca-jre11.0.24-solaris_x64.zip",
+        "openjdk_build_number": 8,
+        "package_uuid": "7a7cc86e-1f85-47bb-a7e1-de034fe0fa12",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            11,
+            74,
+            15,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu11.74.15-ca-jre11.0.24-solaris_sparcv9.zip",
+        "java_version": [
+            11,
+            0,
+            24
+        ],
+        "latest": true,
+        "name": "zulu11.74.15-ca-jre11.0.24-solaris_sparcv9.zip",
+        "openjdk_build_number": 8,
+        "package_uuid": "879e99fc-b82d-442e-ac1b-5ea639676c67",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            11,
             72,
             19,
             0
@@ -1183,126 +1303,6 @@
         "name": "zulu11.72.19-ca-jre11.0.23-macosx_aarch64.zip",
         "openjdk_build_number": 9,
         "package_uuid": "2bb3fb6a-f9ba-4ffd-8dac-7e4f016ff789",
-        "product": "zulu"
-    },
-    {
-        "availability_type": "CA",
-        "distro_version": [
-            11,
-            72,
-            19,
-            0
-        ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu11.72.19-ca-jre11.0.23-linux_x64.zip",
-        "java_version": [
-            11,
-            0,
-            23
-        ],
-        "latest": true,
-        "name": "zulu11.72.19-ca-jre11.0.23-linux_x64.zip",
-        "openjdk_build_number": 9,
-        "package_uuid": "1a6a021d-a9a3-486f-9701-26a0fdc591e2",
-        "product": "zulu"
-    },
-    {
-        "availability_type": "CA",
-        "distro_version": [
-            11,
-            72,
-            19,
-            0
-        ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu11.72.19-ca-jre11.0.23-linux_i686.zip",
-        "java_version": [
-            11,
-            0,
-            23
-        ],
-        "latest": true,
-        "name": "zulu11.72.19-ca-jre11.0.23-linux_i686.zip",
-        "openjdk_build_number": 9,
-        "package_uuid": "1ca4277e-8d04-495f-94f7-20116650fc55",
-        "product": "zulu"
-    },
-    {
-        "availability_type": "CA",
-        "distro_version": [
-            11,
-            72,
-            19,
-            0
-        ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu11.72.19-ca-jre11.0.23-solaris_x64.zip",
-        "java_version": [
-            11,
-            0,
-            23
-        ],
-        "latest": true,
-        "name": "zulu11.72.19-ca-jre11.0.23-solaris_x64.zip",
-        "openjdk_build_number": 9,
-        "package_uuid": "05c508ee-490f-4bbb-bdba-ee44a1e6e733",
-        "product": "zulu"
-    },
-    {
-        "availability_type": "CA",
-        "distro_version": [
-            11,
-            72,
-            19,
-            0
-        ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu11.72.19-ca-jre11.0.23-solaris_sparcv9.zip",
-        "java_version": [
-            11,
-            0,
-            23
-        ],
-        "latest": true,
-        "name": "zulu11.72.19-ca-jre11.0.23-solaris_sparcv9.zip",
-        "openjdk_build_number": 9,
-        "package_uuid": "04219374-2941-4ded-992b-f946b3f0f579",
-        "product": "zulu"
-    },
-    {
-        "availability_type": "CA",
-        "distro_version": [
-            11,
-            72,
-            19,
-            0
-        ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu11.72.19-ca-jre11.0.23-win_x64.zip",
-        "java_version": [
-            11,
-            0,
-            23
-        ],
-        "latest": true,
-        "name": "zulu11.72.19-ca-jre11.0.23-win_x64.zip",
-        "openjdk_build_number": 9,
-        "package_uuid": "4ff159c2-55ef-44a0-8063-1001b889a9b7",
-        "product": "zulu"
-    },
-    {
-        "availability_type": "CA",
-        "distro_version": [
-            11,
-            72,
-            19,
-            0
-        ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu11.72.19-ca-jre11.0.23-win_i686.zip",
-        "java_version": [
-            11,
-            0,
-            23
-        ],
-        "latest": true,
-        "name": "zulu11.72.19-ca-jre11.0.23-win_i686.zip",
-        "openjdk_build_number": 9,
-        "package_uuid": "8722059a-366e-4be1-9e23-387ec727078c",
         "product": "zulu"
     },
     {
@@ -1408,120 +1408,120 @@
         "availability_type": "CA",
         "distro_version": [
             8,
-            78,
+            80,
             0,
-            19
+            17
         ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu8.78.0.19-ca-jre8.0.412-macosx_x64.zip",
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu8.80.0.17-ca-jre8.0.422-macosx_x64.zip",
         "java_version": [
             8,
             0,
-            412
+            422
         ],
         "latest": true,
-        "name": "zulu8.78.0.19-ca-jre8.0.412-macosx_x64.zip",
-        "openjdk_build_number": 8,
-        "package_uuid": "a56c9028-a2b9-41aa-a2d6-86e0662c2144",
+        "name": "zulu8.80.0.17-ca-jre8.0.422-macosx_x64.zip",
+        "openjdk_build_number": 5,
+        "package_uuid": "2496fdd3-45d0-4152-9dfa-dd8459b7c247",
         "product": "zulu"
     },
     {
         "availability_type": "CA",
         "distro_version": [
             8,
-            78,
+            80,
             0,
-            19
+            17
         ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu8.78.0.19-ca-jre8.0.412-macosx_aarch64.zip",
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu8.80.0.17-ca-jre8.0.422-macosx_aarch64.zip",
         "java_version": [
             8,
             0,
-            412
+            422
         ],
         "latest": true,
-        "name": "zulu8.78.0.19-ca-jre8.0.412-macosx_aarch64.zip",
-        "openjdk_build_number": 8,
-        "package_uuid": "2eeffd9b-5bce-44aa-812c-8ef141cb6b06",
+        "name": "zulu8.80.0.17-ca-jre8.0.422-macosx_aarch64.zip",
+        "openjdk_build_number": 5,
+        "package_uuid": "521c9b0e-3321-400a-8039-d157e0a61659",
         "product": "zulu"
     },
     {
         "availability_type": "CA",
         "distro_version": [
             8,
-            78,
+            80,
             0,
-            19
+            17
         ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu8.78.0.19-ca-jre8.0.412-linux_x64.zip",
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu8.80.0.17-ca-jre8.0.422-win_x64.zip",
         "java_version": [
             8,
             0,
-            412
+            422
         ],
         "latest": true,
-        "name": "zulu8.78.0.19-ca-jre8.0.412-linux_x64.zip",
-        "openjdk_build_number": 8,
-        "package_uuid": "f0086891-d524-488b-a69e-233bb98bb62c",
+        "name": "zulu8.80.0.17-ca-jre8.0.422-win_x64.zip",
+        "openjdk_build_number": 5,
+        "package_uuid": "2ad7bdeb-f7ff-4075-b278-3a02047d55d7",
         "product": "zulu"
     },
     {
         "availability_type": "CA",
         "distro_version": [
             8,
-            78,
+            80,
             0,
-            19
+            17
         ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu8.78.0.19-ca-jre8.0.412-linux_i686.zip",
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu8.80.0.17-ca-jre8.0.422-win_i686.zip",
         "java_version": [
             8,
             0,
-            412
+            422
         ],
         "latest": true,
-        "name": "zulu8.78.0.19-ca-jre8.0.412-linux_i686.zip",
-        "openjdk_build_number": 8,
-        "package_uuid": "4ec8873f-13e3-4e2c-9516-45cb3ccd0b1e",
+        "name": "zulu8.80.0.17-ca-jre8.0.422-win_i686.zip",
+        "openjdk_build_number": 5,
+        "package_uuid": "85ff00f5-2c46-4217-8bfe-1aa9f3be732b",
         "product": "zulu"
     },
     {
         "availability_type": "CA",
         "distro_version": [
             8,
-            78,
+            80,
             0,
-            19
+            17
         ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu8.78.0.19-ca-jre8.0.412-win_x64.zip",
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu8.80.0.17-ca-jre8.0.422-linux_x64.zip",
         "java_version": [
             8,
             0,
-            412
+            422
         ],
         "latest": true,
-        "name": "zulu8.78.0.19-ca-jre8.0.412-win_x64.zip",
-        "openjdk_build_number": 8,
-        "package_uuid": "7fd5c693-99a1-4531-b7ec-9b6036c1f6dc",
+        "name": "zulu8.80.0.17-ca-jre8.0.422-linux_x64.zip",
+        "openjdk_build_number": 5,
+        "package_uuid": "0ea0a5ae-7226-4806-aa79-627e24e8a5db",
         "product": "zulu"
     },
     {
         "availability_type": "CA",
         "distro_version": [
             8,
-            78,
+            80,
             0,
-            19
+            17
         ],
-        "download_url": "https://cdn.azul.com/zulu/bin/zulu8.78.0.19-ca-jre8.0.412-win_i686.zip",
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu8.80.0.17-ca-jre8.0.422-linux_i686.zip",
         "java_version": [
             8,
             0,
-            412
+            422
         ],
         "latest": true,
-        "name": "zulu8.78.0.19-ca-jre8.0.412-win_i686.zip",
-        "openjdk_build_number": 8,
-        "package_uuid": "b0739949-d943-4408-8372-97202754ab71",
+        "name": "zulu8.80.0.17-ca-jre8.0.422-linux_i686.zip",
+        "openjdk_build_number": 5,
+        "package_uuid": "f63855a4-5034-48c8-8969-d3f773ce9cfc",
         "product": "zulu"
     },
     {
