@@ -3,7 +3,7 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 257,
+                "download_count": 691,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -11,7 +11,7 @@
                 "package": {
                     "checksum": "d3affbb011ca6c722948f6345d15eba09bded33f9947d4d67e09723e2518c12a",
                     "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.4_7.tar.gz.sha256.txt",
-                    "download_count": 257,
+                    "download_count": 691,
                     "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.4_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.4_7.tar.gz.json",
                     "name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.4_7.tar.gz",
@@ -21,9 +21,72 @@
                 "project": "jdk",
                 "scm_ref": "jdk-21.0.4+7_adopt",
                 "updated_at": "2024-07-17T15:31:12+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "download_count": 1,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "58845ce4275f3ec74fba075597c8216bb201773da036c4703be8b7b7b457355d",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.4_7.tar.gz.sha256.txt",
+                    "download_count": 1,
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.4_7.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.4_7.tar.gz.json",
+                    "name": "OpenJDK21U-jre_aarch64_linux_hotspot_21.0.4_7.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.4_7.tar.gz.sig",
+                    "size": 51498644
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.4+7_adopt",
+                "updated_at": "2024-07-18T12:10:30+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "download_count": 0,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "f9410264235861deaf30f97bec80870cf3bc38b1d8e57d897d8bb1f706ae6705",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.4_7.tar.gz.sha256.txt",
+                    "download_count": 0,
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.4_7.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.4_7.tar.gz.json",
+                    "name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.4_7.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.4_7.tar.gz.sig",
+                    "size": 51553120
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.4+7_adopt",
+                "updated_at": "2024-07-18T12:27:29+00:00"
+            },
+            {
+                "architecture": "x64",
+                "download_count": 0,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "0dfd0ebab44d777f65bceaff7f79e8e0b9deb74a5eb166922483f1864bcf2052",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.4_7.tar.gz.sha256.txt",
+                    "download_count": 0,
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.4_7.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.4_7.tar.gz.json",
+                    "name": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.4_7.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.4%2B7/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.4_7.tar.gz.sig",
+                    "size": 52636809
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.4+7_adopt",
+                "updated_at": "2024-07-18T12:30:47+00:00"
             }
         ],
-        "download_count": 5652,
+        "download_count": 17997,
         "id": "RE_kwDOI-qQc84J4xmL.E60VKAhYKTNV9A==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.4%2B7",
         "release_name": "jdk-21.0.4+7",
@@ -34,7 +97,7 @@
             "size": 113336757
         },
         "timestamp": "2024-07-17T15:29:34+00:00",
-        "updated_at": "2024-07-17T15:31:13+00:00",
+        "updated_at": "2024-07-18T12:30:58+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 7,
