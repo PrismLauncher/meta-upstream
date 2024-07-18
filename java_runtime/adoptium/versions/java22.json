@@ -3,7 +3,7 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 51,
+                "download_count": 63,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -11,7 +11,7 @@
                 "package": {
                     "checksum": "41e401f287e1850631b259b483929462217ac6b1cc3c7359d80b1cc01ee5a666",
                     "checksum_link": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jre_x64_linux_hotspot_22.0.2_9.tar.gz.sha256.txt",
-                    "download_count": 51,
+                    "download_count": 63,
                     "link": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jre_x64_linux_hotspot_22.0.2_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jre_x64_linux_hotspot_22.0.2_9.tar.gz.json",
                     "name": "OpenJDK22U-jre_x64_linux_hotspot_22.0.2_9.tar.gz",
@@ -24,7 +24,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 0,
+                "download_count": 2,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -32,7 +32,7 @@
                 "package": {
                     "checksum": "749e7372a7dba0de632592fe55a0e387d96922c84dcdc039e0efc1f7ecfcd70e",
                     "checksum_link": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jre_aarch64_alpine-linux_hotspot_22.0.2_9.tar.gz.sha256.txt",
-                    "download_count": 0,
+                    "download_count": 2,
                     "link": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jre_aarch64_alpine-linux_hotspot_22.0.2_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jre_aarch64_alpine-linux_hotspot_22.0.2_9.tar.gz.json",
                     "name": "OpenJDK22U-jre_aarch64_alpine-linux_hotspot_22.0.2_9.tar.gz",
@@ -45,7 +45,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 0,
+                "download_count": 4,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -53,7 +53,7 @@
                 "package": {
                     "checksum": "459342f5210cfd185aeed05abdc052fcd61cf6ff066541919b786236d69c5737",
                     "checksum_link": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jre_x64_alpine-linux_hotspot_22.0.2_9.tar.gz.sha256.txt",
-                    "download_count": 0,
+                    "download_count": 4,
                     "link": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jre_x64_alpine-linux_hotspot_22.0.2_9.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jre_x64_alpine-linux_hotspot_22.0.2_9.tar.gz.json",
                     "name": "OpenJDK22U-jre_x64_alpine-linux_hotspot_22.0.2_9.tar.gz",
@@ -63,9 +63,30 @@
                 "project": "jdk",
                 "scm_ref": "jdk-22.0.2+9_adopt",
                 "updated_at": "2024-07-18T12:36:33+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "download_count": 0,
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "7cf494b51625505d1843ad032677d885bd8000a80d0d38396685f25acbdb5708",
+                    "checksum_link": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jre_aarch64_linux_hotspot_22.0.2_9.tar.gz.sha256.txt",
+                    "download_count": 0,
+                    "link": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jre_aarch64_linux_hotspot_22.0.2_9.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jre_aarch64_linux_hotspot_22.0.2_9.tar.gz.json",
+                    "name": "OpenJDK22U-jre_aarch64_linux_hotspot_22.0.2_9.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin22-binaries/releases/download/jdk-22.0.2%2B9/OpenJDK22U-jre_aarch64_linux_hotspot_22.0.2_9.tar.gz.sig",
+                    "size": 50616109
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-22.0.2+9_adopt",
+                "updated_at": "2024-07-18T14:33:01+00:00"
             }
         ],
-        "download_count": 6815,
+        "download_count": 7902,
         "id": "RE_kwDOKGCZys4J45er.H7QdUU9VwHUKvw==",
         "release_link": "https://github.com/adoptium/temurin22-binaries/releases/tag/jdk-22.0.2%2B9",
         "release_name": "jdk-22.0.2+9",
@@ -76,7 +97,7 @@
             "size": 112880247
         },
         "timestamp": "2024-07-17T18:40:56+00:00",
-        "updated_at": "2024-07-18T12:36:41+00:00",
+        "updated_at": "2024-07-18T14:33:03+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 9,
