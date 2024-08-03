@@ -3,13 +3,13 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 120478,
+                "download_count": 120674,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "4ad4aae081243e6962eddd59c4fdfa33d1a3d79acb16d2700a40dc5d8e4861be",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_windows_hotspot_19.0.2_7.msi.sha256.txt",
-                    "download_count": 67106,
+                    "download_count": 67151,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_windows_hotspot_19.0.2_7.msi",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_windows_hotspot_19.0.2_7.msi.json",
                     "name": "OpenJDK19U-jre_x64_windows_hotspot_19.0.2_7.msi",
@@ -21,7 +21,7 @@
                 "package": {
                     "checksum": "daaaa092343e885b0814dd85caa74529b9dec2c1f28a711d5dbc066a9f7af265",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_windows_hotspot_19.0.2_7.zip.sha256.txt",
-                    "download_count": 53372,
+                    "download_count": 53523,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_windows_hotspot_19.0.2_7.zip",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_windows_hotspot_19.0.2_7.zip.json",
                     "name": "OpenJDK19U-jre_x64_windows_hotspot_19.0.2_7.zip",
@@ -34,7 +34,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 18518,
+                "download_count": 18553,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -42,7 +42,7 @@
                 "package": {
                     "checksum": "7386e10c74f00a4382be0540bc0494854804ad79427d8a50ac77a4c7208ff348",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_linux_hotspot_19.0.2_7.tar.gz.sha256.txt",
-                    "download_count": 18518,
+                    "download_count": 18553,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_linux_hotspot_19.0.2_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_linux_hotspot_19.0.2_7.tar.gz.json",
                     "name": "OpenJDK19U-jre_x64_linux_hotspot_19.0.2_7.tar.gz",
@@ -55,13 +55,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 65376,
+                "download_count": 65479,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "ad4279e8892286fd6723d4ac9ebb9e19b977ebc06fdc7462ca14aceeaa3c775b",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_mac_hotspot_19.0.2_7.pkg.sha256.txt",
-                    "download_count": 59934,
+                    "download_count": 60025,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_mac_hotspot_19.0.2_7.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_mac_hotspot_19.0.2_7.pkg.json",
                     "name": "OpenJDK19U-jre_x64_mac_hotspot_19.0.2_7.pkg",
@@ -73,7 +73,7 @@
                 "package": {
                     "checksum": "33a37be7a5d7a6003595eeee6d09e47abfa1a1065a4da9a6f592b4b09cfcea19",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_mac_hotspot_19.0.2_7.tar.gz.sha256.txt",
-                    "download_count": 5442,
+                    "download_count": 5454,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_mac_hotspot_19.0.2_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_mac_hotspot_19.0.2_7.tar.gz.json",
                     "name": "OpenJDK19U-jre_x64_mac_hotspot_19.0.2_7.tar.gz",
@@ -86,7 +86,7 @@
             },
             {
                 "architecture": "arm",
-                "download_count": 5205,
+                "download_count": 5215,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -94,7 +94,7 @@
                 "package": {
                     "checksum": "d4588e8c01ca60da2ceed68b7d43d2fd9ec3350b93043f0dabd0eb6cb03cb23d",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_arm_linux_hotspot_19.0.2_7.tar.gz.sha256.txt",
-                    "download_count": 5205,
+                    "download_count": 5215,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_arm_linux_hotspot_19.0.2_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_arm_linux_hotspot_19.0.2_7.tar.gz.json",
                     "name": "OpenJDK19U-jre_arm_linux_hotspot_19.0.2_7.tar.gz",
@@ -107,7 +107,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 4818,
+                "download_count": 4828,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -115,7 +115,7 @@
                 "package": {
                     "checksum": "59463543feb858dc2eabeea344491897806da5d09c3cbf5b7c93e86269e32a02",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_s390x_linux_hotspot_19.0.2_7.tar.gz.sha256.txt",
-                    "download_count": 4818,
+                    "download_count": 4828,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_s390x_linux_hotspot_19.0.2_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_s390x_linux_hotspot_19.0.2_7.tar.gz.json",
                     "name": "OpenJDK19U-jre_s390x_linux_hotspot_19.0.2_7.tar.gz",
@@ -128,7 +128,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 4761,
+                "download_count": 4771,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -136,7 +136,7 @@
                 "package": {
                     "checksum": "a30203431c7c21602227d39368c5af6e7abd19000d6da5562de7f3f5c57cbad5",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_ppc64le_linux_hotspot_19.0.2_7.tar.gz.sha256.txt",
-                    "download_count": 4761,
+                    "download_count": 4771,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_ppc64le_linux_hotspot_19.0.2_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_ppc64le_linux_hotspot_19.0.2_7.tar.gz.json",
                     "name": "OpenJDK19U-jre_ppc64le_linux_hotspot_19.0.2_7.tar.gz",
@@ -149,13 +149,13 @@
             },
             {
                 "architecture": "x32",
-                "download_count": 41043,
+                "download_count": 41087,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "70e625af4198d74aebd2c6ac652176fab6ac32fc70c57ff7bf751cabdea78507",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x86-32_windows_hotspot_19.0.2_7.msi.sha256.txt",
-                    "download_count": 37278,
+                    "download_count": 37312,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x86-32_windows_hotspot_19.0.2_7.msi",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x86-32_windows_hotspot_19.0.2_7.msi.json",
                     "name": "OpenJDK19U-jre_x86-32_windows_hotspot_19.0.2_7.msi",
@@ -167,7 +167,7 @@
                 "package": {
                     "checksum": "c23361d6d19cdfbeabbcc66e67a67d50bb740fa47f67eb49000462fda57c67d7",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x86-32_windows_hotspot_19.0.2_7.zip.sha256.txt",
-                    "download_count": 3765,
+                    "download_count": 3775,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x86-32_windows_hotspot_19.0.2_7.zip",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x86-32_windows_hotspot_19.0.2_7.zip.json",
                     "name": "OpenJDK19U-jre_x86-32_windows_hotspot_19.0.2_7.zip",
@@ -180,7 +180,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 5244,
+                "download_count": 5255,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -188,7 +188,7 @@
                 "package": {
                     "checksum": "3653f9e5ad21e4744e5a655e243fba2895651029bee23f3d2366d5debc41a736",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_aarch64_linux_hotspot_19.0.2_7.tar.gz.sha256.txt",
-                    "download_count": 5244,
+                    "download_count": 5255,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_aarch64_linux_hotspot_19.0.2_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_aarch64_linux_hotspot_19.0.2_7.tar.gz.json",
                     "name": "OpenJDK19U-jre_aarch64_linux_hotspot_19.0.2_7.tar.gz",
@@ -201,7 +201,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 4575,
+                "download_count": 4585,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -209,7 +209,7 @@
                 "package": {
                     "checksum": "6c0ce0ead2e7ce3e0f06b9578447499c8bd0509306c95fcd81dbecb634228933",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_alpine-linux_hotspot_19.0.2_7.tar.gz.sha256.txt",
-                    "download_count": 4575,
+                    "download_count": 4585,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_alpine-linux_hotspot_19.0.2_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_x64_alpine-linux_hotspot_19.0.2_7.tar.gz.json",
                     "name": "OpenJDK19U-jre_x64_alpine-linux_hotspot_19.0.2_7.tar.gz",
@@ -222,13 +222,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 68345,
+                "download_count": 68452,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "f4ecd24f9a5b9277befa82b4d3cd9fd485a604ab1d275ab221942853959e56a1",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_aarch64_mac_hotspot_19.0.2_7.pkg.sha256.txt",
-                    "download_count": 59836,
+                    "download_count": 59927,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_aarch64_mac_hotspot_19.0.2_7.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_aarch64_mac_hotspot_19.0.2_7.pkg.json",
                     "name": "OpenJDK19U-jre_aarch64_mac_hotspot_19.0.2_7.pkg",
@@ -240,7 +240,7 @@
                 "package": {
                     "checksum": "1cd53e60478912fe5f2095313821e90c4926e74ff60a4aa9d99fc2ec912411c1",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_aarch64_mac_hotspot_19.0.2_7.tar.gz.sha256.txt",
-                    "download_count": 8509,
+                    "download_count": 8525,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_aarch64_mac_hotspot_19.0.2_7.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.2%2B7/OpenJDK19U-jre_aarch64_mac_hotspot_19.0.2_7.tar.gz.json",
                     "name": "OpenJDK19U-jre_aarch64_mac_hotspot_19.0.2_7.tar.gz",
@@ -252,7 +252,7 @@
                 "updated_at": "2023-01-26T17:33:46+00:00"
             }
         ],
-        "download_count": 3209240,
+        "download_count": 3214767,
         "id": "RE_kwDOGhjB-c4FWMqx.F9lEi5tIU4LaBg==",
         "release_link": "https://github.com/adoptium/temurin19-binaries/releases/tag/jdk-19.0.2%2B7",
         "release_name": "jdk-19.0.2+7",
@@ -283,7 +283,7 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 5961,
+                "download_count": 5970,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -291,7 +291,7 @@
                 "package": {
                     "checksum": "68cae46c973e48ca6777cd0026bbf25f3457bd3d6730c36bd79d4f3b398c8338",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_linux_hotspot_19.0.1_10.tar.gz.sha256.txt",
-                    "download_count": 5961,
+                    "download_count": 5970,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_linux_hotspot_19.0.1_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_linux_hotspot_19.0.1_10.tar.gz.json",
                     "name": "OpenJDK19U-jre_x64_linux_hotspot_19.0.1_10.tar.gz",
@@ -304,7 +304,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 3720,
+                "download_count": 3728,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -312,7 +312,7 @@
                 "package": {
                     "checksum": "32426b790ac99a21a69abec793bfa47996a4fe7f74c7c89484836237f121640b",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_alpine-linux_hotspot_19.0.1_10.tar.gz.sha256.txt",
-                    "download_count": 3720,
+                    "download_count": 3728,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_alpine-linux_hotspot_19.0.1_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_alpine-linux_hotspot_19.0.1_10.tar.gz.json",
                     "name": "OpenJDK19U-jre_x64_alpine-linux_hotspot_19.0.1_10.tar.gz",
@@ -325,13 +325,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 33929,
+                "download_count": 33957,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "8e2187b0e4caf3b9205a4698df2a51b3b9f51d89dff35b03937329714d66012b",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_aarch64_mac_hotspot_19.0.1_10.pkg.sha256.txt",
-                    "download_count": 31001,
+                    "download_count": 31021,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_aarch64_mac_hotspot_19.0.1_10.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_aarch64_mac_hotspot_19.0.1_10.pkg.json",
                     "name": "OpenJDK19U-jre_aarch64_mac_hotspot_19.0.1_10.pkg",
@@ -343,7 +343,7 @@
                 "package": {
                     "checksum": "d6d4a51d2eefb98cabdbdd9118ca473e9b07ced8d784541177f74e9bf09d4a2e",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_aarch64_mac_hotspot_19.0.1_10.tar.gz.sha256.txt",
-                    "download_count": 2928,
+                    "download_count": 2936,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_aarch64_mac_hotspot_19.0.1_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_aarch64_mac_hotspot_19.0.1_10.tar.gz.json",
                     "name": "OpenJDK19U-jre_aarch64_mac_hotspot_19.0.1_10.tar.gz",
@@ -356,7 +356,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 4364,
+                "download_count": 4372,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -364,7 +364,7 @@
                 "package": {
                     "checksum": "c69ffc5474be076b200e8cc72417b838e4f830b36603d593fb8ca6d11b81969b",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_aarch64_linux_hotspot_19.0.1_10.tar.gz.sha256.txt",
-                    "download_count": 4364,
+                    "download_count": 4372,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_aarch64_linux_hotspot_19.0.1_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_aarch64_linux_hotspot_19.0.1_10.tar.gz.json",
                     "name": "OpenJDK19U-jre_aarch64_linux_hotspot_19.0.1_10.tar.gz",
@@ -377,13 +377,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 33592,
+                "download_count": 33620,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "585c108c1649f1abf1b12bb9f3823d4cc7e979fc72df4aed6182afb4773419b1",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_mac_hotspot_19.0.1_10.pkg.sha256.txt",
-                    "download_count": 30709,
+                    "download_count": 30729,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_mac_hotspot_19.0.1_10.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_mac_hotspot_19.0.1_10.pkg.json",
                     "name": "OpenJDK19U-jre_x64_mac_hotspot_19.0.1_10.pkg",
@@ -395,7 +395,7 @@
                 "package": {
                     "checksum": "8bf67ece0915f5847caec5060e93eafbeeb1a3c99132a72a9424255b3b7cd063",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_mac_hotspot_19.0.1_10.tar.gz.sha256.txt",
-                    "download_count": 2883,
+                    "download_count": 2891,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_mac_hotspot_19.0.1_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_mac_hotspot_19.0.1_10.tar.gz.json",
                     "name": "OpenJDK19U-jre_x64_mac_hotspot_19.0.1_10.tar.gz",
@@ -408,13 +408,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 52587,
+                "download_count": 52616,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "9674e91db19657c2f4dbabde78bb78be1d9d3b3deaee53f3400a3653449f08d5",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_windows_hotspot_19.0.1_10.msi.sha256.txt",
-                    "download_count": 48009,
+                    "download_count": 48030,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_windows_hotspot_19.0.1_10.msi",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_windows_hotspot_19.0.1_10.msi.json",
                     "name": "OpenJDK19U-jre_x64_windows_hotspot_19.0.1_10.msi",
@@ -426,7 +426,7 @@
                 "package": {
                     "checksum": "5c156165df5f0685da8a6dc0a2dab7f82feae1ff4a25b511b1ff64344a9833f6",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_windows_hotspot_19.0.1_10.zip.sha256.txt",
-                    "download_count": 4578,
+                    "download_count": 4586,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_windows_hotspot_19.0.1_10.zip",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x64_windows_hotspot_19.0.1_10.zip.json",
                     "name": "OpenJDK19U-jre_x64_windows_hotspot_19.0.1_10.zip",
@@ -439,13 +439,13 @@
             },
             {
                 "architecture": "x32",
-                "download_count": 35855,
+                "download_count": 35884,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "c9bf7410f8bfe0e6c0138cbba0b58dd832f00beaee021d58ca45ba386dcee928",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x86-32_windows_hotspot_19.0.1_10.msi.sha256.txt",
-                    "download_count": 32923,
+                    "download_count": 32944,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x86-32_windows_hotspot_19.0.1_10.msi",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x86-32_windows_hotspot_19.0.1_10.msi.json",
                     "name": "OpenJDK19U-jre_x86-32_windows_hotspot_19.0.1_10.msi",
@@ -457,7 +457,7 @@
                 "package": {
                     "checksum": "6dbcee2a4b55f428e9e758c7a2486539311a5998ab057e84ad507d45cf5ca4bb",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x86-32_windows_hotspot_19.0.1_10.zip.sha256.txt",
-                    "download_count": 2932,
+                    "download_count": 2940,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x86-32_windows_hotspot_19.0.1_10.zip",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_x86-32_windows_hotspot_19.0.1_10.zip.json",
                     "name": "OpenJDK19U-jre_x86-32_windows_hotspot_19.0.1_10.zip",
@@ -470,7 +470,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 2737,
+                "download_count": 2745,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -478,7 +478,7 @@
                 "package": {
                     "checksum": "c5f3d67edfa0d9b5ec935f944c177c0ee4b2d7a2b5846feaf187b77e954f4242",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_ppc64le_linux_hotspot_19.0.1_10.tar.gz.sha256.txt",
-                    "download_count": 2737,
+                    "download_count": 2745,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_ppc64le_linux_hotspot_19.0.1_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_ppc64le_linux_hotspot_19.0.1_10.tar.gz.json",
                     "name": "OpenJDK19U-jre_ppc64le_linux_hotspot_19.0.1_10.tar.gz",
@@ -491,7 +491,7 @@
             },
             {
                 "architecture": "arm",
-                "download_count": 3445,
+                "download_count": 3453,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -499,7 +499,7 @@
                 "package": {
                     "checksum": "0f9902356b9b29e070d4fa56043edbd9c068a39982f5b72135fdd4c640ecea78",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_arm_linux_hotspot_19.0.1_10.tar.gz.sha256.txt",
-                    "download_count": 3445,
+                    "download_count": 3453,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_arm_linux_hotspot_19.0.1_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_arm_linux_hotspot_19.0.1_10.tar.gz.json",
                     "name": "OpenJDK19U-jre_arm_linux_hotspot_19.0.1_10.tar.gz",
@@ -512,7 +512,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 2778,
+                "download_count": 2786,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -520,7 +520,7 @@
                 "package": {
                     "checksum": "6293529eba7872b47dfaa1ccfd321661720d538d22a0abfe53259d61f348d070",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_s390x_linux_hotspot_19.0.1_10.tar.gz.sha256.txt",
-                    "download_count": 2778,
+                    "download_count": 2786,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_s390x_linux_hotspot_19.0.1_10.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jre_s390x_linux_hotspot_19.0.1_10.tar.gz.json",
                     "name": "OpenJDK19U-jre_s390x_linux_hotspot_19.0.1_10.tar.gz",
@@ -532,7 +532,7 @@
                 "updated_at": "2022-11-04T17:19:21+00:00"
             }
         ],
-        "download_count": 930246,
+        "download_count": 930709,
         "id": "RE_kwDOGhjB-c4E1EbN.hOULCgJRmjUBKg==",
         "release_link": "https://github.com/adoptium/temurin19-binaries/releases/tag/jdk-19.0.1%2B10",
         "release_name": "jdk-19.0.1+10",
@@ -558,7 +558,7 @@
         "binaries": [
             {
                 "architecture": "x64",
-                "download_count": 3957,
+                "download_count": 3965,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -566,7 +566,7 @@
                 "package": {
                     "checksum": "ef2caf3221cb3d209ba7662d9542f23e25b3b97696de3103264c5a519aad30b6",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_linux_hotspot_19_36.tar.gz.sha256.txt",
-                    "download_count": 3957,
+                    "download_count": 3965,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_linux_hotspot_19_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_linux_hotspot_19_36.tar.gz.json",
                     "name": "OpenJDK19U-jre_x64_linux_hotspot_19_36.tar.gz",
@@ -579,13 +579,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 46394,
+                "download_count": 46425,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "2fe3e0989b31551b65cd3d276f8435618aad7f4e3f2996a58c3b51f0de4ccf35",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_windows_hotspot_19_36.msi.sha256.txt",
-                    "download_count": 42618,
+                    "download_count": 42641,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_windows_hotspot_19_36.msi",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_windows_hotspot_19_36.msi.json",
                     "name": "OpenJDK19U-jre_x64_windows_hotspot_19_36.msi",
@@ -597,7 +597,7 @@
                 "package": {
                     "checksum": "e0fc296aa8dde38f0fb65a62b0644bb98205c2ba0f1ed45c57fce4eee75b4acd",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_windows_hotspot_19_36.zip.sha256.txt",
-                    "download_count": 3776,
+                    "download_count": 3784,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_windows_hotspot_19_36.zip",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_windows_hotspot_19_36.zip.json",
                     "name": "OpenJDK19U-jre_x64_windows_hotspot_19_36.zip",
@@ -610,7 +610,7 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 2933,
+                "download_count": 2941,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -618,7 +618,7 @@
                 "package": {
                     "checksum": "da77060192d3021a2e06eb51a91acdfacb0b993fc75a3b4cafe9c39c6132cc51",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_aarch64_linux_hotspot_19_36.tar.gz.sha256.txt",
-                    "download_count": 2933,
+                    "download_count": 2941,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_aarch64_linux_hotspot_19_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_aarch64_linux_hotspot_19_36.tar.gz.json",
                     "name": "OpenJDK19U-jre_aarch64_linux_hotspot_19_36.tar.gz",
@@ -631,7 +631,7 @@
             },
             {
                 "architecture": "arm",
-                "download_count": 2893,
+                "download_count": 2900,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -639,7 +639,7 @@
                 "package": {
                     "checksum": "f6c4895b8d33118c75403d08f9697af0b77769d0e8574cb678518a0ab3b74a12",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_arm_linux_hotspot_19_36.tar.gz.sha256.txt",
-                    "download_count": 2893,
+                    "download_count": 2900,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_arm_linux_hotspot_19_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_arm_linux_hotspot_19_36.tar.gz.json",
                     "name": "OpenJDK19U-jre_arm_linux_hotspot_19_36.tar.gz",
@@ -652,13 +652,13 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 36331,
+                "download_count": 36359,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "b76b6431d5dad9c4513558031cd20b194feca5c5ca3853e0a5b86c5042e5313c",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_mac_hotspot_19_36.pkg.sha256.txt",
-                    "download_count": 33393,
+                    "download_count": 33413,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_mac_hotspot_19_36.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_mac_hotspot_19_36.pkg.json",
                     "name": "OpenJDK19U-jre_x64_mac_hotspot_19_36.pkg",
@@ -670,7 +670,7 @@
                 "package": {
                     "checksum": "b0a975a072fe5bc681ac6cbcc409008728e2b18bf920eae6c98c0853cc01d3ea",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_mac_hotspot_19_36.tar.gz.sha256.txt",
-                    "download_count": 2938,
+                    "download_count": 2946,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_mac_hotspot_19_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_mac_hotspot_19_36.tar.gz.json",
                     "name": "OpenJDK19U-jre_x64_mac_hotspot_19_36.tar.gz",
@@ -683,13 +683,13 @@
             },
             {
                 "architecture": "aarch64",
-                "download_count": 36276,
+                "download_count": 36305,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "c8c733b578284413169fdb2cbf32b81ae430204e127280b87faf56fa8e1d726e",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_aarch64_mac_hotspot_19_36.pkg.sha256.txt",
-                    "download_count": 33366,
+                    "download_count": 33387,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_aarch64_mac_hotspot_19_36.pkg",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_aarch64_mac_hotspot_19_36.pkg.json",
                     "name": "OpenJDK19U-jre_aarch64_mac_hotspot_19_36.pkg",
@@ -701,7 +701,7 @@
                 "package": {
                     "checksum": "868f3655cc12279300355272b4e779513caa50536439c62b736dbc425b79b693",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_aarch64_mac_hotspot_19_36.tar.gz.sha256.txt",
-                    "download_count": 2910,
+                    "download_count": 2918,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_aarch64_mac_hotspot_19_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_aarch64_mac_hotspot_19_36.tar.gz.json",
                     "name": "OpenJDK19U-jre_aarch64_mac_hotspot_19_36.tar.gz",
@@ -714,7 +714,7 @@
             },
             {
                 "architecture": "x64",
-                "download_count": 3016,
+                "download_count": 3024,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -722,7 +722,7 @@
                 "package": {
                     "checksum": "7bab3dc6b349e4447be72bf3574ee88172052589c0e434fa6e6284b234d0286d",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_alpine-linux_hotspot_19_36.tar.gz.sha256.txt",
-                    "download_count": 3016,
+                    "download_count": 3024,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_alpine-linux_hotspot_19_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x64_alpine-linux_hotspot_19_36.tar.gz.json",
                     "name": "OpenJDK19U-jre_x64_alpine-linux_hotspot_19_36.tar.gz",
@@ -735,7 +735,7 @@
             },
             {
                 "architecture": "ppc64le",
-                "download_count": 2850,
+                "download_count": 2858,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -743,7 +743,7 @@
                 "package": {
                     "checksum": "3ab0b2320d5bb0f2fef9fd831338fd51170e6b8db887af23bc26dfc51bdf338c",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_ppc64le_linux_hotspot_19_36.tar.gz.sha256.txt",
-                    "download_count": 2850,
+                    "download_count": 2858,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_ppc64le_linux_hotspot_19_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_ppc64le_linux_hotspot_19_36.tar.gz.json",
                     "name": "OpenJDK19U-jre_ppc64le_linux_hotspot_19_36.tar.gz",
@@ -756,7 +756,7 @@
             },
             {
                 "architecture": "s390x",
-                "download_count": 2878,
+                "download_count": 2886,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
@@ -764,7 +764,7 @@
                 "package": {
                     "checksum": "d81e72c1c627287e3ab6189e16b411193c8963595242e5652ccd9f9e1e91ddd8",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_s390x_linux_hotspot_19_36.tar.gz.sha256.txt",
-                    "download_count": 2878,
+                    "download_count": 2886,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_s390x_linux_hotspot_19_36.tar.gz",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_s390x_linux_hotspot_19_36.tar.gz.json",
                     "name": "OpenJDK19U-jre_s390x_linux_hotspot_19_36.tar.gz",
@@ -777,13 +777,13 @@
             },
             {
                 "architecture": "x32",
-                "download_count": 35966,
+                "download_count": 35995,
                 "heap_size": "normal",
                 "image_type": "jre",
                 "installer": {
                     "checksum": "99af6655880dfb889ac1aa6795dc7a33ce21bfa28a437c038307904ef4e019d9",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x86-32_windows_hotspot_19_36.msi.sha256.txt",
-                    "download_count": 33099,
+                    "download_count": 33120,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x86-32_windows_hotspot_19_36.msi",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x86-32_windows_hotspot_19_36.msi.json",
                     "name": "OpenJDK19U-jre_x86-32_windows_hotspot_19_36.msi",
@@ -795,7 +795,7 @@
                 "package": {
                     "checksum": "3d5a0194e11e4a2b0a8755c8fd20d89555904b65ae38be19faa4b427b2bc8937",
                     "checksum_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x86-32_windows_hotspot_19_36.zip.sha256.txt",
-                    "download_count": 2867,
+                    "download_count": 2875,
                     "link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x86-32_windows_hotspot_19_36.zip",
                     "metadata_link": "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jre_x86-32_windows_hotspot_19_36.zip.json",
                     "name": "OpenJDK19U-jre_x86-32_windows_hotspot_19_36.zip",
@@ -807,7 +807,7 @@
                 "updated_at": "2022-10-05T15:01:33+00:00"
             }
         ],
-        "download_count": 651314,
+        "download_count": 651821,
         "id": "RE_kwDOGhjB-c4EqAz5.sUmIN3SA05UE7w==",
         "release_link": "https://github.com/adoptium/temurin19-binaries/releases/tag/jdk-19%2B36",
         "release_name": "jdk-19+36",
