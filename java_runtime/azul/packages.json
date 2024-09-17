@@ -2,6 +2,86 @@
     {
         "availability_type": "CA",
         "distro_version": [
+            23,
+            28,
+            85,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu23.28.85-ca-jre23.0.0-macosx_x64.zip",
+        "java_version": [
+            23,
+            0,
+            0
+        ],
+        "latest": true,
+        "name": "zulu23.28.85-ca-jre23.0.0-macosx_x64.zip",
+        "openjdk_build_number": 37,
+        "package_uuid": "62933a92-011f-4c55-a36b-1c6e580fb939",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            23,
+            28,
+            85,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu23.28.85-ca-jre23.0.0-macosx_aarch64.zip",
+        "java_version": [
+            23,
+            0,
+            0
+        ],
+        "latest": true,
+        "name": "zulu23.28.85-ca-jre23.0.0-macosx_aarch64.zip",
+        "openjdk_build_number": 37,
+        "package_uuid": "0fb92b5a-ecc9-4487-bfdc-c52d321d89d8",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            23,
+            28,
+            85,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu23.28.85-ca-jre23.0.0-win_x64.zip",
+        "java_version": [
+            23,
+            0,
+            0
+        ],
+        "latest": true,
+        "name": "zulu23.28.85-ca-jre23.0.0-win_x64.zip",
+        "openjdk_build_number": 37,
+        "package_uuid": "608f53f9-53e5-46ad-909f-bb773f2eafb3",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            23,
+            28,
+            85,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu23.28.85-ca-jre23.0.0-linux_x64.zip",
+        "java_version": [
+            23,
+            0,
+            0
+        ],
+        "latest": true,
+        "name": "zulu23.28.85-ca-jre23.0.0-linux_x64.zip",
+        "openjdk_build_number": 37,
+        "package_uuid": "ca88a391-243d-49ac-9844-9770b920d359",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
             22,
             32,
             15,
