@@ -198,6 +198,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-23+37_adopt",
                 "updated_at": "2024-09-18T10:40:26+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "b42ac56cfb90b313b73622221d8944d32996376d2d953e4ee3942439c5ce91bb",
+                    "checksum_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23%2B37/OpenJDK23U-jre_s390x_linux_hotspot_23_37.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23%2B37/OpenJDK23U-jre_s390x_linux_hotspot_23_37.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23%2B37/OpenJDK23U-jre_s390x_linux_hotspot_23_37.tar.gz.json",
+                    "name": "OpenJDK23U-jre_s390x_linux_hotspot_23_37.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23%2B37/OpenJDK23U-jre_s390x_linux_hotspot_23_37.tar.gz.sig",
+                    "size": 48645729
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-23+37_adopt",
+                "updated_at": "2024-09-18T14:56:01+00:00"
             }
         ],
         "id": "RE_kwDOK4STxM4Kd83t.7zkwulJEzf9opg==",
@@ -210,7 +229,7 @@
             "size": 117295852
         },
         "timestamp": "2024-09-18T09:58:40+00:00",
-        "updated_at": "2024-09-18T10:40:44+00:00",
+        "updated_at": "2024-09-18T14:56:22+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 37,
