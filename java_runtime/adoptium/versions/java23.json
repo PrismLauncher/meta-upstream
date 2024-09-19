@@ -241,6 +241,11 @@
         "id": "RE_kwDOK4STxM4Kd83t.7zkwulJEzf9opg==",
         "release_link": "https://github.com/adoptium/temurin23-binaries/releases/tag/jdk-23%2B37",
         "release_name": "jdk-23+37",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23%2B37/OpenJDK23U-jdk-release-notes_23_37.json",
+            "name": "OpenJDK23U-jdk-release-notes_23_37.json",
+            "size": 744080
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23%2B37/OpenJDK23U-jdk-sources_23_37.tar.gz",
@@ -248,7 +253,7 @@
             "size": 117295852
         },
         "timestamp": "2024-09-18T09:58:40+00:00",
-        "updated_at": "2024-09-18T18:07:04+00:00",
+        "updated_at": "2024-09-19T08:41:41+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 37,
