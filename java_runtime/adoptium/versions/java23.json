@@ -47,14 +47,38 @@
                 "project": "jdk",
                 "scm_ref": "jdk-23.0.1+11_adopt",
                 "updated_at": "2024-10-18T14:22:10+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "1233cbec40f05c76ad926b68521ae78c6ae4f454996ef549602be6987069fa77",
+                    "checksum_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jre_x64_linux_hotspot_23.0.1_11.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jre_x64_linux_hotspot_23.0.1_11.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jre_x64_linux_hotspot_23.0.1_11.tar.gz.json",
+                    "name": "OpenJDK23U-jre_x64_linux_hotspot_23.0.1_11.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jre_x64_linux_hotspot_23.0.1_11.tar.gz.sig",
+                    "size": 51934151
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-23.0.1+11_adopt",
+                "updated_at": "2024-10-18T15:17:29+00:00"
             }
         ],
         "id": "RE_kwDOK4STxM4Kwi-0.teu9exfVVIXG7Q==",
         "release_link": "https://github.com/adoptium/temurin23-binaries/releases/tag/jdk-23.0.1%2B11",
         "release_name": "jdk-23.0.1+11",
         "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jdk-sources_23.0.1_11.tar.gz",
+            "name": "OpenJDK23U-jdk-sources_23.0.1_11.tar.gz",
+            "size": 117535304
+        },
         "timestamp": "2024-10-17T16:36:55+00:00",
-        "updated_at": "2024-10-18T14:22:47+00:00",
+        "updated_at": "2024-10-18T15:17:58+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 11,
