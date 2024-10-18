@@ -19,6 +19,34 @@
                 "project": "jdk",
                 "scm_ref": "jdk-23.0.1+11_adopt",
                 "updated_at": "2024-10-17T17:42:32+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "7346f88aeba493fe0f63751634e06abc8492564cc7cd962e47b94da7eef6c03b",
+                    "checksum_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jre_x64_mac_hotspot_23.0.1_11.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jre_x64_mac_hotspot_23.0.1_11.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jre_x64_mac_hotspot_23.0.1_11.pkg.json",
+                    "name": "OpenJDK23U-jre_x64_mac_hotspot_23.0.1_11.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jre_x64_mac_hotspot_23.0.1_11.pkg.sig",
+                    "size": 41739280
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "87e532fda02327e0f2766650223b6bd63a4407c4907f82790edb5862a5285116",
+                    "checksum_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jre_x64_mac_hotspot_23.0.1_11.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jre_x64_mac_hotspot_23.0.1_11.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jre_x64_mac_hotspot_23.0.1_11.tar.gz.json",
+                    "name": "OpenJDK23U-jre_x64_mac_hotspot_23.0.1_11.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jre_x64_mac_hotspot_23.0.1_11.tar.gz.sig",
+                    "size": 41597538
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-23.0.1+11_adopt",
+                "updated_at": "2024-10-18T14:22:10+00:00"
             }
         ],
         "id": "RE_kwDOK4STxM4Kwi-0.teu9exfVVIXG7Q==",
@@ -26,7 +54,7 @@
         "release_name": "jdk-23.0.1+11",
         "release_type": "ga",
         "timestamp": "2024-10-17T16:36:55+00:00",
-        "updated_at": "2024-10-17T17:42:59+00:00",
+        "updated_at": "2024-10-18T14:22:47+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 11,
