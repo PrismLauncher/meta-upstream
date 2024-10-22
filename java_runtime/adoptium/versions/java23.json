@@ -160,6 +160,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-23.0.1+11_adopt",
                 "updated_at": "2024-10-22T10:26:38+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "ae5d49932f7d9b182c2d9ededa18bd4defc61873f1d717caa3d905bba870a683",
+                    "checksum_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jre_ppc64le_linux_hotspot_23.0.1_11.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jre_ppc64le_linux_hotspot_23.0.1_11.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jre_ppc64le_linux_hotspot_23.0.1_11.tar.gz.json",
+                    "name": "OpenJDK23U-jre_ppc64le_linux_hotspot_23.0.1_11.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jre_ppc64le_linux_hotspot_23.0.1_11.tar.gz.sig",
+                    "size": 51812468
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-23.0.1+11_adopt",
+                "updated_at": "2024-10-22T15:13:46+00:00"
             }
         ],
         "id": "RE_kwDOK4STxM4Kwi-0.teu9exfVVIXG7Q==",
@@ -172,7 +191,7 @@
             "size": 117535304
         },
         "timestamp": "2024-10-17T16:36:55+00:00",
-        "updated_at": "2024-10-22T10:27:48+00:00",
+        "updated_at": "2024-10-22T15:14:07+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 11,
