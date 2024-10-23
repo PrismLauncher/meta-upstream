@@ -94,6 +94,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk8u432-b06_adopt",
                 "updated_at": "2024-10-21T15:56:57+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "c573f33f9e5ba49a4838847d0d34efc9c1dc57a9ba71b926599530bbcda87f65",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jre_ppc64le_linux_hotspot_8u432b06.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jre_ppc64le_linux_hotspot_8u432b06.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jre_ppc64le_linux_hotspot_8u432b06.tar.gz.json",
+                    "name": "OpenJDK8U-jre_ppc64le_linux_hotspot_8u432b06.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jre_ppc64le_linux_hotspot_8u432b06.tar.gz.sig",
+                    "size": 40852996
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u432-b06_adopt",
+                "updated_at": "2024-10-23T09:33:22+00:00"
             }
         ],
         "id": "RE_kwDOFjpgDM4KxLtn.4k4tS8rBlEOOoQ==",
@@ -106,7 +125,7 @@
             "size": 93085133
         },
         "timestamp": "2024-10-18T12:58:56+00:00",
-        "updated_at": "2024-10-21T15:57:13+00:00",
+        "updated_at": "2024-10-23T09:33:37+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 6,
