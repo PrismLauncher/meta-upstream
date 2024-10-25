@@ -269,6 +269,11 @@
         "id": "RE_kwDOK4STxM4Kwi-0.teu9exfVVIXG7Q==",
         "release_link": "https://github.com/adoptium/temurin23-binaries/releases/tag/jdk-23.0.1%2B11",
         "release_name": "jdk-23.0.1+11",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jdk-release-notes_23.0.1_11.json",
+            "name": "OpenJDK23U-jdk-release-notes_23.0.1_11.json",
+            "size": 8788
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.1%2B11/OpenJDK23U-jdk-sources_23.0.1_11.tar.gz",
@@ -276,7 +281,7 @@
             "size": 117535304
         },
         "timestamp": "2024-10-17T16:36:55+00:00",
-        "updated_at": "2024-10-24T12:16:53+00:00",
+        "updated_at": "2024-10-25T12:54:53+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 11,
