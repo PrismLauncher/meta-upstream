@@ -269,6 +269,11 @@
         "id": "RE_kwDOI-qQc84KvtIq.TIHoH+KLk6SDfw==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.5%2B11",
         "release_name": "jdk-21.0.5+11",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jdk-release-notes_21.0.5_11.json",
+            "name": "OpenJDK21U-jdk-release-notes_21.0.5_11.json",
+            "size": 106354
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.5%2B11/OpenJDK21U-jdk-sources_21.0.5_11.tar.gz",
@@ -276,7 +281,7 @@
             "size": 113570167
         },
         "timestamp": "2024-10-16T16:34:23+00:00",
-        "updated_at": "2024-10-23T14:55:14+00:00",
+        "updated_at": "2024-10-25T14:21:16+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 11,
