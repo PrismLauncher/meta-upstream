@@ -198,6 +198,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk8u432-b06_adopt",
                 "updated_at": "2024-10-25T14:32:12+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "solaris",
+                "package": {
+                    "checksum": "766b75c4e9e4dc9c48509139d067ecb19f2d92a545441c68e7127afed41b473c",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jre_x64_solaris_hotspot_8u432b06.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jre_x64_solaris_hotspot_8u432b06.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jre_x64_solaris_hotspot_8u432b06.tar.gz.json",
+                    "name": "OpenJDK8U-jre_x64_solaris_hotspot_8u432b06.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u432-b06/OpenJDK8U-jre_x64_solaris_hotspot_8u432b06.tar.gz.sig",
+                    "size": 50223097
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u432-b06_adopt",
+                "updated_at": "2024-10-30T13:45:23+00:00"
             }
         ],
         "id": "RE_kwDOFjpgDM4KxLtn.4k4tS8rBlEOOoQ==",
@@ -215,7 +234,7 @@
             "size": 93085133
         },
         "timestamp": "2024-10-18T12:58:56+00:00",
-        "updated_at": "2024-10-28T11:09:15+00:00",
+        "updated_at": "2024-10-30T13:46:20+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 6,
