@@ -94,6 +94,34 @@
                 "project": "jdk",
                 "scm_ref": "jdk-23.0.2+7_adopt",
                 "updated_at": "2025-01-24T12:35:51+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "63fd47ce85700bf53698f8fe9dc2baa990f6dc6b4fc08dbd4735125c5a00b2e5",
+                    "checksum_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jre_x64_mac_hotspot_23.0.2_7.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jre_x64_mac_hotspot_23.0.2_7.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jre_x64_mac_hotspot_23.0.2_7.pkg.json",
+                    "name": "OpenJDK23U-jre_x64_mac_hotspot_23.0.2_7.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jre_x64_mac_hotspot_23.0.2_7.pkg.sig",
+                    "size": 41744322
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "2c5b81ce3234d6bef0ec352734aa2de19c0950020c55a1cbfc21ae5fda7690b8",
+                    "checksum_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jre_x64_mac_hotspot_23.0.2_7.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jre_x64_mac_hotspot_23.0.2_7.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jre_x64_mac_hotspot_23.0.2_7.tar.gz.json",
+                    "name": "OpenJDK23U-jre_x64_mac_hotspot_23.0.2_7.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jre_x64_mac_hotspot_23.0.2_7.tar.gz.sig",
+                    "size": 41598126
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-23.0.2+7_adopt",
+                "updated_at": "2025-01-24T14:14:59+00:00"
             }
         ],
         "id": "RE_kwDOK4STxM4LtqUt.mBQnlDPBFx176Q==",
@@ -106,7 +134,7 @@
             "size": 117991801
         },
         "timestamp": "2025-01-23T21:23:01+00:00",
-        "updated_at": "2025-01-24T12:37:06+00:00",
+        "updated_at": "2025-01-24T14:15:42+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 7,

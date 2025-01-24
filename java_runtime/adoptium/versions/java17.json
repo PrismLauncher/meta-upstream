@@ -141,14 +141,38 @@
                 "project": "jdk",
                 "scm_ref": "jdk-17.0.14+7_adopt",
                 "updated_at": "2025-01-24T12:48:55+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "a4b0015872758aac6a5d17139e952a3951ee536ae6d9a99828823a80a71add56",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_x64_linux_hotspot_17.0.14_7.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_x64_linux_hotspot_17.0.14_7.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_x64_linux_hotspot_17.0.14_7.tar.gz.json",
+                    "name": "OpenJDK17U-jre_x64_linux_hotspot_17.0.14_7.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_x64_linux_hotspot_17.0.14_7.tar.gz.sig",
+                    "size": 46092700
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.14+7_adopt",
+                "updated_at": "2025-01-24T13:34:11+00:00"
             }
         ],
         "id": "RE_kwDOFjpjCs4LtEda.NfCvzO7ruN+IGQ==",
         "release_link": "https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.14%2B7",
         "release_name": "jdk-17.0.14+7",
         "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jdk-sources_17.0.14_7.tar.gz",
+            "name": "OpenJDK17U-jdk-sources_17.0.14_7.tar.gz",
+            "size": 108242508
+        },
         "timestamp": "2025-01-23T09:18:30+00:00",
-        "updated_at": "2025-01-24T12:49:26+00:00",
+        "updated_at": "2025-01-24T13:35:22+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 7,
