@@ -198,6 +198,53 @@
                 "project": "jdk",
                 "scm_ref": "jdk-17.0.14+7_adopt",
                 "updated_at": "2025-01-27T13:55:08+00:00"
+            },
+            {
+                "architecture": "x32",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "9e8b7cf445e7c4673d4fd7f6d7ba2e50352a765eee074a44c4e231eddce45fb1",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.14_7.msi.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.14_7.msi",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.14_7.msi.json",
+                    "name": "OpenJDK17U-jre_x86-32_windows_hotspot_17.0.14_7.msi",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.14_7.msi.sig",
+                    "size": 29081600
+                },
+                "jvm_impl": "hotspot",
+                "os": "windows",
+                "package": {
+                    "checksum": "b4c418fd053fd85decacb124c9e84c94fee3bbec3999451132227d4bb6fd82cb",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.14_7.zip.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.14_7.zip",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.14_7.zip.json",
+                    "name": "OpenJDK17U-jre_x86-32_windows_hotspot_17.0.14_7.zip",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_x86-32_windows_hotspot_17.0.14_7.zip.sig",
+                    "size": 40661326
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.14+7_adopt",
+                "updated_at": "2025-01-27T14:55:07+00:00"
+            },
+            {
+                "architecture": "riscv64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "2f77e44aa9fec9cf35b0b1fd492055e7fec0a3ea4d4338def6b42bd46d485e02",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.14_7.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.14_7.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.14_7.tar.gz.json",
+                    "name": "OpenJDK17U-jre_riscv64_linux_hotspot_17.0.14_7.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.14_7.tar.gz.sig",
+                    "size": 43254792
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.14+7_adopt",
+                "updated_at": "2025-01-27T15:30:48+00:00"
             }
         ],
         "id": "RE_kwDOFjpjCs4LtEda.NfCvzO7ruN+IGQ==",
@@ -210,7 +257,7 @@
             "size": 108242508
         },
         "timestamp": "2025-01-23T09:18:30+00:00",
-        "updated_at": "2025-01-27T13:55:08+00:00",
+        "updated_at": "2025-01-27T15:30:51+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 7,
