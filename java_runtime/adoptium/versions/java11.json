@@ -160,6 +160,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-11.0.26+4_adopt",
                 "updated_at": "2025-01-24T13:59:54+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "69031fc68d41189691dbeca73447ca543040d26995f61cef83fd7aed8fb4dbd2",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.26%2B4/OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.26_4.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.26%2B4/OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.26_4.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.26%2B4/OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.26_4.tar.gz.json",
+                    "name": "OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.26_4.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.26%2B4/OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.26_4.tar.gz.sig",
+                    "size": 42749767
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.26+4_adopt",
+                "updated_at": "2025-01-28T14:21:38+00:00"
             }
         ],
         "id": "RE_kwDOFjph084LtRW1.VZVz/74876a2Eg==",
@@ -172,7 +191,7 @@
             "size": 117307866
         },
         "timestamp": "2025-01-23T13:52:43+00:00",
-        "updated_at": "2025-01-24T14:01:41+00:00",
+        "updated_at": "2025-01-28T14:23:09+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 4,
