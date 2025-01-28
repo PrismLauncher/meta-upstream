@@ -165,6 +165,11 @@
         "id": "RE_kwDOK4STxM4LtqUt.mBQnlDPBFx176Q==",
         "release_link": "https://github.com/adoptium/temurin23-binaries/releases/tag/jdk-23.0.2%2B7",
         "release_name": "jdk-23.0.2+7",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jdk-release-notes_23.0.2_7.json",
+            "name": "OpenJDK23U-jdk-release-notes_23.0.2_7.json",
+            "size": 61679
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin23-binaries/releases/download/jdk-23.0.2%2B7/OpenJDK23U-jdk-sources_23.0.2_7.tar.gz",
@@ -172,7 +177,7 @@
             "size": 117991801
         },
         "timestamp": "2025-01-23T21:23:01+00:00",
-        "updated_at": "2025-01-28T14:32:51+00:00",
+        "updated_at": "2025-01-28T17:11:01+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 7,

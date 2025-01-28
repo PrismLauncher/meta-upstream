@@ -250,6 +250,11 @@
         "id": "RE_kwDOFjpjCs4LtEda.NfCvzO7ruN+IGQ==",
         "release_link": "https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.14%2B7",
         "release_name": "jdk-17.0.14+7",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jdk-release-notes_17.0.14_7.json",
+            "name": "OpenJDK17U-jdk-release-notes_17.0.14_7.json",
+            "size": 86036
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jdk-sources_17.0.14_7.tar.gz",
@@ -257,7 +262,7 @@
             "size": 108242508
         },
         "timestamp": "2025-01-23T09:18:30+00:00",
-        "updated_at": "2025-01-27T15:30:51+00:00",
+        "updated_at": "2025-01-28T17:03:40+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 7,
