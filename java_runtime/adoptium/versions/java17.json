@@ -245,6 +245,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-17.0.14+7_adopt",
                 "updated_at": "2025-01-27T15:30:48+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "aix",
+                "package": {
+                    "checksum": "cabf31339c8e6289283d783f00edc8905907671a4e219d64c8723a8cce27eee2",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.14_7.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.14_7.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.14_7.tar.gz.json",
+                    "name": "OpenJDK17U-jre_ppc64_aix_hotspot_17.0.14_7.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.14%2B7/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.14_7.tar.gz.sig",
+                    "size": 41526980
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.14+7_adopt",
+                "updated_at": "2025-01-29T11:14:57+00:00"
             }
         ],
         "id": "RE_kwDOFjpjCs4LtEda.NfCvzO7ruN+IGQ==",
@@ -262,7 +281,7 @@
             "size": 108242508
         },
         "timestamp": "2025-01-23T09:18:30+00:00",
-        "updated_at": "2025-01-28T17:03:40+00:00",
+        "updated_at": "2025-01-29T11:15:36+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 7,
