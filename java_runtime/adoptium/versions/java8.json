@@ -170,6 +170,53 @@
                 "project": "jdk",
                 "scm_ref": "jdk8u442-b06_adopt",
                 "updated_at": "2025-01-29T09:58:33+00:00"
+            },
+            {
+                "architecture": "x32",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "b90ed15f765e6b58fb7d7e3997a7c976791993f8f15c6ca1941f845e31680b81",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_x86-32_windows_hotspot_8u442b06.msi.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_x86-32_windows_hotspot_8u442b06.msi",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_x86-32_windows_hotspot_8u442b06.msi.json",
+                    "name": "OpenJDK8U-jre_x86-32_windows_hotspot_8u442b06.msi",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_x86-32_windows_hotspot_8u442b06.msi.sig",
+                    "size": 30527488
+                },
+                "jvm_impl": "hotspot",
+                "os": "windows",
+                "package": {
+                    "checksum": "b860e964ac93bf64d4cd935830af4166c6846e3bfb3ee47744c3524eafae34c5",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_x86-32_windows_hotspot_8u442b06.zip.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_x86-32_windows_hotspot_8u442b06.zip",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_x86-32_windows_hotspot_8u442b06.zip.json",
+                    "name": "OpenJDK8U-jre_x86-32_windows_hotspot_8u442b06.zip",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_x86-32_windows_hotspot_8u442b06.zip.sig",
+                    "size": 38692333
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u442-b06_adopt",
+                "updated_at": "2025-01-30T13:38:37+00:00"
+            },
+            {
+                "architecture": "arm",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "055c47c5c1dfe8c9c135d87fed7a3745c17374618bc8d5acb9316d1b812c0e6d",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_arm_linux_hotspot_8u442b06.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_arm_linux_hotspot_8u442b06.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_arm_linux_hotspot_8u442b06.tar.gz.json",
+                    "name": "OpenJDK8U-jre_arm_linux_hotspot_8u442b06.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u442-b06/OpenJDK8U-jre_arm_linux_hotspot_8u442b06.tar.gz.sig",
+                    "size": 38812438
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u442-b06-aarch32-20250125_adopt",
+                "updated_at": "2025-01-30T13:49:37+00:00"
             }
         ],
         "id": "RE_kwDOFjpgDM4Ltjae.+pbRmgncqKAXfQ==",
@@ -187,7 +234,7 @@
             "size": 93067952
         },
         "timestamp": "2025-01-23T18:34:29+00:00",
-        "updated_at": "2025-01-29T09:58:35+00:00",
+        "updated_at": "2025-01-30T13:49:50+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 6,
