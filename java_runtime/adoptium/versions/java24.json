@@ -194,6 +194,11 @@
         "id": "RE_kwDOMLCddM4MWBa8.rRHhMar6nlse6w==",
         "release_link": "https://github.com/adoptium/temurin24-binaries/releases/tag/jdk-24%2B36",
         "release_name": "jdk-24+36",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24-jdk-release-notes_24_36.json",
+            "name": "OpenJDK24-jdk-release-notes_24_36.json",
+            "size": 814269
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24%2B36/OpenJDK24U-jdk-sources_24_36.tar.gz",
@@ -201,7 +206,7 @@
             "size": 121426074
         },
         "timestamp": "2025-03-20T09:06:52+00:00",
-        "updated_at": "2025-03-21T16:30:07+00:00",
+        "updated_at": "2025-03-21T19:01:17+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 36,
