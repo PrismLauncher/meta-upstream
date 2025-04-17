@@ -66,6 +66,34 @@
                 "project": "jdk",
                 "scm_ref": "jdk-24.0.1+9_adopt",
                 "updated_at": "2025-04-16T23:37:56+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "abdaf6fedcc75197a398f9018e14ef8fa826edfc0f9cf2e7e22e8f40008bd398",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.pkg.json",
+                    "name": "OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.pkg.sig",
+                    "size": 55997462
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "0c7789da2c90ea5623dea95d2815528ee83b0d2f0977b6bf830c4cac37251550",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.tar.gz.json",
+                    "name": "OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_mac_hotspot_24.0.1_9.tar.gz.sig",
+                    "size": 55629553
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-24.0.1+9_adopt",
+                "updated_at": "2025-04-17T18:58:39+00:00"
             }
         ],
         "id": "RE_kwDOMLCddM4Mr3aI.BdaC1odyuuYbwQ==",
@@ -78,7 +106,7 @@
             "size": 121516114
         },
         "timestamp": "2025-04-16T14:16:33+00:00",
-        "updated_at": "2025-04-16T23:38:17+00:00",
+        "updated_at": "2025-04-17T18:59:17+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 9,

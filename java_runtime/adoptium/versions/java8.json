@@ -19,14 +19,66 @@
                 "project": "jdk",
                 "scm_ref": "jdk8u452-b09_adopt",
                 "updated_at": "2025-04-17T13:29:30+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "746ab87659ba0a6706d59769b6943758db39fc50b26a222f78d6bfef162eb798",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x64_mac_hotspot_8u452b09.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x64_mac_hotspot_8u452b09.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x64_mac_hotspot_8u452b09.pkg.json",
+                    "name": "OpenJDK8U-jre_x64_mac_hotspot_8u452b09.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x64_mac_hotspot_8u452b09.pkg.sig",
+                    "size": 45707648
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "9059321810b1d7b6a8168f73f320e83fd76196e57a5cc8459f87c72184b055e9",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x64_mac_hotspot_8u452b09.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x64_mac_hotspot_8u452b09.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x64_mac_hotspot_8u452b09.tar.gz.json",
+                    "name": "OpenJDK8U-jre_x64_mac_hotspot_8u452b09.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x64_mac_hotspot_8u452b09.tar.gz.sig",
+                    "size": 45634826
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u452-b09_adopt",
+                "updated_at": "2025-04-17T16:26:52+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "0c76f94e1b400a4da932a3f581b0788af2101819083184f40a6c76ac9b97081f",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x64_linux_hotspot_8u452b09.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x64_linux_hotspot_8u452b09.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x64_linux_hotspot_8u452b09.tar.gz.json",
+                    "name": "OpenJDK8U-jre_x64_linux_hotspot_8u452b09.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x64_linux_hotspot_8u452b09.tar.gz.sig",
+                    "size": 41420532
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u452-b09_adopt",
+                "updated_at": "2025-04-17T20:32:59+00:00"
             }
         ],
         "id": "RE_kwDOFjpgDM4Ms7pZ.uY4FFq4kskNa4Q==",
         "release_link": "https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u452-b09",
         "release_name": "jdk8u452-b09",
         "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jdk-sources_8u452b09.tar.gz",
+            "name": "OpenJDK8U-jdk-sources_8u452b09.tar.gz",
+            "size": 93136991
+        },
         "timestamp": "2025-04-17T13:29:26+00:00",
-        "updated_at": "2025-04-17T13:29:56+00:00",
+        "updated_at": "2025-04-17T20:33:06+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 9,
