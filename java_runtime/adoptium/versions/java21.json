@@ -112,7 +112,26 @@
                 },
                 "project": "jdk",
                 "scm_ref": "jdk-21.0.7+6_adopt",
-                "updated_at": "2025-04-17T18:08:21+00:00"
+                "updated_at": "2025-04-18T18:28:29+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "f252e13683b381f9f3bfa4948c827ebd80b8e5bd444a1f99de02c56d76c7ad4c",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.json",
+                    "name": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.7_6.tar.gz.sig",
+                    "size": 52017446
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.7+6_adopt",
+                "updated_at": "2025-04-18T18:32:25+00:00"
             }
         ],
         "id": "RE_kwDOI-qQc84Mr3wU.huK+NdStksAwPA==",
@@ -125,7 +144,7 @@
             "size": 114179704
         },
         "timestamp": "2025-04-16T14:21:40+00:00",
-        "updated_at": "2025-04-17T18:08:47+00:00",
+        "updated_at": "2025-04-18T18:32:26+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 6,
