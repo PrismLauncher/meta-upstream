@@ -122,6 +122,44 @@
                 "project": "jdk",
                 "scm_ref": "jdk-24.0.1+9_adopt",
                 "updated_at": "2025-04-20T13:31:18+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "54548139feb80d2368f9ebaf1e86ea38b99cc9411c1c641b2acf9f901aedaba2",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_s390x_linux_hotspot_24.0.1_9.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_s390x_linux_hotspot_24.0.1_9.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_s390x_linux_hotspot_24.0.1_9.tar.gz.json",
+                    "name": "OpenJDK24U-jre_s390x_linux_hotspot_24.0.1_9.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_s390x_linux_hotspot_24.0.1_9.tar.gz.sig",
+                    "size": 56615354
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-24.0.1+9_adopt",
+                "updated_at": "2025-04-20T14:37:06+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "1e8b49129ce3208299c93a73455b090909a65478313ed411b4574d09c8ae9670",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24.0.1_9.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24.0.1_9.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24.0.1_9.tar.gz.json",
+                    "name": "OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24.0.1_9.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_aarch64_alpine-linux_hotspot_24.0.1_9.tar.gz.sig",
+                    "size": 58713814
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-24.0.1+9_adopt",
+                "updated_at": "2025-04-20T14:40:37+00:00"
             }
         ],
         "id": "RE_kwDOMLCddM4Mr3aI.BdaC1odyuuYbwQ==",
@@ -134,7 +172,7 @@
             "size": 121516114
         },
         "timestamp": "2025-04-16T14:16:33+00:00",
-        "updated_at": "2025-04-20T13:31:55+00:00",
+        "updated_at": "2025-04-20T14:40:44+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 9,
