@@ -94,6 +94,34 @@
                 "project": "jdk",
                 "scm_ref": "jdk-24.0.1+9_adopt",
                 "updated_at": "2025-04-17T18:58:39+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "4562ea92299178db9966b7eb7abf9f8bb5269595f6627cede8fc77caf62a2789",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.msi.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.msi",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.msi.json",
+                    "name": "OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.msi",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.msi.sig",
+                    "size": 42045440
+                },
+                "jvm_impl": "hotspot",
+                "os": "windows",
+                "package": {
+                    "checksum": "b362c2e0248a9574fe8dd958915a784d4627c3836448f3f184848616043833a7",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.zip.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.zip",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.zip.json",
+                    "name": "OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.zip",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_x64_windows_hotspot_24.0.1_9.zip.sig",
+                    "size": 57578644
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-24.0.1+9_adopt",
+                "updated_at": "2025-04-20T13:31:18+00:00"
             }
         ],
         "id": "RE_kwDOMLCddM4Mr3aI.BdaC1odyuuYbwQ==",
@@ -106,7 +134,7 @@
             "size": 121516114
         },
         "timestamp": "2025-04-16T14:16:33+00:00",
-        "updated_at": "2025-04-17T18:59:17+00:00",
+        "updated_at": "2025-04-20T13:31:55+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 9,

@@ -141,6 +141,44 @@
                 "project": "jdk",
                 "scm_ref": "jdk-17.0.15+6_adopt",
                 "updated_at": "2025-04-17T09:09:18+00:00"
+            },
+            {
+                "architecture": "riscv64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "392d179be0f9fde0b74aeb1f308be8324c2aa8c970a5c5ea456993fcbb7aa798",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.15_6.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.15_6.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.15_6.tar.gz.json",
+                    "name": "OpenJDK17U-jre_riscv64_linux_hotspot_17.0.15_6.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.15_6.tar.gz.sig",
+                    "size": 43268302
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.15+6_adopt",
+                "updated_at": "2025-04-20T13:43:28+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "38c90337ca2471085f9292d24bec75413b4e56c7826ef25e150a40cc2f727e36",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.15_6.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.15_6.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.15_6.tar.gz.json",
+                    "name": "OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.15_6.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15%2B6/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.15_6.tar.gz.sig",
+                    "size": 45772829
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.15+6_adopt",
+                "updated_at": "2025-04-20T13:46:32+00:00"
             }
         ],
         "id": "RE_kwDOFjpjCs4Mr4jx.vEcyjF7UCy9hjg==",
@@ -153,7 +191,7 @@
             "size": 108389732
         },
         "timestamp": "2025-04-16T14:31:40+00:00",
-        "updated_at": "2025-04-17T09:09:35+00:00",
+        "updated_at": "2025-04-20T13:46:47+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 6,
