@@ -160,6 +160,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-24.0.1+9_adopt",
                 "updated_at": "2025-04-20T14:40:37+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "8f24261481d61470c636ba3698ab8ebd697ab6b766ce468f82513eb60dfb48b9",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_ppc64le_linux_hotspot_24.0.1_9.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_ppc64le_linux_hotspot_24.0.1_9.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_ppc64le_linux_hotspot_24.0.1_9.tar.gz.json",
+                    "name": "OpenJDK24U-jre_ppc64le_linux_hotspot_24.0.1_9.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jre_ppc64le_linux_hotspot_24.0.1_9.tar.gz.sig",
+                    "size": 59486706
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-24.0.1+9_adopt",
+                "updated_at": "2025-04-22T11:08:16+00:00"
             }
         ],
         "id": "RE_kwDOMLCddM4Mr3aI.BdaC1odyuuYbwQ==",
@@ -172,7 +191,7 @@
             "size": 121516114
         },
         "timestamp": "2025-04-16T14:16:33+00:00",
-        "updated_at": "2025-04-20T14:40:44+00:00",
+        "updated_at": "2025-04-22T11:08:21+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 9,
