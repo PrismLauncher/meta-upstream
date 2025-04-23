@@ -169,6 +169,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-11.0.27+6_adopt",
                 "updated_at": "2025-04-22T09:46:03+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "aix",
+                "package": {
+                    "checksum": "8391b94cf57990f91ce2182a74636114eb9212515d1b57f56592dab56d3a8f39",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.27%2B6/OpenJDK11U-jre_ppc64_aix_hotspot_11.0.27_6.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.27%2B6/OpenJDK11U-jre_ppc64_aix_hotspot_11.0.27_6.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.27%2B6/OpenJDK11U-jre_ppc64_aix_hotspot_11.0.27_6.tar.gz.json",
+                    "name": "OpenJDK11U-jre_ppc64_aix_hotspot_11.0.27_6.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.27%2B6/OpenJDK11U-jre_ppc64_aix_hotspot_11.0.27_6.tar.gz.sig",
+                    "size": 43044141
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.27+6_adopt",
+                "updated_at": "2025-04-23T08:28:52+00:00"
             }
         ],
         "id": "RE_kwDOFjph084Mso4v.6JSPisGsLm0xUw==",
@@ -181,7 +200,7 @@
             "size": 117364827
         },
         "timestamp": "2025-04-17T08:04:22+00:00",
-        "updated_at": "2025-04-22T09:46:31+00:00",
+        "updated_at": "2025-04-23T08:29:07+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 6,

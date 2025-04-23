@@ -132,6 +132,34 @@
                 "project": "jdk",
                 "scm_ref": "jdk8u452-b09_adopt",
                 "updated_at": "2025-04-22T16:02:02+00:00"
+            },
+            {
+                "architecture": "x32",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "495e5b1e07a555a28b13c3be6227e182aaa4a76d31760ace952b5fa6cb8bece7",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x86-32_windows_hotspot_8u452b09.msi.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x86-32_windows_hotspot_8u452b09.msi",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x86-32_windows_hotspot_8u452b09.msi.json",
+                    "name": "OpenJDK8U-jre_x86-32_windows_hotspot_8u452b09.msi",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x86-32_windows_hotspot_8u452b09.msi.sig",
+                    "size": 30531584
+                },
+                "jvm_impl": "hotspot",
+                "os": "windows",
+                "package": {
+                    "checksum": "87d10a142719e84dbd367048bf793f7e1569226f8c07280d6e7e55e89838145f",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x86-32_windows_hotspot_8u452b09.zip.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x86-32_windows_hotspot_8u452b09.zip",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x86-32_windows_hotspot_8u452b09.zip.json",
+                    "name": "OpenJDK8U-jre_x86-32_windows_hotspot_8u452b09.zip",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u452-b09/OpenJDK8U-jre_x86-32_windows_hotspot_8u452b09.zip.sig",
+                    "size": 38692345
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u452-b09_adopt",
+                "updated_at": "2025-04-23T09:54:24+00:00"
             }
         ],
         "id": "RE_kwDOFjpgDM4Ms7pZ.uY4FFq4kskNa4Q==",
@@ -144,7 +172,7 @@
             "size": 93136991
         },
         "timestamp": "2025-04-17T13:29:26+00:00",
-        "updated_at": "2025-04-22T16:02:04+00:00",
+        "updated_at": "2025-04-23T09:54:49+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 9,
