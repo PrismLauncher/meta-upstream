@@ -222,6 +222,11 @@
         "id": "RE_kwDOMLCddM4Mr3aI.BdaC1odyuuYbwQ==",
         "release_link": "https://github.com/adoptium/temurin24-binaries/releases/tag/jdk-24.0.1%2B9",
         "release_name": "jdk-24.0.1+9",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jdk-release-notes_24.0.1_9.json",
+            "name": "OpenJDK24U-jdk-release-notes_24.0.1_9.json",
+            "size": 13256
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9/OpenJDK24U-jdk-sources_24.0.1_9.tar.gz",
@@ -229,7 +234,7 @@
             "size": 121516114
         },
         "timestamp": "2025-04-16T14:16:33+00:00",
-        "updated_at": "2025-04-23T14:13:25+00:00",
+        "updated_at": "2025-04-25T12:00:35+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 9,

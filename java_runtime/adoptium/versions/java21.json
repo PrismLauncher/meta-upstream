@@ -236,11 +236,44 @@
                 "project": "jdk",
                 "scm_ref": "jdk-21.0.7+6_adopt",
                 "updated_at": "2025-04-23T14:16:05+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "1e0cb28bc80fe9bac6680f1c4ef44943e55d72a9ec25b3b9719c1c3955349495",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi.json",
+                    "name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.msi.sig",
+                    "size": 27648000
+                },
+                "jvm_impl": "hotspot",
+                "os": "windows",
+                "package": {
+                    "checksum": "0e2d89e3d66739ffff74f7ed9582ebe3f7748898a0eaec96164e4ec5e8236b28",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip.json",
+                    "name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.7_6.zip.sig",
+                    "size": 39753150
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.7+6_adopt",
+                "updated_at": "2025-04-25T13:53:51+00:00"
             }
         ],
         "id": "RE_kwDOI-qQc84Mr3wU.huK+NdStksAwPA==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.7%2B6",
         "release_name": "jdk-21.0.7+6",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk-release-notes_21.0.6_7.json",
+            "name": "OpenJDK21U-jdk-release-notes_21.0.6_7.json",
+            "size": 79536
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.7%2B6/OpenJDK21U-jdk-sources_21.0.7_6.tar.gz",
@@ -248,7 +281,7 @@
             "size": 114179704
         },
         "timestamp": "2025-04-16T14:21:40+00:00",
-        "updated_at": "2025-04-23T14:16:23+00:00",
+        "updated_at": "2025-04-25T13:54:18+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 6,
