@@ -2,6 +2,45 @@
     {
         "binaries": [
             {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "aix",
+                "package": {
+                    "checksum": "369b634976b9330473eae5885e8c6f9a6482a558ddfacf326038472717f999be",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9.1/OpenJDK24U-jre_ppc64_aix_hotspot_24.0.1_9.1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9.1/OpenJDK24U-jre_ppc64_aix_hotspot_24.0.1_9.1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9.1/OpenJDK24U-jre_ppc64_aix_hotspot_24.0.1_9.1.tar.gz.json",
+                    "name": "OpenJDK24U-jre_ppc64_aix_hotspot_24.0.1_9.1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.1%2B9.1/OpenJDK24U-jre_ppc64_aix_hotspot_24.0.1_9.1.tar.gz.sig",
+                    "size": 40984394
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-24.0.1+9.1_adopt",
+                "updated_at": "2025-04-28T14:42:11+00:00"
+            }
+        ],
+        "id": "RE_kwDOMLCddM4M05io.ZLHYHRTqiz5+FA==",
+        "release_link": "https://github.com/adoptium/temurin24-binaries/releases/tag/jdk-24.0.1%2B9.1",
+        "release_name": "jdk-24.0.1+9.1",
+        "release_type": "ga",
+        "timestamp": "2025-04-28T14:02:18+00:00",
+        "updated_at": "2025-04-28T14:42:12+00:00",
+        "vendor": "eclipse",
+        "version_data": {
+            "adopt_build_number": 1,
+            "build": 9,
+            "major": 24,
+            "minor": 0,
+            "openjdk_version": "24.0.1+9",
+            "security": 1,
+            "semver": "24.0.1+9.1"
+        }
+    },
+    {
+        "binaries": [
+            {
                 "architecture": "x64",
                 "heap_size": "normal",
                 "image_type": "jre",
