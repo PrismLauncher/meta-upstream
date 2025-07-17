@@ -2,6 +2,53 @@
     {
         "binaries": [
             {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "5f368645874366ccc4a5a533129a7122e9d3f9dcd55f5bc396265e3385e7dddc",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.16_8.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.16_8.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.16_8.pkg.json",
+                    "name": "OpenJDK17U-jre_x64_mac_hotspot_17.0.16_8.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.16_8.pkg.sig",
+                    "size": 37635599
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "45438e511171f21ade709c6987ef4b88ea98b6c0124b4775a4b29d5822395cdd",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.16_8.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.16_8.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.16_8.tar.gz.json",
+                    "name": "OpenJDK17U-jre_x64_mac_hotspot_17.0.16_8.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_x64_mac_hotspot_17.0.16_8.tar.gz.sig",
+                    "size": 37508448
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.16+8_adopt",
+                "updated_at": "2025-07-17T18:20:50+00:00"
+            }
+        ],
+        "id": "RE_kwDOFjpjCs4N55N-.gQ8AoZfLTTX5Tg==",
+        "release_link": "https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.16%2B8",
+        "release_name": "jdk-17.0.16+8",
+        "release_type": "ga",
+        "timestamp": "2025-07-17T18:20:10+00:00",
+        "updated_at": "2025-07-17T18:20:59+00:00",
+        "vendor": "eclipse",
+        "version_data": {
+            "build": 8,
+            "major": 17,
+            "minor": 0,
+            "openjdk_version": "17.0.16+8",
+            "security": 16,
+            "semver": "17.0.16+8"
+        }
+    },
+    {
+        "binaries": [
+            {
                 "architecture": "aarch64",
                 "heap_size": "normal",
                 "image_type": "jre",

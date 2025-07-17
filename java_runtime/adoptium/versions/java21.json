@@ -19,6 +19,53 @@
                 "project": "jdk",
                 "scm_ref": "jdk-21.0.8+9_adopt",
                 "updated_at": "2025-07-17T08:02:23+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "c49855a983e4a422b42234776c8752221cfc0aefeed2ae7422696491d5f9114f",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.pkg.json",
+                    "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.pkg.sig",
+                    "size": 42218643
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "34464861ed170ea0e5acdf870011f9e92f836e712b620ba37c4b2d0e5aeb8675",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.tar.gz.json",
+                    "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_x64_mac_hotspot_21.0.8_9.tar.gz.sig",
+                    "size": 42065507
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.8+9_adopt",
+                "updated_at": "2025-07-17T18:25:45+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "f54f6e2a907c4aef95ce6d7388474c6d5d87ae87899dd309561672bcfda9121e",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.8_9.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.8_9.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.8_9.tar.gz.json",
+                    "name": "OpenJDK21U-jre_aarch64_linux_hotspot_21.0.8_9.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.8%2B9/OpenJDK21U-jre_aarch64_linux_hotspot_21.0.8_9.tar.gz.sig",
+                    "size": 51018988
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.8+9_adopt",
+                "updated_at": "2025-07-17T19:34:08+00:00"
             }
         ],
         "id": "RE_kwDOI-qQc84N5Gqk.yYNJgmgzq+4hTQ==",
@@ -26,7 +73,7 @@
         "release_name": "jdk-21.0.8+9",
         "release_type": "ga",
         "timestamp": "2025-07-17T08:02:15+00:00",
-        "updated_at": "2025-07-17T08:03:15+00:00",
+        "updated_at": "2025-07-17T19:34:41+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 9,
