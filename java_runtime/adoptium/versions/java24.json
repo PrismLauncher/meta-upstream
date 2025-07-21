@@ -128,6 +128,11 @@
         "id": "RE_kwDOMLCddM4N56jI.lePgM2j2CiJrww==",
         "release_link": "https://github.com/adoptium/temurin24-binaries/releases/tag/jdk-24.0.2%2B12",
         "release_name": "jdk-24.0.2+12",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jdk-release-notes_24.0.2_12.json",
+            "name": "OpenJDK24U-jdk-release-notes_24.0.2_12.json",
+            "size": 55535
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jdk-sources_24.0.2_12.tar.gz",
@@ -135,7 +140,7 @@
             "size": 121591509
         },
         "timestamp": "2025-07-17T18:45:38+00:00",
-        "updated_at": "2025-07-18T16:37:22+00:00",
+        "updated_at": "2025-07-21T14:56:57+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 12,
