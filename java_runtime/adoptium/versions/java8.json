@@ -38,6 +38,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk8u462-b08_adopt",
                 "updated_at": "2025-07-22T15:07:57+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "6e83ffc37da053352ccaa2fd3bd7d813b9674d87aa01b35ac3e54903cd33b0d8",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x64_linux_hotspot_8u462b08.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x64_linux_hotspot_8u462b08.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x64_linux_hotspot_8u462b08.tar.gz.json",
+                    "name": "OpenJDK8U-jre_x64_linux_hotspot_8u462b08.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x64_linux_hotspot_8u462b08.tar.gz.sig",
+                    "size": 41411475
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u462-b08_adopt",
+                "updated_at": "2025-07-23T17:41:23+00:00"
             }
         ],
         "id": "RE_kwDOFjpgDM4N8kdR.lQkCYSkFgfWxOA==",
@@ -46,11 +65,16 @@
         "release_notes": {
             "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jdk-release-notes_8u462b08.json",
             "name": "OpenJDK8U-jdk-release-notes_8u462b08.json",
-            "size": 9136
+            "size": 10224
         },
         "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jdk-sources_8u462b08.tar.gz",
+            "name": "OpenJDK8U-jdk-sources_8u462b08.tar.gz",
+            "size": 93143047
+        },
         "timestamp": "2025-07-21T16:54:31+00:00",
-        "updated_at": "2025-07-22T15:07:57+00:00",
+        "updated_at": "2025-07-23T17:41:24+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
