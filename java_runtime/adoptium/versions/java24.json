@@ -123,6 +123,53 @@
                 "project": "jdk",
                 "scm_ref": "jdk-24.0.2+12_adopt",
                 "updated_at": "2025-07-18T16:36:56+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "1873c6f5e46852d431e2f98354edfb3f417ccd8e98de002abb28b22189584215",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_mac_hotspot_24.0.2_12.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_mac_hotspot_24.0.2_12.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_mac_hotspot_24.0.2_12.pkg.json",
+                    "name": "OpenJDK24U-jre_x64_mac_hotspot_24.0.2_12.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_mac_hotspot_24.0.2_12.pkg.sig",
+                    "size": 42233632
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "a246ba0487432ef06d1d13c3588a10663c89b15aea73c8a1c3a81211c4d22627",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_mac_hotspot_24.0.2_12.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_mac_hotspot_24.0.2_12.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_mac_hotspot_24.0.2_12.tar.gz.json",
+                    "name": "OpenJDK24U-jre_x64_mac_hotspot_24.0.2_12.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_x64_mac_hotspot_24.0.2_12.tar.gz.sig",
+                    "size": 42072119
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-24.0.2+12_adopt",
+                "updated_at": "2025-07-25T02:17:27+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "6b06ed1d91930ef86afc7d2159948aa9b3054b154cd8afda35d1fddd158fc11d",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_linux_hotspot_24.0.2_12.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_linux_hotspot_24.0.2_12.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_linux_hotspot_24.0.2_12.tar.gz.json",
+                    "name": "OpenJDK24U-jre_aarch64_linux_hotspot_24.0.2_12.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_aarch64_linux_hotspot_24.0.2_12.tar.gz.sig",
+                    "size": 58615938
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-24.0.2+12_adopt",
+                "updated_at": "2025-07-25T17:22:09+00:00"
             }
         ],
         "id": "RE_kwDOMLCddM4N56jI.lePgM2j2CiJrww==",
@@ -140,7 +187,7 @@
             "size": 121591509
         },
         "timestamp": "2025-07-17T18:45:38+00:00",
-        "updated_at": "2025-07-21T14:56:57+00:00",
+        "updated_at": "2025-07-25T17:22:24+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 12,
