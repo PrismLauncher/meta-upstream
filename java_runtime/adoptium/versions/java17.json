@@ -207,6 +207,44 @@
                 "project": "jdk",
                 "scm_ref": "jdk-17.0.16+8_adopt",
                 "updated_at": "2025-07-24T15:26:00+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "1cb3764ea019a8258c1faf646704da3c1cc6b604bc2af51fe958b078d9826794",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_s390x_linux_hotspot_17.0.16_8.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_s390x_linux_hotspot_17.0.16_8.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_s390x_linux_hotspot_17.0.16_8.tar.gz.json",
+                    "name": "OpenJDK17U-jre_s390x_linux_hotspot_17.0.16_8.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_s390x_linux_hotspot_17.0.16_8.tar.gz.sig",
+                    "size": 43312066
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.16+8_adopt",
+                "updated_at": "2025-07-25T23:55:09+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "aix",
+                "package": {
+                    "checksum": "352292b0bcf83edf9f54bbade75a156229ce6727815e58b68975ddb316f53755",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.16_8.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.16_8.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.16_8.tar.gz.json",
+                    "name": "OpenJDK17U-jre_ppc64_aix_hotspot_17.0.16_8.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.16%2B8/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.16_8.tar.gz.sig",
+                    "size": 41567092
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.16+8_adopt",
+                "updated_at": "2025-07-25T23:57:09+00:00"
             }
         ],
         "id": "RE_kwDOFjpjCs4N55N-.gQ8AoZfLTTX5Tg==",
@@ -224,7 +262,7 @@
             "size": 108773112
         },
         "timestamp": "2025-07-17T18:20:10+00:00",
-        "updated_at": "2025-07-24T15:26:02+00:00",
+        "updated_at": "2025-07-25T23:57:19+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
