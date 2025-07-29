@@ -132,6 +132,34 @@
                 "project": "jdk",
                 "scm_ref": "jdk8u462-b08_adopt",
                 "updated_at": "2025-07-26T02:52:04+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "087c6cef7eb45c0a2f0e49902379a57cca2a902ccc96f24564022ac1ad06f75c",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x64_mac_hotspot_8u462b08.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x64_mac_hotspot_8u462b08.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x64_mac_hotspot_8u462b08.pkg.json",
+                    "name": "OpenJDK8U-jre_x64_mac_hotspot_8u462b08.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x64_mac_hotspot_8u462b08.pkg.sig",
+                    "size": 45711146
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "d34f688e4b8f58dca0599d0f99b31729568af26837e30d997d77fc65929d7041",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x64_mac_hotspot_8u462b08.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x64_mac_hotspot_8u462b08.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x64_mac_hotspot_8u462b08.tar.gz.json",
+                    "name": "OpenJDK8U-jre_x64_mac_hotspot_8u462b08.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_x64_mac_hotspot_8u462b08.tar.gz.sig",
+                    "size": 45634157
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u462-b08_adopt",
+                "updated_at": "2025-07-28T18:11:08+00:00"
             }
         ],
         "id": "RE_kwDOFjpgDM4N8kdR.lQkCYSkFgfWxOA==",
@@ -149,7 +177,7 @@
             "size": 93143047
         },
         "timestamp": "2025-07-21T16:54:31+00:00",
-        "updated_at": "2025-07-26T02:52:27+00:00",
+        "updated_at": "2025-07-28T18:11:38+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
