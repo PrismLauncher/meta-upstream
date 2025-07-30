@@ -160,6 +160,44 @@
                 "project": "jdk",
                 "scm_ref": "jdk8u462-b08_adopt",
                 "updated_at": "2025-07-28T18:11:08+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "aix",
+                "package": {
+                    "checksum": "191d66c0bea3f9906ee760ec3cb6b5168cc95f49133c15d21f3fc6ec2905ac29",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_ppc64_aix_hotspot_8u462b08.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_ppc64_aix_hotspot_8u462b08.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_ppc64_aix_hotspot_8u462b08.tar.gz.json",
+                    "name": "OpenJDK8U-jre_ppc64_aix_hotspot_8u462b08.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_ppc64_aix_hotspot_8u462b08.tar.gz.sig",
+                    "size": 43102852
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u462-b08_adopt",
+                "updated_at": "2025-07-29T16:31:06+00:00"
+            },
+            {
+                "architecture": "arm",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "48547114cef3ce1ab8e80c8140430d8fb2f23359d52ad6d7a0af28f5fe9c81f8",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_arm_linux_hotspot_8u462b08.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_arm_linux_hotspot_8u462b08.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_arm_linux_hotspot_8u462b08.tar.gz.json",
+                    "name": "OpenJDK8U-jre_arm_linux_hotspot_8u462b08.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_arm_linux_hotspot_8u462b08.tar.gz.sig",
+                    "size": 38813909
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u462-b08-aarch32-20250718_adopt",
+                "updated_at": "2025-07-29T19:28:05+00:00"
             }
         ],
         "id": "RE_kwDOFjpgDM4N8kdR.lQkCYSkFgfWxOA==",
@@ -177,7 +215,7 @@
             "size": 93143047
         },
         "timestamp": "2025-07-21T16:54:31+00:00",
-        "updated_at": "2025-07-28T18:11:38+00:00",
+        "updated_at": "2025-07-29T19:28:17+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
