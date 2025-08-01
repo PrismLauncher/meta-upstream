@@ -198,6 +198,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-24.0.2+12_adopt",
                 "updated_at": "2025-07-28T23:18:55+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "b25ab757f131f965195fd2cb63853299ed6bef268c845283a5a9fff562840fe2",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_s390x_linux_hotspot_24.0.2_12.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_s390x_linux_hotspot_24.0.2_12.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_s390x_linux_hotspot_24.0.2_12.tar.gz.json",
+                    "name": "OpenJDK24U-jre_s390x_linux_hotspot_24.0.2_12.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_s390x_linux_hotspot_24.0.2_12.tar.gz.sig",
+                    "size": 56627262
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-24.0.2+12_adopt",
+                "updated_at": "2025-07-31T18:18:46+00:00"
             }
         ],
         "id": "RE_kwDOMLCddM4N56jI.lePgM2j2CiJrww==",
@@ -215,7 +234,7 @@
             "size": 121591509
         },
         "timestamp": "2025-07-17T18:45:38+00:00",
-        "updated_at": "2025-07-28T23:19:24+00:00",
+        "updated_at": "2025-07-31T18:19:07+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 12,
