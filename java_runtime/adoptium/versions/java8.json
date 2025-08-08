@@ -198,6 +198,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk8u462-b08-aarch32-20250718_adopt",
                 "updated_at": "2025-07-29T19:28:05+00:00"
+            },
+            {
+                "architecture": "sparcv9",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "solaris",
+                "package": {
+                    "checksum": "a4122b413bdc949a5fd5b663dc26495e8d72e0c680cd84bed5e06053ff1e6015",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_sparcv9_solaris_hotspot_8u462b08.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_sparcv9_solaris_hotspot_8u462b08.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_sparcv9_solaris_hotspot_8u462b08.tar.gz.json",
+                    "name": "OpenJDK8U-jre_sparcv9_solaris_hotspot_8u462b08.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u462-b08/OpenJDK8U-jre_sparcv9_solaris_hotspot_8u462b08.tar.gz.sig",
+                    "size": 53377775
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u462-b08_adopt",
+                "updated_at": "2025-08-07T09:06:37+00:00"
             }
         ],
         "id": "RE_kwDOFjpgDM4N8kdR.lQkCYSkFgfWxOA==",
@@ -215,7 +234,7 @@
             "size": 93143047
         },
         "timestamp": "2025-07-21T16:54:31+00:00",
-        "updated_at": "2025-08-07T16:07:56+00:00",
+        "updated_at": "2025-08-08T11:32:56+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
