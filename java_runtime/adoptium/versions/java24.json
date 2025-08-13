@@ -217,6 +217,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-24.0.2+12_adopt",
                 "updated_at": "2025-07-31T18:18:46+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "aix",
+                "package": {
+                    "checksum": "fc4cccbe5c9fb788d37a24946d540c965a9763c69a2303ca1900c5f8c4cb0471",
+                    "checksum_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_ppc64_aix_hotspot_24.0.2_12.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_ppc64_aix_hotspot_24.0.2_12.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_ppc64_aix_hotspot_24.0.2_12.tar.gz.json",
+                    "name": "OpenJDK24U-jre_ppc64_aix_hotspot_24.0.2_12.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin24-binaries/releases/download/jdk-24.0.2%2B12/OpenJDK24U-jre_ppc64_aix_hotspot_24.0.2_12.tar.gz.sig",
+                    "size": 40932251
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-24.0.2+12_adopt",
+                "updated_at": "2025-08-13T15:44:05+00:00"
             }
         ],
         "id": "RE_kwDOMLCddM4N56jI.lePgM2j2CiJrww==",
@@ -234,7 +253,7 @@
             "size": 121591509
         },
         "timestamp": "2025-07-17T18:45:38+00:00",
-        "updated_at": "2025-08-01T17:53:09+00:00",
+        "updated_at": "2025-08-13T15:44:46+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 12,
