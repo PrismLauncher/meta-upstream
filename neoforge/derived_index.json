@@ -1088,7 +1088,6 @@
                 "21.4.29-beta",
                 "21.4.30-beta",
                 "21.4.31-beta",
-                "21.4.32-beta",
                 "21.4.33-beta",
                 "21.4.34-beta",
                 "21.4.35-beta",
@@ -70029,58 +70028,6 @@
             "mcversion": "1.21.4",
             "recommended": false,
             "version": "31"
-        },
-        "21.4.32-beta": {
-            "artifact": "neoforge",
-            "branch": "beta",
-            "build": 32,
-            "files": {
-                "changelog.txt": {
-                    "artifact": "neoforge",
-                    "classifier": "changelog.txt",
-                    "extension": "asc"
-                },
-                "installer.jar": {
-                    "artifact": "neoforge",
-                    "classifier": "installer.jar",
-                    "extension": "asc"
-                },
-                "sources": {
-                    "artifact": "neoforge",
-                    "classifier": "sources",
-                    "extension": "jar"
-                },
-                "sources.jar": {
-                    "artifact": "neoforge",
-                    "classifier": "sources.jar",
-                    "extension": "asc"
-                },
-                "universal": {
-                    "artifact": "neoforge",
-                    "classifier": "universal",
-                    "extension": "jar"
-                },
-                "universal.jar": {
-                    "artifact": "neoforge",
-                    "classifier": "universal.jar",
-                    "extension": "asc"
-                },
-                "userdev": {
-                    "artifact": "neoforge",
-                    "classifier": "userdev",
-                    "extension": "jar"
-                },
-                "userdev.jar": {
-                    "artifact": "neoforge",
-                    "classifier": "userdev.jar",
-                    "extension": "asc"
-                }
-            },
-            "latest": false,
-            "longversion": "21.4.32-beta",
-            "mcversion": "1.21.4",
-            "recommended": false,
-            "version": "32"
         },
         "21.4.33-beta": {
             "artifact": "neoforge",
