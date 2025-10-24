@@ -47,6 +47,63 @@
                 "project": "jdk",
                 "scm_ref": "jdk-21.0.9+10_adopt",
                 "updated_at": "2025-10-23T20:13:53+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "951eb9fd40e4478b0a7069b672bc0307f59045d756dd3ca6ed0b1ea12ab41ca2",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_s390x_linux_hotspot_21.0.9_10.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_s390x_linux_hotspot_21.0.9_10.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_s390x_linux_hotspot_21.0.9_10.tar.gz.json",
+                    "name": "OpenJDK21U-jre_s390x_linux_hotspot_21.0.9_10.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_s390x_linux_hotspot_21.0.9_10.tar.gz.sig",
+                    "size": 48750818
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.9+10_adopt",
+                "updated_at": "2025-10-24T07:59:13+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "17aca4ecc1600f70ec88ea0f8bf3a06ba6806bdae8c96d03c07683c800f0d4e8",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.9_10.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.9_10.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.9_10.tar.gz.json",
+                    "name": "OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.9_10.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_x64_alpine-linux_hotspot_21.0.9_10.tar.gz.sig",
+                    "size": 52137160
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.9+10_adopt",
+                "updated_at": "2025-10-24T08:03:17+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "7f8c230ba505b418e4288e2b34758a6e4da32470944740e5ba0cfaae02271c22",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.9_10.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.9_10.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.9_10.tar.gz.json",
+                    "name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.9_10.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.9_10.tar.gz.sig",
+                    "size": 51095612
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.9+10_adopt",
+                "updated_at": "2025-10-24T08:10:29+00:00"
             }
         ],
         "id": "RE_kwDOI-qQc84PTq2J.CSIS1fKdtOrSBQ==",
@@ -59,7 +116,7 @@
             "size": 114646198
         },
         "timestamp": "2025-10-23T19:54:37+00:00",
-        "updated_at": "2025-10-23T20:14:13+00:00",
+        "updated_at": "2025-10-24T08:10:30+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 10,

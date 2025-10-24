@@ -8,6 +8,45 @@
                 "jvm_impl": "hotspot",
                 "os": "alpine-linux",
                 "package": {
+                    "checksum": "46a7eca285957dadb0adacd96fe385bc5512f31b7f90a3dd01f04679d614a420",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.1%2B8/OpenJDK25U-jre_x64_alpine-linux_hotspot_25.0.1_8.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.1%2B8/OpenJDK25U-jre_x64_alpine-linux_hotspot_25.0.1_8.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.1%2B8/OpenJDK25U-jre_x64_alpine-linux_hotspot_25.0.1_8.tar.gz.json",
+                    "name": "OpenJDK25U-jre_x64_alpine-linux_hotspot_25.0.1_8.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.1%2B8/OpenJDK25U-jre_x64_alpine-linux_hotspot_25.0.1_8.tar.gz.sig",
+                    "size": 60733151
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-25.0.1+8_adopt",
+                "updated_at": "2025-10-24T08:15:00+00:00"
+            }
+        ],
+        "id": "RE_kwDONcCImc4PUFGa.88rr7Qlk/YMr6g==",
+        "release_link": "https://github.com/adoptium/temurin25-binaries/releases/tag/jdk-25.0.1%2B8",
+        "release_name": "jdk-25.0.1+8",
+        "release_type": "ga",
+        "timestamp": "2025-10-24T08:13:58+00:00",
+        "updated_at": "2025-10-24T08:15:03+00:00",
+        "vendor": "eclipse",
+        "version_data": {
+            "build": 8,
+            "major": 25,
+            "minor": 0,
+            "openjdk_version": "25.0.1+8-LTS",
+            "optional": "LTS",
+            "security": 1,
+            "semver": "25.0.1+8.0.LTS"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
                     "checksum": "aa5160aa130f0f0b4379fc62a0d5198c065815224e01318272864e56f260de34",
                     "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25%2B36/OpenJDK25U-jre_x64_alpine-linux_hotspot_25_36.tar.gz.sha256.txt",
                     "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25%2B36/OpenJDK25U-jre_x64_alpine-linux_hotspot_25_36.tar.gz",
