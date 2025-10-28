@@ -19,14 +19,38 @@
                 "project": "jdk",
                 "scm_ref": "jdk-11.0.29+7_adopt",
                 "updated_at": "2025-10-27T14:55:09+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "97a4c089411868e24bf74a9789a819ae4164818316f8a3146460a102e8db6149",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jre_x64_linux_hotspot_11.0.29_7.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jre_x64_linux_hotspot_11.0.29_7.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jre_x64_linux_hotspot_11.0.29_7.tar.gz.json",
+                    "name": "OpenJDK11U-jre_x64_linux_hotspot_11.0.29_7.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jre_x64_linux_hotspot_11.0.29_7.tar.gz.sig",
+                    "size": 43060206
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.29+7_adopt",
+                "updated_at": "2025-10-28T09:35:58+00:00"
             }
         ],
         "id": "RE_kwDOFjph084PWVPf.ZdkAVFehx+9uXQ==",
         "release_link": "https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.29%2B7",
         "release_name": "jdk-11.0.29+7",
         "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jdk-sources_11.0.29_7.tar.gz",
+            "name": "OpenJDK11U-jdk-sources_11.0.29_7.tar.gz",
+            "size": 117406191
+        },
         "timestamp": "2025-10-27T14:55:01+00:00",
-        "updated_at": "2025-10-27T14:56:32+00:00",
+        "updated_at": "2025-10-28T09:37:00+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 7,

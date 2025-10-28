@@ -76,6 +76,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-25.0.1+8_adopt",
                 "updated_at": "2025-10-26T13:02:47+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "5371ad922cb4ff571a57c8e5dd14485ebf5b3994cd71e6ea09088312de3bed71",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.1%2B8/OpenJDK25U-jre_aarch64_linux_hotspot_25.0.1_8.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.1%2B8/OpenJDK25U-jre_aarch64_linux_hotspot_25.0.1_8.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.1%2B8/OpenJDK25U-jre_aarch64_linux_hotspot_25.0.1_8.tar.gz.json",
+                    "name": "OpenJDK25U-jre_aarch64_linux_hotspot_25.0.1_8.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.1%2B8/OpenJDK25U-jre_aarch64_linux_hotspot_25.0.1_8.tar.gz.sig",
+                    "size": 60224175
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-25.0.1+8_adopt",
+                "updated_at": "2025-10-28T10:47:45+00:00"
             }
         ],
         "id": "RE_kwDONcCImc4PUFGa.88rr7Qlk/YMr6g==",
@@ -88,7 +107,7 @@
             "size": 120206574
         },
         "timestamp": "2025-10-24T08:13:58+00:00",
-        "updated_at": "2025-10-26T13:03:36+00:00",
+        "updated_at": "2025-10-28T10:48:18+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
