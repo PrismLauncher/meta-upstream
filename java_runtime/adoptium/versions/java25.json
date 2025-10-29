@@ -203,6 +203,11 @@
         "id": "RE_kwDONcCImc4PUFGa.88rr7Qlk/YMr6g==",
         "release_link": "https://github.com/adoptium/temurin25-binaries/releases/tag/jdk-25.0.1%2B8",
         "release_name": "jdk-25.0.1+8",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.1%2B8/OpenJDK25U-jdk-release-notes_25.0.1_8.json",
+            "name": "OpenJDK25U-jdk-release-notes_25.0.1_8.json",
+            "size": 8528
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.1%2B8/OpenJDK25U-jdk-sources_25.0.1_8.tar.gz",
@@ -210,7 +215,7 @@
             "size": 120206574
         },
         "timestamp": "2025-10-24T08:13:58+00:00",
-        "updated_at": "2025-10-29T09:19:44+00:00",
+        "updated_at": "2025-10-29T10:24:44+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
