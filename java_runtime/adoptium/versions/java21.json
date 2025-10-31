@@ -151,6 +151,44 @@
                 "project": "jdk",
                 "scm_ref": "jdk-21.0.9+10_adopt",
                 "updated_at": "2025-10-30T22:24:34+00:00"
+            },
+            {
+                "architecture": "riscv64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "bf821d8240e5d660f0c7e1ffa4f62e4b2dbf72c3d2245d9371160f61389b5fa4",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.9_10.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.9_10.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.9_10.tar.gz.json",
+                    "name": "OpenJDK21U-jre_riscv64_linux_hotspot_21.0.9_10.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.9_10.tar.gz.sig",
+                    "size": 51529258
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.9+10_adopt",
+                "updated_at": "2025-10-31T09:57:44+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "aix",
+                "package": {
+                    "checksum": "2802938e712b30a807710c835c506f530e1886cf192a76ece8c773009543ad00",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.9_10.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.9_10.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.9_10.tar.gz.json",
+                    "name": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.9_10.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.9%2B10/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.9_10.tar.gz.sig",
+                    "size": 48302203
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.9+10_adopt",
+                "updated_at": "2025-10-31T12:40:02+00:00"
             }
         ],
         "id": "RE_kwDOI-qQc84PTq2J.CSIS1fKdtOrSBQ==",
@@ -168,7 +206,7 @@
             "size": 114646198
         },
         "timestamp": "2025-10-23T19:54:37+00:00",
-        "updated_at": "2025-10-30T22:25:15+00:00",
+        "updated_at": "2025-10-31T12:40:18+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 10,
