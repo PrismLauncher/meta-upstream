@@ -170,6 +170,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-17.0.17+10_adopt",
                 "updated_at": "2025-11-03T13:31:44+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "bc39038e7a874da232f80f49f90f7ec08213fc66b956405f6cc45eed3658cd0a",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.17%2B10/OpenJDK17U-jre_ppc64le_linux_hotspot_17.0.17_10.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.17%2B10/OpenJDK17U-jre_ppc64le_linux_hotspot_17.0.17_10.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.17%2B10/OpenJDK17U-jre_ppc64le_linux_hotspot_17.0.17_10.tar.gz.json",
+                    "name": "OpenJDK17U-jre_ppc64le_linux_hotspot_17.0.17_10.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.17%2B10/OpenJDK17U-jre_ppc64le_linux_hotspot_17.0.17_10.tar.gz.sig",
+                    "size": 46012418
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.17+10_adopt",
+                "updated_at": "2025-11-05T09:39:55+00:00"
             }
         ],
         "id": "RE_kwDOFjpjCs4PTsez.eog7DzhOrmAuWg==",
@@ -187,7 +206,7 @@
             "size": 108837846
         },
         "timestamp": "2025-10-23T20:16:59+00:00",
-        "updated_at": "2025-11-03T13:33:28+00:00",
+        "updated_at": "2025-11-05T09:41:14+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 10,
