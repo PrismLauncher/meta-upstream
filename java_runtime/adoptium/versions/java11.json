@@ -198,6 +198,34 @@
                 "project": "jdk",
                 "scm_ref": "jdk-11.0.29+7_adopt",
                 "updated_at": "2025-11-06T09:27:01+00:00"
+            },
+            {
+                "architecture": "x32",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "dec292e1d6e90944d0c4592e3df26d19072025ed34657d67d3456281f7f3026a",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.29_7.msi.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.29_7.msi",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.29_7.msi.json",
+                    "name": "OpenJDK11U-jre_x86-32_windows_hotspot_11.0.29_7.msi",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.29_7.msi.sig",
+                    "size": 27168768
+                },
+                "jvm_impl": "hotspot",
+                "os": "windows",
+                "package": {
+                    "checksum": "b747698a05a39391a58b9caac30310275e4e6bd9fef92d6c149cba310d91d2be",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.29_7.zip.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.29_7.zip",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.29_7.zip.json",
+                    "name": "OpenJDK11U-jre_x86-32_windows_hotspot_11.0.29_7.zip",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.29%2B7/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.29_7.zip.sig",
+                    "size": 38048163
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.29+7_adopt",
+                "updated_at": "2025-11-07T09:06:18+00:00"
             }
         ],
         "id": "RE_kwDOFjph084PWVPf.ZdkAVFehx+9uXQ==",
@@ -215,7 +243,7 @@
             "size": 117406191
         },
         "timestamp": "2025-10-27T14:55:01+00:00",
-        "updated_at": "2025-11-06T09:27:41+00:00",
+        "updated_at": "2025-11-07T09:07:09+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 7,
