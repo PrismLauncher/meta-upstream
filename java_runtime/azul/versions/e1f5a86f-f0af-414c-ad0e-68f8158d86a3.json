@@ -1,0 +1,42 @@
+{
+    "abi": "any",
+    "arch": "arm",
+    "archive_type": "zip",
+    "availability_type": "CA",
+    "build_date": "2026-01-07T21:08:42+00:00",
+    "certifications": [
+        "tck"
+    ],
+    "cpu_gen": [
+        "v8"
+    ],
+    "distro_version": [
+        25,
+        32,
+        17,
+        0
+    ],
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu25.32.17-ca-jre25.0.2-macosx_aarch64.zip",
+    "hw_bitness": 64,
+    "java_package_type": "jre",
+    "java_version": [
+        25,
+        0,
+        2
+    ],
+    "javafx_bundled": false,
+    "last_modified": "2026-01-20T11:39:31+00:00",
+    "latest": true,
+    "md5_hash": "fc9038c2cd30cd05d561ed1d3e1f1ecf",
+    "name": "zulu25.32.17-ca-jre25.0.2-macosx_aarch64.zip",
+    "openjdk_build_number": 10,
+    "os": "macos",
+    "package_uuid": "e1f5a86f-f0af-414c-ad0e-68f8158d86a3",
+    "product": "zulu",
+    "release_status": "ga",
+    "release_type": "PSU",
+    "sha256_hash": "3e989b8d7e7845b4e10e14e1bc7b7bb5a7a96d8085f56ba4397f1ae57f1fe5d5",
+    "signatures": [],
+    "size": 57308400,
+    "support_term": "lts"
+}

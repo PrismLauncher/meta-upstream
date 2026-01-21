@@ -1,0 +1,41 @@
+{
+    "abi": "any",
+    "arch": "x86",
+    "archive_type": "zip",
+    "availability_type": "CA",
+    "build_date": "2026-01-15T07:19:21+00:00",
+    "certifications": [
+        "tck"
+    ],
+    "cpu_gen": [],
+    "distro_version": [
+        11,
+        86,
+        19,
+        0
+    ],
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu11.86.19-ca-jre11.0.30-linux_x64.zip",
+    "hw_bitness": 64,
+    "java_package_type": "jre",
+    "java_version": [
+        11,
+        0,
+        30
+    ],
+    "javafx_bundled": false,
+    "last_modified": "2026-01-19T11:31:36+00:00",
+    "latest": true,
+    "lib_c_type": "glibc",
+    "md5_hash": "06811c3e30bb484009ccf142fae5554f",
+    "name": "zulu11.86.19-ca-jre11.0.30-linux_x64.zip",
+    "openjdk_build_number": 7,
+    "os": "linux",
+    "package_uuid": "d19743f9-9f24-4743-9cbd-bd6a0411b808",
+    "product": "zulu",
+    "release_status": "ga",
+    "release_type": "PSU",
+    "sha256_hash": "19035f6f3655ea1cd012399d12edc7c01cec16108bc8af15085616e53055079c",
+    "signatures": [],
+    "size": 43335100,
+    "support_term": "lts"
+}
