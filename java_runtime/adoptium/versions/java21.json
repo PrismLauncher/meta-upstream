@@ -2,6 +2,50 @@
     {
         "binaries": [
             {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "991be6ac6725e76109ecbd131d658f992dcbeacba3a8b4b6650302c8012b52fb",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.10_7.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.10_7.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.10_7.tar.gz.json",
+                    "name": "OpenJDK21U-jre_x64_linux_hotspot_21.0.10_7.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_x64_linux_hotspot_21.0.10_7.tar.gz.sig",
+                    "size": 51947513
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.10+7_adopt",
+                "updated_at": "2026-01-21T11:31:38+00:00"
+            }
+        ],
+        "id": "RE_kwDOI-qQc84QmwMQ.gTLOTSgndZDaeA==",
+        "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.10%2B7",
+        "release_name": "jdk-21.0.10+7",
+        "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jdk-sources_21.0.10_7.tar.gz",
+            "name": "OpenJDK21U-jdk-sources_21.0.10_7.tar.gz",
+            "size": 114820169
+        },
+        "timestamp": "2026-01-21T11:30:56+00:00",
+        "updated_at": "2026-01-21T11:31:50+00:00",
+        "vendor": "eclipse",
+        "version_data": {
+            "build": 7,
+            "major": 21,
+            "minor": 0,
+            "openjdk_version": "21.0.10+7-LTS",
+            "optional": "LTS",
+            "security": 10,
+            "semver": "21.0.10+7.0.LTS"
+        }
+    },
+    {
+        "binaries": [
+            {
                 "architecture": "aarch64",
                 "heap_size": "normal",
                 "image_type": "jre",
