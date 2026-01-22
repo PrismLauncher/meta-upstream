@@ -2,6 +2,45 @@
     {
         "binaries": [
             {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "159099235c536b152f86111a694a8a03392948924736f354c79e95532dcfc1f8",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.2%2B10/OpenJDK25U-jre_aarch64_alpine-linux_hotspot_25.0.2_10.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.2%2B10/OpenJDK25U-jre_aarch64_alpine-linux_hotspot_25.0.2_10.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.2%2B10/OpenJDK25U-jre_aarch64_alpine-linux_hotspot_25.0.2_10.tar.gz.json",
+                    "name": "OpenJDK25U-jre_aarch64_alpine-linux_hotspot_25.0.2_10.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.2%2B10/OpenJDK25U-jre_aarch64_alpine-linux_hotspot_25.0.2_10.tar.gz.sig",
+                    "size": 59585079
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-25.0.2+10_adopt",
+                "updated_at": "2026-01-22T08:56:36+00:00"
+            }
+        ],
+        "id": "RE_kwDONcCImc4Qn-eN.g7CN08eWuC295A==",
+        "release_link": "https://github.com/adoptium/temurin25-binaries/releases/tag/jdk-25.0.2%2B10",
+        "release_name": "jdk-25.0.2+10",
+        "release_type": "ga",
+        "timestamp": "2026-01-22T08:56:31+00:00",
+        "updated_at": "2026-01-22T08:57:20+00:00",
+        "vendor": "eclipse",
+        "version_data": {
+            "build": 10,
+            "major": 25,
+            "minor": 0,
+            "openjdk_version": "25.0.2+10-LTS",
+            "optional": "LTS",
+            "security": 2,
+            "semver": "25.0.2+10.0.LTS"
+        }
+    },
+    {
+        "binaries": [
+            {
                 "architecture": "x64",
                 "heap_size": "normal",
                 "image_type": "jre",
