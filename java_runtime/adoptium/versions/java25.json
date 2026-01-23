@@ -100,6 +100,11 @@
         "id": "RE_kwDONcCImc4Qn-eN.g7CN08eWuC295A==",
         "release_link": "https://github.com/adoptium/temurin25-binaries/releases/tag/jdk-25.0.2%2B10",
         "release_name": "jdk-25.0.2+10",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.2%2B10/OpenJDK25U-jdk-release-notes_25.0.2_10.json",
+            "name": "OpenJDK25U-jdk-release-notes_25.0.2_10.json",
+            "size": 106340
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.2%2B10/OpenJDK25U-jdk-sources_25.0.2_10.tar.gz",
@@ -107,7 +112,7 @@
             "size": 120308795
         },
         "timestamp": "2026-01-22T08:56:31+00:00",
-        "updated_at": "2026-01-23T11:09:02+00:00",
+        "updated_at": "2026-01-23T16:14:09+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 10,
