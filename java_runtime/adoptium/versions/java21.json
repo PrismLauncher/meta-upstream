@@ -38,6 +38,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-21.0.10+7_adopt",
                 "updated_at": "2026-01-21T18:40:47+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "d1cd7b33dcd81293b0b705f4d0e79adce092786be31736a63abe6a4b31841ae5",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.10_7.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.10_7.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.10_7.tar.gz.json",
+                    "name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.10_7.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10%2B7/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.10_7.tar.gz.sig",
+                    "size": 51112090
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.10+7_adopt",
+                "updated_at": "2026-01-22T21:01:56+00:00"
             }
         ],
         "id": "RE_kwDOI-qQc84QmwMQ.gTLOTSgndZDaeA==",
@@ -50,7 +69,7 @@
             "size": 114820169
         },
         "timestamp": "2026-01-21T11:30:56+00:00",
-        "updated_at": "2026-01-21T18:41:27+00:00",
+        "updated_at": "2026-01-22T21:02:12+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 7,
