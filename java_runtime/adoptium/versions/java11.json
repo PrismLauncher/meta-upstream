@@ -6,6 +6,92 @@
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "d851e43d81ec6ff7f28efe28c42b4787a045e8f59cdcd6434dece98d8342eb8a",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_x64_linux_hotspot_11.0.30_7.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_x64_linux_hotspot_11.0.30_7.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_x64_linux_hotspot_11.0.30_7.tar.gz.json",
+                    "name": "OpenJDK11U-jre_x64_linux_hotspot_11.0.30_7.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_x64_linux_hotspot_11.0.30_7.tar.gz.sig",
+                    "size": 43475983
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.30+7_adopt",
+                "updated_at": "2026-01-28T09:19:35+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "d64f2f707b3940789f3d75c8cf55a409e786c3ca4c0e85f3fedf42e1e3ef63ae",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_ppc64le_linux_hotspot_11.0.30_7.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_ppc64le_linux_hotspot_11.0.30_7.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_ppc64le_linux_hotspot_11.0.30_7.tar.gz.json",
+                    "name": "OpenJDK11U-jre_ppc64le_linux_hotspot_11.0.30_7.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_ppc64le_linux_hotspot_11.0.30_7.tar.gz.sig",
+                    "size": 39098984
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.30+7_adopt",
+                "updated_at": "2026-01-28T09:21:15+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "b30f7db6fd41047c60978bd2c88b6b9bea108803482db4e163dd7fd2b1aec1f7",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.30_7.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.30_7.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.30_7.tar.gz.json",
+                    "name": "OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.30_7.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.30_7.tar.gz.sig",
+                    "size": 42808558
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.30+7_adopt",
+                "updated_at": "2026-01-28T09:23:46+00:00"
+            }
+        ],
+        "id": "RE_kwDOFjph084Qrzp3.lzuwdE6GT3LrnA==",
+        "release_link": "https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.30%2B7",
+        "release_name": "jdk-11.0.30+7",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jdk-release-notes_11.0.30_7.json",
+            "name": "OpenJDK11U-jdk-release-notes_11.0.30_7.json",
+            "size": 15183
+        },
+        "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jdk-sources_11.0.30_7.tar.gz",
+            "name": "OpenJDK11U-jdk-sources_11.0.30_7.tar.gz",
+            "size": 117450714
+        },
+        "timestamp": "2026-01-26T13:08:11+00:00",
+        "updated_at": "2026-01-28T09:23:59+00:00",
+        "vendor": "eclipse",
+        "version_data": {
+            "build": 7,
+            "major": 11,
+            "minor": 0,
+            "openjdk_version": "11.0.30+7",
+            "security": 30,
+            "semver": "11.0.30+7"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
                 "os": "alpine-linux",
                 "package": {
                     "checksum": "a37e818c23e19a0f3f6a77827eac9c6dab572c22efafa6c0e888cce2555d39a2",
