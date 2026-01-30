@@ -2,6 +2,49 @@
     {
         "binaries": [
             {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "b563c5c90dcff0c1cf5a1bdc3110e560c979254a17e696902e922631264cf342",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_ppc64le_linux_hotspot_8u482b08.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_ppc64le_linux_hotspot_8u482b08.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_ppc64le_linux_hotspot_8u482b08.tar.gz.json",
+                    "name": "OpenJDK8U-jre_ppc64le_linux_hotspot_8u482b08.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_ppc64le_linux_hotspot_8u482b08.tar.gz.sig",
+                    "size": 41310986
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u482-b08_adopt",
+                "updated_at": "2026-01-29T23:32:54+00:00"
+            }
+        ],
+        "id": "RE_kwDOFjpgDM4Qrz8a.Tc4dgztdV3oapg==",
+        "release_link": "https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u482-b08",
+        "release_name": "jdk8u482-b08",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jdk-release-notes_8u482b08.json",
+            "name": "OpenJDK8U-jdk-release-notes_8u482b08.json",
+            "size": 14840
+        },
+        "release_type": "ga",
+        "timestamp": "2026-01-26T13:12:32+00:00",
+        "updated_at": "2026-01-29T23:33:12+00:00",
+        "vendor": "eclipse",
+        "version_data": {
+            "build": 8,
+            "major": 8,
+            "minor": 0,
+            "openjdk_version": "1.8.0_482-b08",
+            "security": 482,
+            "semver": "8.0.482+8"
+        }
+    },
+    {
+        "binaries": [
+            {
                 "architecture": "x64",
                 "heap_size": "normal",
                 "image_type": "jre",
