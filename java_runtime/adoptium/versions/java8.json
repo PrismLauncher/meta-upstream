@@ -76,6 +76,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk8u482-b08_adopt",
                 "updated_at": "2026-02-02T16:21:26+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "aix",
+                "package": {
+                    "checksum": "e72ba30e3547e24c9635c85345b858a433229bb5aaf473564ba2613045a45dce",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_ppc64_aix_hotspot_8u482b08.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_ppc64_aix_hotspot_8u482b08.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_ppc64_aix_hotspot_8u482b08.tar.gz.json",
+                    "name": "OpenJDK8U-jre_ppc64_aix_hotspot_8u482b08.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u482-b08/OpenJDK8U-jre_ppc64_aix_hotspot_8u482b08.tar.gz.sig",
+                    "size": 43505950
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u482-b08_adopt",
+                "updated_at": "2026-02-03T16:25:28+00:00"
             }
         ],
         "id": "RE_kwDOFjpgDM4Qrz8a.Tc4dgztdV3oapg==",
@@ -93,7 +112,7 @@
             "size": 94178432
         },
         "timestamp": "2026-01-26T13:12:32+00:00",
-        "updated_at": "2026-02-02T16:21:48+00:00",
+        "updated_at": "2026-02-03T16:25:29+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
