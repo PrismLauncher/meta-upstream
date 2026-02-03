@@ -57,6 +57,44 @@
                 "project": "jdk",
                 "scm_ref": "jdk-11.0.30+7_adopt",
                 "updated_at": "2026-01-28T09:23:46+00:00"
+            },
+            {
+                "architecture": "arm",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "8cc849890ecee80b002171f54b6df7d14744b83ba44646f52f5ca927a85599b7",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_arm_linux_hotspot_11.0.30_7.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_arm_linux_hotspot_11.0.30_7.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_arm_linux_hotspot_11.0.30_7.tar.gz.json",
+                    "name": "OpenJDK11U-jre_arm_linux_hotspot_11.0.30_7.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_arm_linux_hotspot_11.0.30_7.tar.gz.sig",
+                    "size": 41859010
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.30+7_adopt",
+                "updated_at": "2026-02-03T10:29:03+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "634f7ee49a6f1e8be64dfaf91b9c0306b5662d40bd5624010f6a9c4862e4e1b6",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_s390x_linux_hotspot_11.0.30_7.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_s390x_linux_hotspot_11.0.30_7.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_s390x_linux_hotspot_11.0.30_7.tar.gz.json",
+                    "name": "OpenJDK11U-jre_s390x_linux_hotspot_11.0.30_7.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.30%2B7/OpenJDK11U-jre_s390x_linux_hotspot_11.0.30_7.tar.gz.sig",
+                    "size": 37724317
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.30+7_adopt",
+                "updated_at": "2026-02-03T12:52:15+00:00"
             }
         ],
         "id": "RE_kwDOFjph084Qrzp3.lzuwdE6GT3LrnA==",
@@ -74,7 +112,7 @@
             "size": 117450714
         },
         "timestamp": "2026-01-26T13:08:11+00:00",
-        "updated_at": "2026-01-28T09:23:59+00:00",
+        "updated_at": "2026-02-03T12:52:43+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 7,
