@@ -2,6 +2,86 @@
     {
         "availability_type": "CA",
         "distro_version": [
+            26,
+            28,
+            59,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu26.28.59-ca-jre26.0.0-macosx_x64.zip",
+        "java_version": [
+            26,
+            0,
+            0
+        ],
+        "latest": true,
+        "name": "zulu26.28.59-ca-jre26.0.0-macosx_x64.zip",
+        "openjdk_build_number": 35,
+        "package_uuid": "f167224b-c87e-4cd3-9e67-83c582cdafdf",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            26,
+            28,
+            59,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu26.28.59-ca-jre26.0.0-macosx_aarch64.zip",
+        "java_version": [
+            26,
+            0,
+            0
+        ],
+        "latest": true,
+        "name": "zulu26.28.59-ca-jre26.0.0-macosx_aarch64.zip",
+        "openjdk_build_number": 35,
+        "package_uuid": "95d7eae4-3d66-402f-9cf7-af68a4e81521",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            26,
+            28,
+            59,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu26.28.59-ca-jre26.0.0-linux_x64.zip",
+        "java_version": [
+            26,
+            0,
+            0
+        ],
+        "latest": true,
+        "name": "zulu26.28.59-ca-jre26.0.0-linux_x64.zip",
+        "openjdk_build_number": 35,
+        "package_uuid": "00775294-ab54-4e90-80c1-d6dc5b31021b",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
+            26,
+            28,
+            59,
+            0
+        ],
+        "download_url": "https://cdn.azul.com/zulu/bin/zulu26.28.59-ca-jre26.0.0-win_x64.zip",
+        "java_version": [
+            26,
+            0,
+            0
+        ],
+        "latest": true,
+        "name": "zulu26.28.59-ca-jre26.0.0-win_x64.zip",
+        "openjdk_build_number": 35,
+        "package_uuid": "62f9413f-5900-4068-bb2b-e57a6214e33c",
+        "product": "zulu"
+    },
+    {
+        "availability_type": "CA",
+        "distro_version": [
             25,
             32,
             21,
