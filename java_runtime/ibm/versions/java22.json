@@ -1,0 +1,587 @@
+[
+    {
+        "binaries": [
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
+                    "checksum": "3fdb029aca24c66e39cb7c30e2fb0f8fc51df2c9a693cb2cbafab36dbeeb6707",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_ppc64_aix_22.0.2_9_openj9-0.46.1.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_ppc64_aix_22.0.2_9_openj9-0.46.1.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_ppc64_aix_22.0.2_9_openj9-0.46.1.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_22.0.2_9_openj9-0.46.1.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_ppc64_aix_22.0.2_9_openj9-0.46.1.tar.gz.sig",
+                    "size": 64628767
+                },
+                "project": "jdk",
+                "scm_ref": "v0.46.1-release",
+                "updated_at": "2024-09-10T17:42:42+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "033d4d3dd15dd7191fe232e2d117187788268685963b5b7e63709f06a462da4e",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_aarch64_linux_22.0.2_9_openj9-0.46.1.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_aarch64_linux_22.0.2_9_openj9-0.46.1.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_aarch64_linux_22.0.2_9_openj9-0.46.1.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_22.0.2_9_openj9-0.46.1.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_aarch64_linux_22.0.2_9_openj9-0.46.1.tar.gz.sig",
+                    "size": 50560756
+                },
+                "project": "jdk",
+                "scm_ref": "v0.46.1-release",
+                "updated_at": "2024-09-10T17:43:31+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "bb4a5c07cd7997b160be4b087140c3698be5cf46eb3fee43751674c29b995523",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_ppc64le_linux_22.0.2_9_openj9-0.46.1.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_ppc64le_linux_22.0.2_9_openj9-0.46.1.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_ppc64le_linux_22.0.2_9_openj9-0.46.1.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_22.0.2_9_openj9-0.46.1.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_ppc64le_linux_22.0.2_9_openj9-0.46.1.tar.gz.sig",
+                    "size": 55766131
+                },
+                "project": "jdk",
+                "scm_ref": "v0.46.1-release",
+                "updated_at": "2024-09-10T17:44:23+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "5e4f3cf3a5e91d288d663004e566cd34807f269e932e8fa4f83bfb4eb874bfa0",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_s390x_linux_22.0.2_9_openj9-0.46.1.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_s390x_linux_22.0.2_9_openj9-0.46.1.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_s390x_linux_22.0.2_9_openj9-0.46.1.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_22.0.2_9_openj9-0.46.1.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_s390x_linux_22.0.2_9_openj9-0.46.1.tar.gz.sig",
+                    "size": 53830346
+                },
+                "project": "jdk",
+                "scm_ref": "v0.46.1-release",
+                "updated_at": "2024-09-10T17:45:16+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "b757ae8028136ec0bace63c9f5b698a31d1b3b6f7a07ada6d5da3879859fabc7",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_linux_22.0.2_9_openj9-0.46.1.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_linux_22.0.2_9_openj9-0.46.1.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_linux_22.0.2_9_openj9-0.46.1.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_22.0.2_9_openj9-0.46.1.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_linux_22.0.2_9_openj9-0.46.1.tar.gz.sig",
+                    "size": 54216040
+                },
+                "project": "jdk",
+                "scm_ref": "v0.46.1-release",
+                "updated_at": "2024-09-10T17:46:06+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "1392a3a2fa782a078ba152565c62c3751d3860497c4d8ccd5f2f8c26934fba46",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.1.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.1.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.1.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.1.msi",
+                    "size": 39727104
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "2196ccd0e4ea4b22b45c60c1982e994f9f723b7daf5c7de4bafad682750a8c86",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.1.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.1.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.1.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.1.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.1.zip.sig",
+                    "size": 54958929
+                },
+                "project": "jdk",
+                "scm_ref": "v0.46.1-release",
+                "updated_at": "2024-09-10T17:47:26+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "9a5ad8a6df28e6f8028ea201c2c313b147641f280c059607bfb4b84c1c1b83ea",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.1.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.1.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.1.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.1.pkg",
+                    "size": 49087187
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "fae17c3fee39aa728671129ba33a865435e2a2a300db83cb0ff8aabd988a9c67",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.1.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.1.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.1.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.1.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.1.tar.gz.sig",
+                    "size": 49009439
+                },
+                "project": "jdk",
+                "scm_ref": "v0.46.1-release",
+                "updated_at": "2024-09-12T16:16:52+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "fd0b001bf7251c9e4b25e37f30eda688ab259a613b6d4e9cc55a4331077fd8e8",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.1.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.1.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.1.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.1.pkg",
+                    "size": 52400166
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "c10c3445053d0df3507173a6387e1574dfe8ece515718dee528bbf9d1a6f3e9a",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.1.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.1.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.1.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.1.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.1/ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.1.tar.gz.sig",
+                    "size": 52317722
+                },
+                "project": "jdk",
+                "scm_ref": "v0.46.1-release",
+                "updated_at": "2024-09-12T16:16:56+00:00"
+            }
+        ],
+        "id": "RE_kwDOL8nqUc4KZP6L.H7QdUU9VwHUKvw==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/tag/jdk-22.0.2%2B9_openj9-0.46.1",
+        "release_name": "jdk-22.0.2+9_openj9-0.46.1",
+        "release_type": "ga",
+        "timestamp": "2024-09-10T17:59:25+00:00",
+        "updated_at": "2024-09-12T16:16:56+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 9,
+            "major": 22,
+            "minor": 0,
+            "openjdk_version": "22.0.2+9",
+            "security": 2,
+            "semver": "22.0.2+9"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "79de3ae29e9407d13c0a2e8717425ad11c076db9390c983c50467fc0c8e10e11",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_aarch64_linux_22.0.2_9_openj9-0.46.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_aarch64_linux_22.0.2_9_openj9-0.46.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_aarch64_linux_22.0.2_9_openj9-0.46.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_22.0.2_9_openj9-0.46.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_aarch64_linux_22.0.2_9_openj9-0.46.0.tar.gz.sig",
+                    "size": 50560879
+                },
+                "project": "jdk",
+                "scm_ref": "v0.46.0-release",
+                "updated_at": "2024-08-09T06:06:22+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
+                    "checksum": "2cbacd8da3d336a494ca4b38c437b5348fda151c4fa6206855c77d09c77f2d89",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_ppc64_aix_22.0.2_9_openj9-0.46.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_ppc64_aix_22.0.2_9_openj9-0.46.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_ppc64_aix_22.0.2_9_openj9-0.46.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_22.0.2_9_openj9-0.46.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_ppc64_aix_22.0.2_9_openj9-0.46.0.tar.gz.sig",
+                    "size": 64640735
+                },
+                "project": "jdk",
+                "scm_ref": "v0.46.0-release",
+                "updated_at": "2024-08-09T06:06:31+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "cb5fe1e7761c7dd689cfb11ce20017456b174562e64670896d5d00faf4825da0",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_ppc64le_linux_22.0.2_9_openj9-0.46.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_ppc64le_linux_22.0.2_9_openj9-0.46.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_ppc64le_linux_22.0.2_9_openj9-0.46.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_22.0.2_9_openj9-0.46.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_ppc64le_linux_22.0.2_9_openj9-0.46.0.tar.gz.sig",
+                    "size": 55765327
+                },
+                "project": "jdk",
+                "scm_ref": "v0.46.0-release",
+                "updated_at": "2024-08-09T06:06:34+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "bc6b0af0d378fd1ee52ccfc4d8767e276abeb7a1d0e4a59b785114ae914dc504",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_s390x_linux_22.0.2_9_openj9-0.46.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_s390x_linux_22.0.2_9_openj9-0.46.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_s390x_linux_22.0.2_9_openj9-0.46.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_22.0.2_9_openj9-0.46.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_s390x_linux_22.0.2_9_openj9-0.46.0.tar.gz.sig",
+                    "size": 53830878
+                },
+                "project": "jdk",
+                "scm_ref": "v0.46.0-release",
+                "updated_at": "2024-08-09T06:06:37+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "94b0a0dcf87eda1bc739c827bdd69710569f816d9fad83698e14658d9da9402a",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_linux_22.0.2_9_openj9-0.46.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_linux_22.0.2_9_openj9-0.46.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_linux_22.0.2_9_openj9-0.46.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_22.0.2_9_openj9-0.46.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_linux_22.0.2_9_openj9-0.46.0.tar.gz.sig",
+                    "size": 54215536
+                },
+                "project": "jdk",
+                "scm_ref": "v0.46.0-release",
+                "updated_at": "2024-08-09T06:06:40+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "9a7bdceaf128895c50cf41bdbc9959067fba486df8889c511e21ab906ae55c21",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.0.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.0.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.0.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.0.msi",
+                    "size": 39727104
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "2fa906e0ff9f3822e1659c222d77fe202216c21081dd2d7a2516097117e2ba3a",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.0.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.0.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.0.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.0.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_windows_22.0.2_9_openj9-0.46.0.zip.sig",
+                    "size": 54959369
+                },
+                "project": "jdk",
+                "scm_ref": "v0.46.0-release",
+                "updated_at": "2024-08-09T06:06:50+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "76b5656b77a1046f24fe5d7fb3b9133ecd3c1878a1899196e19e38e3b296a5d7",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.0.pkg",
+                    "size": 49090643
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "ec4b86d76d0eb2d6b26846455392a461b3a229dee59af7cd812496d68458ea25",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_aarch64_mac_22.0.2_9_openj9-0.46.0.tar.gz.sig",
+                    "size": 49006880
+                },
+                "project": "jdk",
+                "scm_ref": "v0.46.0-release",
+                "updated_at": "2024-08-09T13:47:37+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "5d7804e774c319ea15b71aa6027e38b217c1288a8f6c6bca9e14c325ecaec7ee",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.0.pkg",
+                    "size": 52399732
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "1bc5a8e6a008217f37d14011b54359cd75c6bbb95fa35bf1b3a457b428ae2c7a",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.2%2B9_openj9-0.46.0/ibm-semeru-open-jre_x64_mac_22.0.2_9_openj9-0.46.0.tar.gz.sig",
+                    "size": 52315897
+                },
+                "project": "jdk",
+                "scm_ref": "v0.46.0-release",
+                "updated_at": "2024-08-09T13:47:42+00:00"
+            }
+        ],
+        "id": "RE_kwDOL8nqUc4KGaXn.H7QdUU9VwHUKvw==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/tag/jdk-22.0.2%2B9_openj9-0.46.0",
+        "release_name": "jdk-22.0.2+9_openj9-0.46.0",
+        "release_type": "ga",
+        "timestamp": "2024-08-09T13:48:32+00:00",
+        "updated_at": "2024-08-09T13:48:32+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 9,
+            "major": 22,
+            "minor": 0,
+            "openjdk_version": "22.0.2+9",
+            "security": 2,
+            "semver": "22.0.2+9"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
+                    "checksum": "3e13ceffff149ba26c4a109ba916e81cfea82144446f9a8f8375f84ba957691d",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_ppc64_aix_22.0.1_8_openj9-0.45.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_ppc64_aix_22.0.1_8_openj9-0.45.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_ppc64_aix_22.0.1_8_openj9-0.45.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_22.0.1_8_openj9-0.45.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_ppc64_aix_22.0.1_8_openj9-0.45.0.tar.gz.sig",
+                    "size": 64480886
+                },
+                "project": "jdk",
+                "scm_ref": "v0.45.0-release",
+                "updated_at": "2024-05-21T12:38:32+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "a8f4d53b51eda84d76ba4ac6860ae300884f2d140fe7b756b3c4a6a5823eaea5",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_aarch64_linux_22.0.1_8_openj9-0.45.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_aarch64_linux_22.0.1_8_openj9-0.45.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_aarch64_linux_22.0.1_8_openj9-0.45.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_22.0.1_8_openj9-0.45.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_aarch64_linux_22.0.1_8_openj9-0.45.0.tar.gz.sig",
+                    "size": 50447056
+                },
+                "project": "jdk",
+                "scm_ref": "v0.45.0-release",
+                "updated_at": "2024-05-21T12:39:13+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "6a7a3f626d4672a17ad3b3b17f05ba29ecf37c479cd0434790a5566feffe92ef",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_ppc64le_linux_22.0.1_8_openj9-0.45.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_ppc64le_linux_22.0.1_8_openj9-0.45.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_ppc64le_linux_22.0.1_8_openj9-0.45.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_22.0.1_8_openj9-0.45.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_ppc64le_linux_22.0.1_8_openj9-0.45.0.tar.gz.sig",
+                    "size": 55824618
+                },
+                "project": "jdk",
+                "scm_ref": "v0.45.0-release",
+                "updated_at": "2024-05-21T12:40:15+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "6f652c2dc45f13bb24578e648207cc42c82d1732b70636a21d0dcbef9bc85e50",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_s390x_linux_22.0.1_8_openj9-0.45.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_s390x_linux_22.0.1_8_openj9-0.45.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_s390x_linux_22.0.1_8_openj9-0.45.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_22.0.1_8_openj9-0.45.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_s390x_linux_22.0.1_8_openj9-0.45.0.tar.gz.sig",
+                    "size": 53745025
+                },
+                "project": "jdk",
+                "scm_ref": "v0.45.0-release",
+                "updated_at": "2024-05-21T12:41:03+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "8c02a6d2d78eff437dad98cb7fa0a27301bb1e6877bf6407ecb047c94a480452",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_linux_22.0.1_8_openj9-0.45.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_linux_22.0.1_8_openj9-0.45.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_linux_22.0.1_8_openj9-0.45.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_22.0.1_8_openj9-0.45.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_linux_22.0.1_8_openj9-0.45.0.tar.gz.sig",
+                    "size": 54113867
+                },
+                "project": "jdk",
+                "scm_ref": "v0.45.0-release",
+                "updated_at": "2024-05-21T12:41:39+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "29ec847e0aae3854382f16c62284caed8e4c7e15e85778fc7438035be7165469",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_windows_22.0.1_8_openj9-0.45.0.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_windows_22.0.1_8_openj9-0.45.0.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_windows_22.0.1_8_openj9-0.45.0.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_22.0.1_8_openj9-0.45.0.msi",
+                    "size": 39600128
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "b9a65b7ffd3516887be857bb409d74c960bf7f28e8b5b6dfc090c5d1bcd0ea32",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_windows_22.0.1_8_openj9-0.45.0.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_windows_22.0.1_8_openj9-0.45.0.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_windows_22.0.1_8_openj9-0.45.0.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_22.0.1_8_openj9-0.45.0.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_windows_22.0.1_8_openj9-0.45.0.zip.sig",
+                    "size": 54859902
+                },
+                "project": "jdk",
+                "scm_ref": "v0.45.0-release",
+                "updated_at": "2024-05-21T14:05:08+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "d01b0d60e3efdfabc7c77ecae34a039273d09048ab5382ac3e08a2346dd23cee",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_aarch64_mac_22.0.1_8_openj9-0.45.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_aarch64_mac_22.0.1_8_openj9-0.45.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_aarch64_mac_22.0.1_8_openj9-0.45.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_22.0.1_8_openj9-0.45.0.pkg",
+                    "size": 48970899
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "c9ce28a5e657b8a16387c22f946434a60359f1df83d6773440e4f9edba9a7670",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_aarch64_mac_22.0.1_8_openj9-0.45.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_aarch64_mac_22.0.1_8_openj9-0.45.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_aarch64_mac_22.0.1_8_openj9-0.45.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_22.0.1_8_openj9-0.45.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_aarch64_mac_22.0.1_8_openj9-0.45.0.tar.gz.sig",
+                    "size": 48913023
+                },
+                "project": "jdk",
+                "scm_ref": "v0.45.0-release",
+                "updated_at": "2024-05-21T14:17:52+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "f9cda38a07e653a658934b95fd527b71444da2cdf02a4a5176022f744cfe10f1",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_mac_22.0.1_8_openj9-0.45.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_mac_22.0.1_8_openj9-0.45.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_mac_22.0.1_8_openj9-0.45.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_22.0.1_8_openj9-0.45.0.pkg",
+                    "size": 52274154
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "4ed16c1904d8f7a571a0b91934147bddb10d2a8c2e4e7243820566a13090c6ca",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_mac_22.0.1_8_openj9-0.45.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_mac_22.0.1_8_openj9-0.45.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_mac_22.0.1_8_openj9-0.45.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_22.0.1_8_openj9-0.45.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/download/jdk-22.0.1%2B8_openj9-0.45.0/ibm-semeru-open-jre_x64_mac_22.0.1_8_openj9-0.45.0.tar.gz.sig",
+                    "size": 52208479
+                },
+                "project": "jdk",
+                "scm_ref": "v0.45.0-release",
+                "updated_at": "2024-05-21T14:18:12+00:00"
+            }
+        ],
+        "id": "RE_kwDOL8nqUc4JVs5d.dLGgyr6YyMMGPA==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru22-binaries/releases/tag/jdk-22.0.1%2B8_openj9-0.45.0",
+        "release_name": "jdk-22.0.1+8_openj9-0.45.0",
+        "release_type": "ga",
+        "timestamp": "2024-05-21T19:52:28+00:00",
+        "updated_at": "2024-05-21T19:52:28+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 8,
+            "major": 22,
+            "minor": 0,
+            "openjdk_version": "22.0.1+8",
+            "security": 1,
+            "semver": "22.0.1+8"
+        }
+    }
+]

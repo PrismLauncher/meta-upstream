@@ -1,0 +1,197 @@
+[
+    {
+        "binaries": [
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
+                    "checksum": "c803d38c69313d62c3dfb9912d5ee4b7b417b6846fe7d0904ea46ed178e4e478",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_ppc64_aix_24.0.2_12_openj9-0.54.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_ppc64_aix_24.0.2_12_openj9-0.54.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_ppc64_aix_24.0.2_12_openj9-0.54.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_24.0.2_12_openj9-0.54.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_ppc64_aix_24.0.2_12_openj9-0.54.0.tar.gz.sig",
+                    "size": 69275987
+                },
+                "project": "jdk",
+                "scm_ref": "v0.54.0-release",
+                "updated_at": "2025-08-12T16:05:39+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "94bc64417befbf28a5d60593c3a3d101272d956f3e87e7fcaa62c10417ef4d9f",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_ppc64le_linux_24.0.2_12_openj9-0.54.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_ppc64le_linux_24.0.2_12_openj9-0.54.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_ppc64le_linux_24.0.2_12_openj9-0.54.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_24.0.2_12_openj9-0.54.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_ppc64le_linux_24.0.2_12_openj9-0.54.0.tar.gz.sig",
+                    "size": 60095547
+                },
+                "project": "jdk",
+                "scm_ref": "v0.54.0-release",
+                "updated_at": "2025-08-12T16:06:21+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "2b5d3e51eb1b9273df6c1142a6a52e31540a1da31cd87c82661340d7cc023808",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_s390x_linux_24.0.2_12_openj9-0.54.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_s390x_linux_24.0.2_12_openj9-0.54.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_s390x_linux_24.0.2_12_openj9-0.54.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_24.0.2_12_openj9-0.54.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_s390x_linux_24.0.2_12_openj9-0.54.0.tar.gz.sig",
+                    "size": 57619419
+                },
+                "project": "jdk",
+                "scm_ref": "v0.54.0-release",
+                "updated_at": "2025-08-12T16:07:03+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "ef433a588d348f14ea9bb29a4bc3042db8dabf6f8bf7f46ff2d9dfd48d89a0ca",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_linux_24.0.2_12_openj9-0.54.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_linux_24.0.2_12_openj9-0.54.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_linux_24.0.2_12_openj9-0.54.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_24.0.2_12_openj9-0.54.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_linux_24.0.2_12_openj9-0.54.0.tar.gz.sig",
+                    "size": 58307594
+                },
+                "project": "jdk",
+                "scm_ref": "v0.54.0-release",
+                "updated_at": "2025-08-12T16:07:46+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "590d70bcd1d7a029a78ddcad3a36ee5ca2277fa2bdaf9b1585caef627b45e4ed",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_aarch64_linux_24.0.2_12_openj9-0.54.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_aarch64_linux_24.0.2_12_openj9-0.54.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_aarch64_linux_24.0.2_12_openj9-0.54.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_24.0.2_12_openj9-0.54.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_aarch64_linux_24.0.2_12_openj9-0.54.0.tar.gz.sig",
+                    "size": 56458009
+                },
+                "project": "jdk",
+                "scm_ref": "v0.54.0-release",
+                "updated_at": "2025-08-12T16:08:28+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "dbad312792657a03f5905cb356a413386840533b237e818bd4b00c769f0148e7",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_windows_24.0.2_12_openj9-0.54.0.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_windows_24.0.2_12_openj9-0.54.0.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_windows_24.0.2_12_openj9-0.54.0.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_24.0.2_12_openj9-0.54.0.msi",
+                    "size": 40787968
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "22f48eb1bb233f1522632488a67653227a36af7ffe54c3c1e999dff3f2b20620",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_windows_24.0.2_12_openj9-0.54.0.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_windows_24.0.2_12_openj9-0.54.0.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_windows_24.0.2_12_openj9-0.54.0.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_24.0.2_12_openj9-0.54.0.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_windows_24.0.2_12_openj9-0.54.0.zip.sig",
+                    "size": 56659944
+                },
+                "project": "jdk",
+                "scm_ref": "v0.54.0-release",
+                "updated_at": "2025-08-12T19:09:44+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "ff7ddf104da875d3b0137a503ef43deba376e5f0821c0cc587c2109926360bdf",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_mac_24.0.2_12_openj9-0.54.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_mac_24.0.2_12_openj9-0.54.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_mac_24.0.2_12_openj9-0.54.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_24.0.2_12_openj9-0.54.0.pkg",
+                    "size": 54731606
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "abe45cbc851f1dbd92c08b8e84bfaf2d2c61661b50198eed1e21d8d3da14984e",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_mac_24.0.2_12_openj9-0.54.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_mac_24.0.2_12_openj9-0.54.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_mac_24.0.2_12_openj9-0.54.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_24.0.2_12_openj9-0.54.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_x64_mac_24.0.2_12_openj9-0.54.0.tar.gz.sig",
+                    "size": 54639615
+                },
+                "project": "jdk",
+                "scm_ref": "v0.54.0-release",
+                "updated_at": "2025-08-13T13:46:54+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "e4004454f0ec80c2825500ef2f1ebf894d8425940707ce9eb965e778dbe3d42a",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_aarch64_mac_24.0.2_12_openj9-0.54.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_aarch64_mac_24.0.2_12_openj9-0.54.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_aarch64_mac_24.0.2_12_openj9-0.54.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_24.0.2_12_openj9-0.54.0.pkg",
+                    "size": 51992889
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "89e5eb7401a55b0fe97d14d25660533ff31155d873c3ffd2fd70afcc23a40f59",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_aarch64_mac_24.0.2_12_openj9-0.54.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_aarch64_mac_24.0.2_12_openj9-0.54.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_aarch64_mac_24.0.2_12_openj9-0.54.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_24.0.2_12_openj9-0.54.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/download/jdk-24.0.2%2B12_openj9-0.54.0/ibm-semeru-open-jre_aarch64_mac_24.0.2_12_openj9-0.54.0.tar.gz.sig",
+                    "size": 51899126
+                },
+                "project": "jdk",
+                "scm_ref": "v0.54.0-release",
+                "updated_at": "2025-08-13T13:47:48+00:00"
+            }
+        ],
+        "id": "RE_kwDOPU8lQM4ORTZa.lePgM2j2CiJrww==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru24-binaries/releases/tag/jdk-24.0.2%2B12_openj9-0.54.0",
+        "release_name": "jdk-24.0.2+12_openj9-0.54.0",
+        "release_type": "ga",
+        "timestamp": "2025-08-12T16:24:52+00:00",
+        "updated_at": "2025-08-13T13:48:01+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 12,
+            "major": 24,
+            "minor": 0,
+            "openjdk_version": "24.0.2+12",
+            "security": 2,
+            "semver": "24.0.2+12"
+        }
+    }
+]

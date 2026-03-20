@@ -1,0 +1,836 @@
+[
+    {
+        "binaries": [
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "2fcef32e2bb56b232dbf90b470869ecfd737b2bc4954a8a92b690478af1a88c4",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz.sig",
+                    "size": 51067341
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T23:50:03+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "81657d6cd5cbb8116d49bb2b8c81c2b5479f0e8dcff50b077f3133be8b4a7c8b",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.pkg",
+                    "size": 49034892
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "f0401919007bd3c389b1c1cf5ac1ecd7b849db09dccbff36714a77dde32c3d82",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz.sig",
+                    "size": 48946615
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T23:50:09+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
+                    "checksum": "6099c1af2bb8b1106d2afe68019a5c20b1a5fcf9aec6d1c44ced1f592bbd7650",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz.sig",
+                    "size": 64840145
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T23:50:18+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "e056f8d70387eae66994d57904ec02e47c5e6ba1fe0a655e0feafedcfd04ab60",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz.sig",
+                    "size": 55634120
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T23:50:21+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "b92f0bb3603ac86856c97e0d060b19b4efc21d9a349cc2cfe23654a4c332ce28",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz.sig",
+                    "size": 53675711
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T23:50:24+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "d84a863e91920c2b924b74a8f40058ae6c53e031e15ccc47bcdda13d37645c99",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz.sig",
+                    "size": 54693964
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T23:50:27+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "3912132491cd66d072b8c71c3726c8ae8cd66ad2051ba604b1bbc82086cb1b25",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.pkg",
+                    "size": 52363855
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "1e73f80fd113688afda203a593414c17fa8098f0166a0165ca2c3e4cc8fda938",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz.sig",
+                    "size": 52270476
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T23:50:33+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "75c9529398bab0980dfc3058842b7db46381a403cf78ed1af15030f45842d5af",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.msi",
+                    "size": 39616512
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "a4e71cc178b7cf18615b3548ae570a7df83da48b8d16cd8059253afdcabb9f9f",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.2%2B7_openj9-0.49.0/ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.zip.sig",
+                    "size": 54906275
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T23:50:44+00:00"
+            }
+        ],
+        "id": "RE_kwDOMyrEYM4L5BFs.mBQnlDPBFx176Q==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/tag/jdk-23.0.2%2B7_openj9-0.49.0",
+        "release_name": "jdk-23.0.2+7_openj9-0.49.0",
+        "release_type": "ga",
+        "timestamp": "2025-02-11T00:49:27+00:00",
+        "updated_at": "2025-02-11T00:49:27+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 7,
+            "major": 23,
+            "minor": 0,
+            "openjdk_version": "23.0.2+7",
+            "security": 2,
+            "semver": "23.0.2+7"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "2fcef32e2bb56b232dbf90b470869ecfd737b2bc4954a8a92b690478af1a88c4",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_linux_23.0.2_7_openj9-0.49.0.tar.gz.sig",
+                    "size": 51067341
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T22:49:52+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "81657d6cd5cbb8116d49bb2b8c81c2b5479f0e8dcff50b077f3133be8b4a7c8b",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.pkg",
+                    "size": 49034892
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "f0401919007bd3c389b1c1cf5ac1ecd7b849db09dccbff36714a77dde32c3d82",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0.tar.gz.sig",
+                    "size": 48946615
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T22:49:57+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "774da441f4cbdaa5d9df4fdc899de8ca9a836081b27d08e2afdeabfb4b1dbbe3",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0_unsigned.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0_unsigned.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0_unsigned.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0_unsigned.pkg",
+                    "size": 48634111
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "7f2a56f99cc662ef088c66471057a50cc5fd6e9c8f18fe071dcd4a3a778e5f33",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0_unsigned.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0_unsigned.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0_unsigned.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0_unsigned.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.2_7_openj9-0.49.0_unsigned.tar.gz.sig",
+                    "size": 48338817
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T22:50:01+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
+                    "checksum": "6099c1af2bb8b1106d2afe68019a5c20b1a5fcf9aec6d1c44ced1f592bbd7650",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_ppc64_aix_23.0.2_7_openj9-0.49.0.tar.gz.sig",
+                    "size": 64840145
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T22:50:04+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "e056f8d70387eae66994d57904ec02e47c5e6ba1fe0a655e0feafedcfd04ab60",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_ppc64le_linux_23.0.2_7_openj9-0.49.0.tar.gz.sig",
+                    "size": 55634120
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T22:50:07+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "b92f0bb3603ac86856c97e0d060b19b4efc21d9a349cc2cfe23654a4c332ce28",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_s390x_linux_23.0.2_7_openj9-0.49.0.tar.gz.sig",
+                    "size": 53675711
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T22:50:09+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "d84a863e91920c2b924b74a8f40058ae6c53e031e15ccc47bcdda13d37645c99",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_linux_23.0.2_7_openj9-0.49.0.tar.gz.sig",
+                    "size": 54693964
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T22:50:12+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "3912132491cd66d072b8c71c3726c8ae8cd66ad2051ba604b1bbc82086cb1b25",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.pkg",
+                    "size": 52363855
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "1e73f80fd113688afda203a593414c17fa8098f0166a0165ca2c3e4cc8fda938",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0.tar.gz.sig",
+                    "size": 52270476
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T22:50:17+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "dcddc8377c738c14b0c3a088f8d86bb35d2fb44d7a539a33ccd0a56d7f75bd47",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0_unsigned.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0_unsigned.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0_unsigned.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0_unsigned.pkg",
+                    "size": 51945166
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "9c2562be5fa0048f7b6a858bdc3dc1174089368b2a1e730ed27a231b420bcceb",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0_unsigned.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0_unsigned.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0_unsigned.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0_unsigned.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.2_7_openj9-0.49.0_unsigned.tar.gz.sig",
+                    "size": 51606694
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T22:50:21+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "75c9529398bab0980dfc3058842b7db46381a403cf78ed1af15030f45842d5af",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.msi",
+                    "size": 39616512
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "a4e71cc178b7cf18615b3548ae570a7df83da48b8d16cd8059253afdcabb9f9f",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_windows_23.0.2_7_openj9-0.49.0.zip.sig",
+                    "size": 54906275
+                },
+                "project": "jdk",
+                "scm_ref": "v0.49.0-release",
+                "updated_at": "2025-02-10T22:50:26+00:00"
+            }
+        ],
+        "id": "RE_kwDOMyrEYM4LAuxi.mBQnlDPBFx176Q==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/tag/jdk-23.0.1%2B11_openj9-0.48.0",
+        "release_name": "jdk-23.0.1+11_openj9-0.48.0",
+        "release_type": "ga",
+        "timestamp": "2024-12-10T23:28:48+00:00",
+        "updated_at": "2025-02-10T22:50:56+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 7,
+            "major": 23,
+            "minor": 0,
+            "openjdk_version": "23.0.2+7",
+            "security": 2,
+            "semver": "23.0.2+7"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
+                    "checksum": "4d1de798e055a3be6801453a5e51b7ba8e9ba815c6a0b3b1deafdd95a4ea3094",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_ppc64_aix_23.0.1_11_openj9-0.48.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_ppc64_aix_23.0.1_11_openj9-0.48.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_ppc64_aix_23.0.1_11_openj9-0.48.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_23.0.1_11_openj9-0.48.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_ppc64_aix_23.0.1_11_openj9-0.48.0.tar.gz.sig",
+                    "size": 64784435
+                },
+                "project": "jdk",
+                "scm_ref": "v0.48.0-release",
+                "updated_at": "2024-11-11T18:55:24+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "99a087ff6ad4b6ab5da8acc8003b7977188ab8fbeebb45d7a3e8f68963ad74e3",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_linux_23.0.1_11_openj9-0.48.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_linux_23.0.1_11_openj9-0.48.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_linux_23.0.1_11_openj9-0.48.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_23.0.1_11_openj9-0.48.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_linux_23.0.1_11_openj9-0.48.0.tar.gz.sig",
+                    "size": 50373643
+                },
+                "project": "jdk",
+                "scm_ref": "v0.48.0-release",
+                "updated_at": "2024-11-11T18:56:06+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "a324b158e0478a584207d436578f3d088ad14add28d433897234ebcba8729ba0",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_ppc64le_linux_23.0.1_11_openj9-0.48.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_ppc64le_linux_23.0.1_11_openj9-0.48.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_ppc64le_linux_23.0.1_11_openj9-0.48.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_23.0.1_11_openj9-0.48.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_ppc64le_linux_23.0.1_11_openj9-0.48.0.tar.gz.sig",
+                    "size": 55563745
+                },
+                "project": "jdk",
+                "scm_ref": "v0.48.0-release",
+                "updated_at": "2024-11-11T18:56:59+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "7d0fdd1b68b86788394ddfdf391eefb4d384b1bcba0784dd25d1f3c517a7f330",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_s390x_linux_23.0.1_11_openj9-0.48.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_s390x_linux_23.0.1_11_openj9-0.48.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_s390x_linux_23.0.1_11_openj9-0.48.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_23.0.1_11_openj9-0.48.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_s390x_linux_23.0.1_11_openj9-0.48.0.tar.gz.sig",
+                    "size": 53597035
+                },
+                "project": "jdk",
+                "scm_ref": "v0.48.0-release",
+                "updated_at": "2024-11-11T18:57:40+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "76d25ba5887695011fce8d23418e86371aea43b9f5d326c140060ea89c4c9e99",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_linux_23.0.1_11_openj9-0.48.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_linux_23.0.1_11_openj9-0.48.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_linux_23.0.1_11_openj9-0.48.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_23.0.1_11_openj9-0.48.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_linux_23.0.1_11_openj9-0.48.0.tar.gz.sig",
+                    "size": 54575450
+                },
+                "project": "jdk",
+                "scm_ref": "v0.48.0-release",
+                "updated_at": "2024-11-11T18:58:38+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "bee24293c08230ca8a6f6770abe798c348922e40fa98e1d0ffbecd7604951d04",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_windows_23.0.1_11_openj9-0.48.0.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_windows_23.0.1_11_openj9-0.48.0.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_windows_23.0.1_11_openj9-0.48.0.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_23.0.1_11_openj9-0.48.0.msi",
+                    "size": 39579648
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "d0b2bfe3e3843c93bad80ff9f54045e2165e1da504973336946c58a0e4e1305e",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_windows_23.0.1_11_openj9-0.48.0.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_windows_23.0.1_11_openj9-0.48.0.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_windows_23.0.1_11_openj9-0.48.0.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_23.0.1_11_openj9-0.48.0.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_windows_23.0.1_11_openj9-0.48.0.zip.sig",
+                    "size": 54850212
+                },
+                "project": "jdk",
+                "scm_ref": "v0.48.0-release",
+                "updated_at": "2024-11-11T22:43:23+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "92c373af9b59f32d0a3a1857ac84c9140b3b5a6b6981d8306fa710e0a74e8e6d",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.1_11_openj9-0.48.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.1_11_openj9-0.48.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.1_11_openj9-0.48.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_23.0.1_11_openj9-0.48.0.pkg",
+                    "size": 48971305
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "161650ec5a93f0d5d2b16e5c9f07da460e4f2a99850e13bb454755da41a17748",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.1_11_openj9-0.48.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.1_11_openj9-0.48.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.1_11_openj9-0.48.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_23.0.1_11_openj9-0.48.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_aarch64_mac_23.0.1_11_openj9-0.48.0.tar.gz.sig",
+                    "size": 48879204
+                },
+                "project": "jdk",
+                "scm_ref": "v0.48.0-release",
+                "updated_at": "2024-11-12T20:00:11+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "6e4944ce1a7a14d2296494d8ea724fff09fcc9aac55b36f90d4a20687a7611ab",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.1_11_openj9-0.48.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.1_11_openj9-0.48.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.1_11_openj9-0.48.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_23.0.1_11_openj9-0.48.0.pkg",
+                    "size": 52289322
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "04057346c89f2daa722544e55a3b22ac37e869a4c8d1e4289a3d65ab97e633cb",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.1_11_openj9-0.48.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.1_11_openj9-0.48.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.1_11_openj9-0.48.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_23.0.1_11_openj9-0.48.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23.0.1%2B11_openj9-0.48.0/ibm-semeru-open-jre_x64_mac_23.0.1_11_openj9-0.48.0.tar.gz.sig",
+                    "size": 52202178
+                },
+                "project": "jdk",
+                "scm_ref": "v0.48.0-release",
+                "updated_at": "2024-11-12T20:00:05+00:00"
+            }
+        ],
+        "id": "RE_kwDOMyrEYM4LAuxi.teu9exfVVIXG7Q==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/tag/jdk-23.0.1%2B11_openj9-0.48.0",
+        "release_name": "jdk-23.0.1+11_openj9-0.48.0",
+        "release_type": "ga",
+        "timestamp": "2024-12-10T23:28:48+00:00",
+        "updated_at": "2025-02-10T22:50:56+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 11,
+            "major": 23,
+            "minor": 0,
+            "openjdk_version": "23.0.1+11",
+            "security": 1,
+            "semver": "23.0.1+11"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
+                    "checksum": "4d08df67c486f51f02eface95d9a02be3900aa2dea89ea6fb4b7eb637652cfc7",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_ppc64_aix_23_37_openj9-0.47.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_ppc64_aix_23_37_openj9-0.47.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_ppc64_aix_23_37_openj9-0.47.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_23_37_openj9-0.47.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_ppc64_aix_23_37_openj9-0.47.0.tar.gz.sig",
+                    "size": 64735053
+                },
+                "project": "jdk",
+                "scm_ref": "v0.47.0-release",
+                "updated_at": "2024-09-17T11:19:19+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "df011058dbfbe58ed7cbd96ce9123ca13cedec3d3ffd106f4051fd8b6dbcf489",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_aarch64_linux_23_37_openj9-0.47.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_aarch64_linux_23_37_openj9-0.47.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_aarch64_linux_23_37_openj9-0.47.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_23_37_openj9-0.47.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_aarch64_linux_23_37_openj9-0.47.0.tar.gz.sig",
+                    "size": 50432333
+                },
+                "project": "jdk",
+                "scm_ref": "v0.47.0-release",
+                "updated_at": "2024-09-17T11:20:05+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "19418381d4deb34bff8aaceb9d951f967ba42a33a764a0e096d5282ad6566edc",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_ppc64le_linux_23_37_openj9-0.47.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_ppc64le_linux_23_37_openj9-0.47.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_ppc64le_linux_23_37_openj9-0.47.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_23_37_openj9-0.47.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_ppc64le_linux_23_37_openj9-0.47.0.tar.gz.sig",
+                    "size": 55635419
+                },
+                "project": "jdk",
+                "scm_ref": "v0.47.0-release",
+                "updated_at": "2024-09-17T11:20:56+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "3cbaeccbbe6ab1d14639a781264341e95abd16a813551bbd38c03f824e1cdffc",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_s390x_linux_23_37_openj9-0.47.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_s390x_linux_23_37_openj9-0.47.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_s390x_linux_23_37_openj9-0.47.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_23_37_openj9-0.47.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_s390x_linux_23_37_openj9-0.47.0.tar.gz.sig",
+                    "size": 53686822
+                },
+                "project": "jdk",
+                "scm_ref": "v0.47.0-release",
+                "updated_at": "2024-09-17T11:21:47+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "07fbd261313f5121953936cdee0a02ed70f62e4dcc18b06b1072a26fdf37ddc7",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_linux_23_37_openj9-0.47.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_linux_23_37_openj9-0.47.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_linux_23_37_openj9-0.47.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_23_37_openj9-0.47.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_linux_23_37_openj9-0.47.0.tar.gz.sig",
+                    "size": 54111061
+                },
+                "project": "jdk",
+                "scm_ref": "v0.47.0-release",
+                "updated_at": "2024-09-17T11:22:38+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "3e8f80df594afd9b059be4987a8687210585afe28bd909e97bee451b2783b091",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_mac_23_37_openj9-0.47.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_mac_23_37_openj9-0.47.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_mac_23_37_openj9-0.47.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_23_37_openj9-0.47.0.pkg",
+                    "size": 52251654
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "c5ce5dba6f588b06a9d4ada4f7b47777842a70620c971e57231c2f5391f2bb7c",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_mac_23_37_openj9-0.47.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_mac_23_37_openj9-0.47.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_mac_23_37_openj9-0.47.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_23_37_openj9-0.47.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_mac_23_37_openj9-0.47.0.tar.gz.sig",
+                    "size": 52166509
+                },
+                "project": "jdk",
+                "scm_ref": "v0.47.0-release",
+                "updated_at": "2024-09-17T19:57:04+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "205777e889a7a117d381aaaac33a8e0cc1fd4077c36924cf308d76c2cd4a6769",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_aarch64_mac_23_37_openj9-0.47.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_aarch64_mac_23_37_openj9-0.47.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_aarch64_mac_23_37_openj9-0.47.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_23_37_openj9-0.47.0.pkg",
+                    "size": 48934968
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "b27ba9a848f3e21822b293551e20165feda4a59d4309edf47a75c26e4a6ec0a7",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_aarch64_mac_23_37_openj9-0.47.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_aarch64_mac_23_37_openj9-0.47.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_aarch64_mac_23_37_openj9-0.47.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_23_37_openj9-0.47.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_aarch64_mac_23_37_openj9-0.47.0.tar.gz.sig",
+                    "size": 48845310
+                },
+                "project": "jdk",
+                "scm_ref": "v0.47.0-release",
+                "updated_at": "2024-09-17T19:56:29+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "a784f217ee5ae5ca5f69c5b5678efb4c4a47fff878c3ee677c26f9d725e7a0b2",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_windows_23_37_openj9-0.47.0.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_windows_23_37_openj9-0.47.0.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_windows_23_37_openj9-0.47.0.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_23_37_openj9-0.47.0.msi",
+                    "size": 39530496
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "9166816bb4c05513af6415ab4c0a54c3856298d62e1d368a37fc7bf2622b98de",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_windows_23_37_openj9-0.47.0.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_windows_23_37_openj9-0.47.0.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_windows_23_37_openj9-0.47.0.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_23_37_openj9-0.47.0.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/download/jdk-23%2B37_openj9-0.47.0/ibm-semeru-open-jre_x64_windows_23_37_openj9-0.47.0.zip.sig",
+                    "size": 54805859
+                },
+                "project": "jdk",
+                "scm_ref": "v0.47.0-release",
+                "updated_at": "2024-09-17T19:57:31+00:00"
+            }
+        ],
+        "id": "RE_kwDOMyrEYM4KdNXI.7zkwulJEzf9opg==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru23-binaries/releases/tag/jdk-23%2B37_openj9-0.47.0",
+        "release_name": "jdk-23+37_openj9-0.47.0",
+        "release_type": "ga",
+        "timestamp": "2024-09-18T17:37:35+00:00",
+        "updated_at": "2024-09-18T17:37:35+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 37,
+            "major": 23,
+            "minor": 0,
+            "openjdk_version": "23+37",
+            "security": 0,
+            "semver": "23.0.0+37"
+        }
+    }
+]

@@ -1,0 +1,864 @@
+[
+    {
+        "binaries": [
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "cf42a289c53e6098223223326cd21a152d7102859030e23c52287d82d6d9560e",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_aarch64_linux_18.0.2_9_openj9-0.33.1.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_aarch64_linux_18.0.2_9_openj9-0.33.1.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_aarch64_linux_18.0.2_9_openj9-0.33.1.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_18.0.2_9_openj9-0.33.1.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_aarch64_linux_18.0.2_9_openj9-0.33.1.tar.gz.sig",
+                    "size": 45244476
+                },
+                "project": "jdk",
+                "scm_ref": "v0.33.1-release",
+                "updated_at": "2022-08-18T19:10:24+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
+                    "checksum": "3217ce352605de25b882c06e77e058ae514e2414336312f483a0c1b3524a7787",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_ppc64_aix_18.0.2_9_openj9-0.33.1.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_ppc64_aix_18.0.2_9_openj9-0.33.1.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_ppc64_aix_18.0.2_9_openj9-0.33.1.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_18.0.2_9_openj9-0.33.1.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_ppc64_aix_18.0.2_9_openj9-0.33.1.tar.gz.sig",
+                    "size": 57950305
+                },
+                "project": "jdk",
+                "scm_ref": "v0.33.1-release",
+                "updated_at": "2022-08-18T19:10:57+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "57726d73c644107de26fe6c252a58f477e691b9aa81de0c23251318f87aa621b",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_ppc64le_linux_18.0.2_9_openj9-0.33.1.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_ppc64le_linux_18.0.2_9_openj9-0.33.1.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_ppc64le_linux_18.0.2_9_openj9-0.33.1.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_18.0.2_9_openj9-0.33.1.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_ppc64le_linux_18.0.2_9_openj9-0.33.1.tar.gz.sig",
+                    "size": 48263242
+                },
+                "project": "jdk",
+                "scm_ref": "v0.33.1-release",
+                "updated_at": "2022-08-18T19:11:05+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "74a0bd8e3bd1504df48e1ee83b997ac9993f5d1e8371cd673afb01b9ce611c7c",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_s390x_linux_18.0.2_9_openj9-0.33.1.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_s390x_linux_18.0.2_9_openj9-0.33.1.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_s390x_linux_18.0.2_9_openj9-0.33.1.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_18.0.2_9_openj9-0.33.1.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_s390x_linux_18.0.2_9_openj9-0.33.1.tar.gz.sig",
+                    "size": 46436552
+                },
+                "project": "jdk",
+                "scm_ref": "v0.33.1-release",
+                "updated_at": "2022-08-18T19:11:13+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "4fb19cedab5967359991b9bcb3be09744fc9ac027d0b773870ee7f7aaf539666",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_linux_18.0.2_9_openj9-0.33.1.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_linux_18.0.2_9_openj9-0.33.1.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_linux_18.0.2_9_openj9-0.33.1.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_18.0.2_9_openj9-0.33.1.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_linux_18.0.2_9_openj9-0.33.1.tar.gz.sig",
+                    "size": 47105731
+                },
+                "project": "jdk",
+                "scm_ref": "v0.33.1-release",
+                "updated_at": "2022-08-18T19:11:20+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "4af3261763ed9328c5f21e3b624661081538c80e3a0a6aa37fa0f967836e2d0d",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.1.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.1.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.1.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.1.msi",
+                    "size": 33939456
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "b57b372b556dc06d9915baf65dc5de27132565c95e076f54c288eea4865f9376",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.1.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.1.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.1.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.1.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.1.zip.sig",
+                    "size": 47034218
+                },
+                "project": "jdk",
+                "scm_ref": "v0.33.1-release",
+                "updated_at": "2022-08-18T19:11:45+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "21d2f60be92157304ec4ddcfbab41c922cf5e21c92e9754698eff054b6759842",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.1.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.1.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.1.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.1.pkg",
+                    "size": 47901715
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "cbd3e5efff4f03fd9925cebc94636682d61e38174d44b438e19c0905182f5f44",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.1.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.1.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.1.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.1.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.1.tar.gz.sig",
+                    "size": 47835893
+                },
+                "project": "jdk",
+                "scm_ref": "v0.33.1-release",
+                "updated_at": "2022-08-22T06:27:09+00:00"
+            }
+        ],
+        "id": "RE_kwDOG6JEzc4EdNTb.Zkm1PwdbTIaCvA==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/tag/jdk-18.0.2%2B9_openj9-0.33.1",
+        "release_name": "jdk-18.0.2+9_openj9-0.33.1",
+        "release_type": "ga",
+        "timestamp": "2022-08-19T03:53:02+00:00",
+        "updated_at": "2022-08-22T06:27:10+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 9,
+            "major": 18,
+            "minor": 0,
+            "openjdk_version": "18.0.2+9",
+            "security": 2,
+            "semver": "18.0.2+9"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "c9542d3f75757fcaef5a1464a5838015a59743bda99e51d42914ecd46bfb09ba",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_aarch64_linux_18.0.2_9_openj9-0.33.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_aarch64_linux_18.0.2_9_openj9-0.33.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_aarch64_linux_18.0.2_9_openj9-0.33.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_18.0.2_9_openj9-0.33.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_aarch64_linux_18.0.2_9_openj9-0.33.0.tar.gz.sig",
+                    "size": 45244464
+                },
+                "project": "jdk",
+                "scm_ref": "v0.33.0-release",
+                "updated_at": "2022-08-07T03:21:10+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
+                    "checksum": "61046dcde74284f13133ad74650f01213ff1962a996485c519809ade13cab46c",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_ppc64_aix_18.0.2_9_openj9-0.33.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_ppc64_aix_18.0.2_9_openj9-0.33.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_ppc64_aix_18.0.2_9_openj9-0.33.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_18.0.2_9_openj9-0.33.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_ppc64_aix_18.0.2_9_openj9-0.33.0.tar.gz.sig",
+                    "size": 57953257
+                },
+                "project": "jdk",
+                "scm_ref": "v0.33.0-release",
+                "updated_at": "2022-08-07T03:21:33+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "0107ea02d299aaf248ac61d71b7ac18c8f3d8f54fc3a408a3f1025f81a210463",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_ppc64le_linux_18.0.2_9_openj9-0.33.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_ppc64le_linux_18.0.2_9_openj9-0.33.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_ppc64le_linux_18.0.2_9_openj9-0.33.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_18.0.2_9_openj9-0.33.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_ppc64le_linux_18.0.2_9_openj9-0.33.0.tar.gz.sig",
+                    "size": 48264919
+                },
+                "project": "jdk",
+                "scm_ref": "v0.33.0-release",
+                "updated_at": "2022-08-07T03:21:42+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "f87b5c8c68220393350d4a67d9895bfccaed20bcc688182bbd1c2b7108595a02",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_s390x_linux_18.0.2_9_openj9-0.33.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_s390x_linux_18.0.2_9_openj9-0.33.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_s390x_linux_18.0.2_9_openj9-0.33.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_18.0.2_9_openj9-0.33.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_s390x_linux_18.0.2_9_openj9-0.33.0.tar.gz.sig",
+                    "size": 46438637
+                },
+                "project": "jdk",
+                "scm_ref": "v0.33.0-release",
+                "updated_at": "2022-08-07T03:21:52+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "31f9c08f3b742e4055efa6e4bbf8d9e5be02c775c8fe2c68dd4a460a8ed52c28",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_linux_18.0.2_9_openj9-0.33.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_linux_18.0.2_9_openj9-0.33.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_linux_18.0.2_9_openj9-0.33.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_18.0.2_9_openj9-0.33.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_linux_18.0.2_9_openj9-0.33.0.tar.gz.sig",
+                    "size": 47103511
+                },
+                "project": "jdk",
+                "scm_ref": "v0.33.0-release",
+                "updated_at": "2022-08-07T03:21:59+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "70571e19d75b21f726069741a9666aaae7fb1a11ecff4954b6423b8ea4c636cb",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.0.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.0.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.0.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.0.msi",
+                    "size": 33951744
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "ac8d9202b11586678327fe82425891b25b7df29da24687837617c85ecf03944e",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.0.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.0.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.0.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.0.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_windows_18.0.2_9_openj9-0.33.0.zip.sig",
+                    "size": 47033054
+                },
+                "project": "jdk",
+                "scm_ref": "v0.33.0-release",
+                "updated_at": "2022-08-07T03:22:18+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "3fa653dad45a8bfbb84661f9bbd8705358715c373251261dd335fb470bf61bb9",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.0.pkg",
+                    "size": 47902174
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "c2b2f3a0c9aaa48abaf8f9822c3d5e648570b1db637d5b336fa937a8580f6c8b",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_x64_mac_18.0.2_9_openj9-0.33.0.tar.gz.sig",
+                    "size": 47836564
+                },
+                "project": "jdk",
+                "scm_ref": "v0.33.0-release",
+                "updated_at": "2022-08-08T01:30:09+00:00"
+            }
+        ],
+        "id": "RE_kwDOG6JEzc4EZm5C.Zkm1PwdbTIaCvA==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/tag/jdk-18.0.2%2B9_openj9-0.33.0",
+        "release_name": "jdk-18.0.2+9_openj9-0.33.0",
+        "release_type": "ga",
+        "timestamp": "2022-08-08T01:32:13+00:00",
+        "updated_at": "2022-08-08T01:32:13+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 9,
+            "major": 18,
+            "minor": 0,
+            "openjdk_version": "18.0.2+9",
+            "security": 2,
+            "semver": "18.0.2+9"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "1c99863f702f4de3cc746654a5c170998faf7426e4e18ee96f56ae7ddc157a80",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.1.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.1.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.1.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.1.pkg",
+                    "size": 44513398
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "918020c0cf898bb8430d33834676946f96b4416f9422b1fdc55298ee1895e1fe",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.1.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.1.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.1.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.1.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.1/ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.1.tar.gz.sig",
+                    "size": 44451997
+                },
+                "project": "jdk",
+                "scm_ref": "v0.33.1-release",
+                "updated_at": "2022-08-22T06:25:53+00:00"
+            }
+        ],
+        "id": "RE_kwDOG6JEzc4EdNTb.d19l65oPS80w1w==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/tag/jdk-18.0.2%2B9_openj9-0.33.1",
+        "release_name": "jdk-18.0.2+9_openj9-0.33.1",
+        "release_type": "ga",
+        "timestamp": "2022-08-19T03:53:02+00:00",
+        "updated_at": "2022-08-22T06:27:10+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 9,
+            "major": 18,
+            "minor": 0,
+            "openjdk_version": "18.0.2-ea+9",
+            "pre": "ea",
+            "security": 2,
+            "semver": "18.0.2-ea+9"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "f6d458306161577180fc6c90b6ead064951842bc4667127aba7232cc166e1618",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.0.pkg",
+                    "size": 44513587
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "904d875ae988839a2ce64c7d55059453c07cab88e04732503d0ad4303dc9fb28",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.2%2B9_openj9-0.33.0/ibm-semeru-open-jre_aarch64_mac_18.0.2_9_openj9-0.33.0.tar.gz.sig",
+                    "size": 44452168
+                },
+                "project": "jdk",
+                "scm_ref": "v0.33.0-release",
+                "updated_at": "2022-08-08T01:27:26+00:00"
+            }
+        ],
+        "id": "RE_kwDOG6JEzc4EZm5C.d19l65oPS80w1w==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/tag/jdk-18.0.2%2B9_openj9-0.33.0",
+        "release_name": "jdk-18.0.2+9_openj9-0.33.0",
+        "release_type": "ga",
+        "timestamp": "2022-08-08T01:32:13+00:00",
+        "updated_at": "2022-08-08T01:32:13+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 9,
+            "major": 18,
+            "minor": 0,
+            "openjdk_version": "18.0.2-ea+9",
+            "pre": "ea",
+            "security": 2,
+            "semver": "18.0.2-ea+9"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "86bf05dae9510bd0679bf7489378b1411cf816885adbde7108d52e3b85d76d84",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_aarch64_linux_18.0.1.1_2_openj9-0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_aarch64_linux_18.0.1.1_2_openj9-0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_aarch64_linux_18.0.1.1_2_openj9-0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_18.0.1.1_2_openj9-0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_aarch64_linux_18.0.1.1_2_openj9-0.32.0.tar.gz.sig",
+                    "size": 44733223
+                },
+                "project": "jdk",
+                "scm_ref": "v0.32.0-release-18.0.1.1",
+                "updated_at": "2022-05-11T17:10:16+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
+                    "checksum": "36544995cef2f20a0c55f87e1601ccbc5fc7da5364aeb1228fae3d7d27bb9e9a",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_ppc64_aix_18.0.1.1_2_openj9-0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_ppc64_aix_18.0.1.1_2_openj9-0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_ppc64_aix_18.0.1.1_2_openj9-0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_18.0.1.1_2_openj9-0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_ppc64_aix_18.0.1.1_2_openj9-0.32.0.tar.gz.sig",
+                    "size": 57693434
+                },
+                "project": "jdk",
+                "scm_ref": "v0.32.0-release-18.0.1.1",
+                "updated_at": "2022-05-11T17:10:25+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "5b5e650847c39efa65e294df46c073091e9089579decdb125867af8e4bae2cb5",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_ppc64le_linux_18.0.1.1_2_openj9-0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_ppc64le_linux_18.0.1.1_2_openj9-0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_ppc64le_linux_18.0.1.1_2_openj9-0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_18.0.1.1_2_openj9-0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_ppc64le_linux_18.0.1.1_2_openj9-0.32.0.tar.gz.sig",
+                    "size": 47431896
+                },
+                "project": "jdk",
+                "scm_ref": "v0.32.0-release-18.0.1.1",
+                "updated_at": "2022-05-11T17:10:28+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "e2b2c19e2db157ceaf1151e88bec94c0e197a593a37a7abf0ce6ae92ab320b45",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_s390x_linux_18.0.1.1_2_openj9-0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_s390x_linux_18.0.1.1_2_openj9-0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_s390x_linux_18.0.1.1_2_openj9-0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_18.0.1.1_2_openj9-0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_s390x_linux_18.0.1.1_2_openj9-0.32.0.tar.gz.sig",
+                    "size": 45682194
+                },
+                "project": "jdk",
+                "scm_ref": "v0.32.0-release-18.0.1.1",
+                "updated_at": "2022-05-11T17:10:31+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "761807f0c13500b1e94824928050c3485932cb596e2a499935f67b734c644c97",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_linux_18.0.1.1_2_openj9-0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_linux_18.0.1.1_2_openj9-0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_linux_18.0.1.1_2_openj9-0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_18.0.1.1_2_openj9-0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_linux_18.0.1.1_2_openj9-0.32.0.tar.gz.sig",
+                    "size": 46953539
+                },
+                "project": "jdk",
+                "scm_ref": "v0.32.0-release-18.0.1.1",
+                "updated_at": "2022-05-11T17:10:34+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "622d8d0c4b05e2eeb1801867200d6f05eefbe1034af14306a6ea17f6c411afc8",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_windows_18.0.1.1_2_openj9-0.32.0.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_windows_18.0.1.1_2_openj9-0.32.0.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_windows_18.0.1.1_2_openj9-0.32.0.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_18.0.1.1_2_openj9-0.32.0.msi",
+                    "size": 33882112
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "7ca872e75962096d81c117342c4fd2f345d95a0e5f03ecb4dbd15f4d0cf3d401",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_windows_18.0.1.1_2_openj9-0.32.0.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_windows_18.0.1.1_2_openj9-0.32.0.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_windows_18.0.1.1_2_openj9-0.32.0.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_18.0.1.1_2_openj9-0.32.0.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_windows_18.0.1.1_2_openj9-0.32.0.zip.sig",
+                    "size": 46948081
+                },
+                "project": "jdk",
+                "scm_ref": "v0.32.0-release-18.0.1.1",
+                "updated_at": "2022-05-11T17:10:46+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "ecf7d69e698c83e535526116db8bab795f3bb5bf4c8e24c3549357974bef8468",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_mac_18.0.1.1_2_openj9-0.32.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_mac_18.0.1.1_2_openj9-0.32.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_mac_18.0.1.1_2_openj9-0.32.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_18.0.1.1_2_openj9-0.32.0.pkg",
+                    "size": 47437438
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "3a3943fd85c471997d6d173c832df465ffbc884fcba092860a0a265f3f00e727",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_mac_18.0.1.1_2_openj9-0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_mac_18.0.1.1_2_openj9-0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_mac_18.0.1.1_2_openj9-0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_18.0.1.1_2_openj9-0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_x64_mac_18.0.1.1_2_openj9-0.32.0.tar.gz.sig",
+                    "size": 47384575
+                },
+                "project": "jdk",
+                "scm_ref": "v0.32.0-release-18.0.1.1",
+                "updated_at": "2022-05-13T14:31:24+00:00"
+            }
+        ],
+        "id": "RE_kwDOG6JEzc4D-FJ5.77LnNcgipXapDA==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/tag/jdk-18.0.1.1%2B2_openj9-0.32.0",
+        "release_name": "jdk-18.0.1.1+2_openj9-0.32.0",
+        "release_type": "ga",
+        "timestamp": "2022-05-12T18:25:07+00:00",
+        "updated_at": "2022-05-13T14:38:27+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 2,
+            "major": 18,
+            "minor": 0,
+            "openjdk_version": "18.0.1.1+2",
+            "patch": 1,
+            "security": 1,
+            "semver": "18.0.1+102"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "4c1af7fed622e1ac18581413c79b3bcc8fba6a976c56137c6b4a48f7371bb618",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_aarch64_mac_18.0.1.1_2_openj9-0.32.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_aarch64_mac_18.0.1.1_2_openj9-0.32.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_aarch64_mac_18.0.1.1_2_openj9-0.32.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_18.0.1.1_2_openj9-0.32.0.pkg",
+                    "size": 41765382
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "a18df33b31b0598ea44b01fede6c81f2d25523473fa1b2d1c5489993cb3ef745",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_aarch64_mac_18.0.1.1_2_openj9-0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_aarch64_mac_18.0.1.1_2_openj9-0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_aarch64_mac_18.0.1.1_2_openj9-0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_18.0.1.1_2_openj9-0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1.1%2B2_openj9-0.32.0/ibm-semeru-open-jre_aarch64_mac_18.0.1.1_2_openj9-0.32.0.tar.gz.sig",
+                    "size": 41699824
+                },
+                "project": "jdk",
+                "scm_ref": "v0.32.0-release-18.0.1.1",
+                "updated_at": "2022-05-13T14:30:56+00:00"
+            }
+        ],
+        "id": "RE_kwDOG6JEzc4D-FJ5.lFKGdeq8wkopnw==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/tag/jdk-18.0.1.1%2B2_openj9-0.32.0",
+        "release_name": "jdk-18.0.1.1+2_openj9-0.32.0",
+        "release_type": "ga",
+        "timestamp": "2022-05-12T18:25:07+00:00",
+        "updated_at": "2022-05-13T14:38:27+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 2,
+            "major": 18,
+            "minor": 0,
+            "openjdk_version": "18.0.1.1-ea+2",
+            "patch": 1,
+            "pre": "ea",
+            "security": 1,
+            "semver": "18.0.1-ea+102"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "637d1399d3e5da6dcbdaaf4ab0610b1320bdeb390e8bc7dd6a1f84d50161e8c8",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_aarch64_linux_18.0.1_10_openj9-0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_aarch64_linux_18.0.1_10_openj9-0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_aarch64_linux_18.0.1_10_openj9-0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_18.0.1_10_openj9-0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_aarch64_linux_18.0.1_10_openj9-0.32.0.tar.gz.sig",
+                    "size": 44839746
+                },
+                "project": "jdk",
+                "scm_ref": "v0.32.0-release",
+                "updated_at": "2022-04-23T13:58:00+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
+                    "checksum": "ff212fdc95e1d33dead2bfa119511c6bd306f41b62fd03e487165cdcdf59c93a",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_ppc64_aix_18.0.1_10_openj9-0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_ppc64_aix_18.0.1_10_openj9-0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_ppc64_aix_18.0.1_10_openj9-0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_18.0.1_10_openj9-0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_ppc64_aix_18.0.1_10_openj9-0.32.0.tar.gz.sig",
+                    "size": 57687996
+                },
+                "project": "jdk",
+                "scm_ref": "v0.32.0-release",
+                "updated_at": "2022-04-23T13:58:48+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "60a3c1d32f60a924687efbccdd410df743cc4098088b5ca6a424509aa0a02eab",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_ppc64le_linux_18.0.1_10_openj9-0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_ppc64le_linux_18.0.1_10_openj9-0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_ppc64le_linux_18.0.1_10_openj9-0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_18.0.1_10_openj9-0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_ppc64le_linux_18.0.1_10_openj9-0.32.0.tar.gz.sig",
+                    "size": 47429497
+                },
+                "project": "jdk",
+                "scm_ref": "v0.32.0-release",
+                "updated_at": "2022-04-23T13:59:05+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "e9cdbc40d53d7c5afaecbc8f1e7710c9be5541961b39545bee1c7f8a862ce9c0",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_s390x_linux_18.0.1_10_openj9-0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_s390x_linux_18.0.1_10_openj9-0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_s390x_linux_18.0.1_10_openj9-0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_18.0.1_10_openj9-0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_s390x_linux_18.0.1_10_openj9-0.32.0.tar.gz.sig",
+                    "size": 45678941
+                },
+                "project": "jdk",
+                "scm_ref": "v0.32.0-release",
+                "updated_at": "2022-04-23T13:59:20+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "9e23d79cc6d6aa6110f8ff2a4d89c4a323ba0470632ac925f2acd67c2c1b64b8",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_linux_18.0.1_10_openj9-0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_linux_18.0.1_10_openj9-0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_linux_18.0.1_10_openj9-0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_18.0.1_10_openj9-0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_linux_18.0.1_10_openj9-0.32.0.tar.gz.sig",
+                    "size": 47054692
+                },
+                "project": "jdk",
+                "scm_ref": "v0.32.0-release",
+                "updated_at": "2022-04-23T13:59:37+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "bee75d15849ad7a8b942c0e2778042508e75e7831d4df9acde29657f2c8c2bc4",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_windows_18.0.1_10_openj9-0.32.0.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_windows_18.0.1_10_openj9-0.32.0.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_windows_18.0.1_10_openj9-0.32.0.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_18.0.1_10_openj9-0.32.0.msi",
+                    "size": 33886208
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "75045fd9c3403ad2c99382093a68433fc8efa7b788a6ea72717f068acac45474",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_windows_18.0.1_10_openj9-0.32.0.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_windows_18.0.1_10_openj9-0.32.0.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_windows_18.0.1_10_openj9-0.32.0.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_18.0.1_10_openj9-0.32.0.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_windows_18.0.1_10_openj9-0.32.0.zip.sig",
+                    "size": 46943085
+                },
+                "project": "jdk",
+                "scm_ref": "v0.32.0-release",
+                "updated_at": "2022-04-23T14:00:31+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "72204387f472cc804b147c0803c2d9929e1b01cf70fa70c08b32a619f388f4eb",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_mac_18.0.1_10_openj9-0.32.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_mac_18.0.1_10_openj9-0.32.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_mac_18.0.1_10_openj9-0.32.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_18.0.1_10_openj9-0.32.0.pkg",
+                    "size": 47435619
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "f5c9d20e2222caec4529aea84d8b95db5e2a23f043f1f60786bd4836dc24270a",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_mac_18.0.1_10_openj9-0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_mac_18.0.1_10_openj9-0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_mac_18.0.1_10_openj9-0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_18.0.1_10_openj9-0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_x64_mac_18.0.1_10_openj9-0.32.0.tar.gz.sig",
+                    "size": 47382976
+                },
+                "project": "jdk",
+                "scm_ref": "v0.32.0-release",
+                "updated_at": "2022-05-02T20:22:16+00:00"
+            }
+        ],
+        "id": "RE_kwDOG6JEzc4D4gsV.BcRnWUpM6E9uyA==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/tag/jdk-18.0.1%2B10_openj9-0.32.0",
+        "release_name": "jdk-18.0.1+10_openj9-0.32.0",
+        "release_type": "ga",
+        "timestamp": "2022-04-23T14:54:46+00:00",
+        "updated_at": "2022-05-03T16:45:56+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 10,
+            "major": 18,
+            "minor": 0,
+            "openjdk_version": "18.0.1+10",
+            "security": 1,
+            "semver": "18.0.1+10"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "8a3b40aabef8f4a985a5ba32e693f101e20540d7d1222e2d1678dbf87ce5be66",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_aarch64_mac_18.0.1_10_openj9-0.32.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_aarch64_mac_18.0.1_10_openj9-0.32.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_aarch64_mac_18.0.1_10_openj9-0.32.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_18.0.1_10_openj9-0.32.0.pkg",
+                    "size": 41763534
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "31ad67083dee16b8a66c50961dcd821fd660a4469c59e8b1afb53dc624305603",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_aarch64_mac_18.0.1_10_openj9-0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_aarch64_mac_18.0.1_10_openj9-0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_aarch64_mac_18.0.1_10_openj9-0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_18.0.1_10_openj9-0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/download/jdk-18.0.1%2B10_openj9-0.32.0/ibm-semeru-open-jre_aarch64_mac_18.0.1_10_openj9-0.32.0.tar.gz.sig",
+                    "size": 41698229
+                },
+                "project": "jdk",
+                "scm_ref": "v0.32.0-release",
+                "updated_at": "2022-05-02T20:21:37+00:00"
+            }
+        ],
+        "id": "RE_kwDOG6JEzc4D4gsV.GPtESfFWg6m8iQ==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru18-binaries/releases/tag/jdk-18.0.1%2B10_openj9-0.32.0",
+        "release_name": "jdk-18.0.1+10_openj9-0.32.0",
+        "release_type": "ga",
+        "timestamp": "2022-04-23T14:54:46+00:00",
+        "updated_at": "2022-05-03T16:45:56+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 10,
+            "major": 18,
+            "minor": 0,
+            "openjdk_version": "18.0.1-ea+10",
+            "pre": "ea",
+            "security": 1,
+            "semver": "18.0.1-ea+10"
+        }
+    }
+]
