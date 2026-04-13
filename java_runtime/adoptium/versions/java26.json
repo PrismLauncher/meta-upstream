@@ -241,6 +241,11 @@
         "id": "RE_kwDOPdJyvs4R51RW.kkxtX8YCVcNSWw==",
         "release_link": "https://github.com/adoptium/temurin26-binaries/releases/tag/jdk-26%2B35",
         "release_name": "jdk-26+35",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26%2B35/OpenJDK26-jdk-release-notes_26_35.json",
+            "name": "OpenJDK26-jdk-release-notes_26_35.json",
+            "size": 835781
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26%2B35/OpenJDK26U-jdk-sources_26_35.tar.gz",
@@ -248,7 +253,7 @@
             "size": 122380113
         },
         "timestamp": "2026-03-23T19:32:48+00:00",
-        "updated_at": "2026-04-07T20:29:41+00:00",
+        "updated_at": "2026-04-13T09:12:13+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 35,
