@@ -113,6 +113,53 @@
                 "project": "jdk",
                 "scm_ref": "jdk-11.0.31+11_adopt",
                 "updated_at": "2026-04-28T13:47:04+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "a047f90b4520cbd53cc74647aff1f23844299e85e3c469159735801e097208ff",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jre_x64_windows_hotspot_11.0.31_11.msi.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jre_x64_windows_hotspot_11.0.31_11.msi",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jre_x64_windows_hotspot_11.0.31_11.msi.json",
+                    "name": "OpenJDK11U-jre_x64_windows_hotspot_11.0.31_11.msi",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jre_x64_windows_hotspot_11.0.31_11.msi.sig",
+                    "size": 31551488
+                },
+                "jvm_impl": "hotspot",
+                "os": "windows",
+                "package": {
+                    "checksum": "0af0760609eca44502f05e6ab4701eecbf85290f31278dabc41dceddab7237ab",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jre_x64_windows_hotspot_11.0.31_11.zip.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jre_x64_windows_hotspot_11.0.31_11.zip",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jre_x64_windows_hotspot_11.0.31_11.zip.json",
+                    "name": "OpenJDK11U-jre_x64_windows_hotspot_11.0.31_11.zip",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jre_x64_windows_hotspot_11.0.31_11.zip.sig",
+                    "size": 43593838
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.31+11_adopt",
+                "updated_at": "2026-04-28T19:29:50+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "4c311b19aa3922951be288076f0f41a831ab7af32284da9b3e21cdaa251a078a",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jre_s390x_linux_hotspot_11.0.31_11.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jre_s390x_linux_hotspot_11.0.31_11.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jre_s390x_linux_hotspot_11.0.31_11.tar.gz.json",
+                    "name": "OpenJDK11U-jre_s390x_linux_hotspot_11.0.31_11.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.31%2B11/OpenJDK11U-jre_s390x_linux_hotspot_11.0.31_11.tar.gz.sig",
+                    "size": 37770215
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.31+11_adopt",
+                "updated_at": "2026-04-28T19:30:46+00:00"
             }
         ],
         "id": "RE_kwDOFjph084SviQe.Vj9ibJZtMOEI/Q==",
@@ -125,7 +172,7 @@
             "size": 117518880
         },
         "timestamp": "2026-04-28T07:54:21+00:00",
-        "updated_at": "2026-04-28T13:48:04+00:00",
+        "updated_at": "2026-04-28T19:31:27+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 11,
