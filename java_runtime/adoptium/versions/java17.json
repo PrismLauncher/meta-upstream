@@ -217,6 +217,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-17.0.19+10_adopt",
                 "updated_at": "2026-05-04T12:24:42+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "674547d46dad6909fdcdafe5a691c131b048a8d226ccd7d0a4e96f2b208d772a",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_s390x_linux_hotspot_17.0.19_10.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_s390x_linux_hotspot_17.0.19_10.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_s390x_linux_hotspot_17.0.19_10.tar.gz.json",
+                    "name": "OpenJDK17U-jre_s390x_linux_hotspot_17.0.19_10.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.19%2B10/OpenJDK17U-jre_s390x_linux_hotspot_17.0.19_10.tar.gz.sig",
+                    "size": 43862162
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.19+10_adopt",
+                "updated_at": "2026-05-04T19:54:49+00:00"
             }
         ],
         "id": "RE_kwDOFjpjCs4SnbRb.hZT46eVISi7udA==",
@@ -234,7 +253,7 @@
             "size": 109093932
         },
         "timestamp": "2026-04-22T16:14:09+00:00",
-        "updated_at": "2026-05-04T12:25:27+00:00",
+        "updated_at": "2026-05-04T19:55:11+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 10,
