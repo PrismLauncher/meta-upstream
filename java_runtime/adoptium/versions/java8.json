@@ -85,6 +85,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk8u492-b09-aarch32-20260428_adopt",
                 "updated_at": "2026-05-05T10:43:22+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "82b74dc9042ce6735624a1ca9585e6a43c44f0f6093a7f2088b0a622f304d62c",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jre_x64_alpine-linux_hotspot_8u492b09.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jre_x64_alpine-linux_hotspot_8u492b09.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jre_x64_alpine-linux_hotspot_8u492b09.tar.gz.json",
+                    "name": "OpenJDK8U-jre_x64_alpine-linux_hotspot_8u492b09.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u492-b09/OpenJDK8U-jre_x64_alpine-linux_hotspot_8u492b09.tar.gz.sig",
+                    "size": 41784692
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u492-b09_adopt",
+                "updated_at": "2026-05-05T15:50:41+00:00"
             }
         ],
         "id": "RE_kwDOFjpgDM4Sytph.E0kObhb1+e5vHA==",
@@ -102,7 +121,7 @@
             "size": 94237877
         },
         "timestamp": "2026-04-29T15:37:45+00:00",
-        "updated_at": "2026-05-05T10:43:31+00:00",
+        "updated_at": "2026-05-05T15:50:48+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 9,
