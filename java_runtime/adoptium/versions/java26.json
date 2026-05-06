@@ -57,6 +57,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-26.0.1+8_adopt",
                 "updated_at": "2026-05-06T10:02:57+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "aix",
+                "package": {
+                    "checksum": "d016f9beca7f04438b99b4a63447ff198dbe372af6c6c0866e7575d95ecfbe08",
+                    "checksum_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jre_ppc64_aix_hotspot_26.0.1_8.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jre_ppc64_aix_hotspot_26.0.1_8.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jre_ppc64_aix_hotspot_26.0.1_8.tar.gz.json",
+                    "name": "OpenJDK26U-jre_ppc64_aix_hotspot_26.0.1_8.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jre_ppc64_aix_hotspot_26.0.1_8.tar.gz.sig",
+                    "size": 42206349
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-26.0.1+8_adopt",
+                "updated_at": "2026-05-06T20:57:59+00:00"
             }
         ],
         "id": "RE_kwDOPdJyvs4SysyK.PFuouwyDWvBjig==",
@@ -74,7 +93,7 @@
             "size": 122452932
         },
         "timestamp": "2026-04-29T15:31:09+00:00",
-        "updated_at": "2026-05-06T10:03:34+00:00",
+        "updated_at": "2026-05-06T20:58:44+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
