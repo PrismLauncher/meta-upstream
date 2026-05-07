@@ -8,6 +8,201 @@
                 "jvm_impl": "openj9",
                 "os": "aix",
                 "package": {
+                    "checksum": "cb99be50f8582a5ed1061a5f1390533c41f2fef16892323a0139a08c0efb8f1a",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_ppc64_aix_8.0.492.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_ppc64_aix_8.0.492.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_ppc64_aix_8.0.492.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_8.0.492.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_ppc64_aix_8.0.492.0.tar.gz.sig",
+                    "size": 56347287
+                },
+                "project": "jdk",
+                "scm_ref": "v0.59.0-release",
+                "updated_at": "2026-05-07T00:51:55+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "787cb76565f2367534973b63b46b61387b5c1de80f26bcfbd8658af70bda3728",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_ppc64le_linux_8.0.492.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_ppc64le_linux_8.0.492.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_ppc64le_linux_8.0.492.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_8.0.492.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_ppc64le_linux_8.0.492.0.tar.gz.sig",
+                    "size": 55200079
+                },
+                "project": "jdk",
+                "scm_ref": "v0.59.0-release",
+                "updated_at": "2026-05-07T00:52:44+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "60d80f64f502d25d03edac655a8ed06676024aa9474a18ee4a304d5aef79317d",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_s390x_linux_8.0.492.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_s390x_linux_8.0.492.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_s390x_linux_8.0.492.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_8.0.492.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_s390x_linux_8.0.492.0.tar.gz.sig",
+                    "size": 56803485
+                },
+                "project": "jdk",
+                "scm_ref": "v0.59.0-release",
+                "updated_at": "2026-05-07T00:53:27+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "8a29af537e5d9c0814fb08d830afd074da89543a4563316e84cf1563d7f7057f",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_linux_8.0.492.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_linux_8.0.492.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_linux_8.0.492.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_8.0.492.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_linux_8.0.492.0.tar.gz.sig",
+                    "size": 53562703
+                },
+                "project": "jdk",
+                "scm_ref": "v0.59.0-release",
+                "updated_at": "2026-05-07T00:54:11+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "6b185484225e87d9960920bb97518de6ec867f1628409ed22a49648058a85f97",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_mac_8.0.492.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_mac_8.0.492.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_mac_8.0.492.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_8.0.492.0.pkg",
+                    "size": 60376570
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "9d8f4a2f8bd65809c85163c0aa32b2a6d4a651419d5a514ce8472b431d910ae3",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_mac_8.0.492.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_mac_8.0.492.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_mac_8.0.492.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_8.0.492.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_mac_8.0.492.0.tar.gz.sig",
+                    "size": 60210144
+                },
+                "project": "jdk",
+                "scm_ref": "v0.59.0-release",
+                "updated_at": "2026-05-07T00:54:52+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "b21693e6902cd56f0dee3fb35f2913c0cb0c9f5ee3adb1dbbc9f90cd9921779c",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_windows_8.0.492.0.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_windows_8.0.492.0.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_windows_8.0.492.0.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_8.0.492.0.msi",
+                    "size": 45355008
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "59bf79a84bf44aadeeb76fce03251c0246b9a63ac5c5a173b9dc68adeb0937d3",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_windows_8.0.492.0.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_windows_8.0.492.0.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_windows_8.0.492.0.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_8.0.492.0.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x64_windows_8.0.492.0.zip.sig",
+                    "size": 51274668
+                },
+                "project": "jdk",
+                "scm_ref": "v0.59.0-release",
+                "updated_at": "2026-05-07T00:55:29+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "508a88f952f432fa65772d0df61f5e0236a8e92f4dd5b3bb638c2f8d7be157b6",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_aarch64_linux_8.0.492.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_aarch64_linux_8.0.492.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_aarch64_linux_8.0.492.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_8.0.492.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_aarch64_linux_8.0.492.0.tar.gz.sig",
+                    "size": 52889894
+                },
+                "project": "jdk",
+                "scm_ref": "v0.59.0-release",
+                "updated_at": "2026-05-07T00:56:21+00:00"
+            },
+            {
+                "architecture": "x32",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "6b2ee4cf0e68e2451f9018285900715d8887a421a7a3825c15cdb9eaa7f332ee",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x86-32_windows_8.0.492.0.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x86-32_windows_8.0.492.0.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x86-32_windows_8.0.492.0.msi.json",
+                    "name": "ibm-semeru-open-jre_x86-32_windows_8.0.492.0.msi",
+                    "size": 38572032
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "559c13732835612b72f9ae7ea13ccb55c7dc261fa9ec1241367dd571d71f6157",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x86-32_windows_8.0.492.0.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x86-32_windows_8.0.492.0.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x86-32_windows_8.0.492.0.zip.json",
+                    "name": "ibm-semeru-open-jre_x86-32_windows_8.0.492.0.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk-8.0.492.0/ibm-semeru-open-jre_x86-32_windows_8.0.492.0.zip.sig",
+                    "size": 47869175
+                },
+                "project": "jdk",
+                "scm_ref": "v0.59.0-release",
+                "updated_at": "2026-05-07T00:56:51+00:00"
+            }
+        ],
+        "id": "RE_kwDOF1OyhM4S_wkN.E0kObhb1+e5vHA==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/tag/jdk-8.0.492.0",
+        "release_name": "jdk-8.0.492.0",
+        "release_type": "ga",
+        "timestamp": "2026-05-07T01:09:16+00:00",
+        "updated_at": "2026-05-07T01:09:16+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 9,
+            "major": 8,
+            "minor": 0,
+            "openjdk_version": "1.8.0_492-b09",
+            "security": 492,
+            "semver": "8.0.492+9"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
                     "checksum": "0c06a8c9bc82a5c6bf66793a1263d5d17945a034fb4535894a1f284d0acdf5bd",
                     "checksum_link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u482-b08.1_openj9-0.57.0/ibm-semeru-open-jre_ppc64_aix_8.0.482.1.tar.gz.sha256.txt",
                     "link": "https://github.com/AdoptOpenJDK/semeru8-binaries/releases/download/jdk8u482-b08.1_openj9-0.57.0/ibm-semeru-open-jre_ppc64_aix_8.0.482.1.tar.gz",
