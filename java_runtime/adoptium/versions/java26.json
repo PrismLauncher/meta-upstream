@@ -208,6 +208,34 @@
                 "project": "jdk",
                 "scm_ref": "jdk-26.0.1+8_adopt",
                 "updated_at": "2026-05-07T14:02:50+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "400bdf064a84e8cb47d442a054d8931fbfdf81a867ecb68c5b99541db32fabab",
+                    "checksum_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jre_x64_windows_hotspot_26.0.1_8.msi.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jre_x64_windows_hotspot_26.0.1_8.msi",
+                    "metadata_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jre_x64_windows_hotspot_26.0.1_8.msi.json",
+                    "name": "OpenJDK26U-jre_x64_windows_hotspot_26.0.1_8.msi",
+                    "signature_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jre_x64_windows_hotspot_26.0.1_8.msi.sig",
+                    "size": 43925504
+                },
+                "jvm_impl": "hotspot",
+                "os": "windows",
+                "package": {
+                    "checksum": "bab6b82ad8600dc177f45b3225d5810779fe9d90179561d877a731294e173404",
+                    "checksum_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jre_x64_windows_hotspot_26.0.1_8.zip.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jre_x64_windows_hotspot_26.0.1_8.zip",
+                    "metadata_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jre_x64_windows_hotspot_26.0.1_8.zip.json",
+                    "name": "OpenJDK26U-jre_x64_windows_hotspot_26.0.1_8.zip",
+                    "signature_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.1%2B8/OpenJDK26U-jre_x64_windows_hotspot_26.0.1_8.zip.sig",
+                    "size": 60061606
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-26.0.1+8_adopt",
+                "updated_at": "2026-05-15T10:16:51+00:00"
             }
         ],
         "id": "RE_kwDOPdJyvs4SysyK.PFuouwyDWvBjig==",
@@ -225,7 +253,7 @@
             "size": 122452932
         },
         "timestamp": "2026-04-29T15:31:09+00:00",
-        "updated_at": "2026-05-07T23:09:26+00:00",
+        "updated_at": "2026-05-15T10:16:51+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
