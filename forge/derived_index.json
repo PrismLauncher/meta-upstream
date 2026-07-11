@@ -3378,7 +3378,7 @@
             ]
         },
         "1.21.10": {
-            "latest": "1.21.10-60.1.10",
+            "latest": "1.21.10-60.1.11",
             "recommended": "1.21.10-60.1.0",
             "versions": [
                 "1.21.10-60.0.0",
@@ -3409,7 +3409,8 @@
                 "1.21.10-60.1.7",
                 "1.21.10-60.1.8",
                 "1.21.10-60.1.9",
-                "1.21.10-60.1.10"
+                "1.21.10-60.1.10",
+                "1.21.10-60.1.11"
             ]
         },
         "1.21.11": {
@@ -133987,11 +133988,61 @@
                     "hash": "6eae3374cf0891590f62079bc7bff130"
                 }
             },
-            "latest": true,
+            "latest": false,
             "longversion": "1.21.10-60.1.10",
             "mcversion": "1.21.10",
             "recommended": false,
             "version": "60.1.10"
+        },
+        "1.21.10-60.1.11": {
+            "build": 11,
+            "files": {
+                "changelog": {
+                    "classifier": "changelog",
+                    "extension": "txt",
+                    "hash": "757728e9c2925a55d0e8378b6f5a90db"
+                },
+                "installer": {
+                    "classifier": "installer",
+                    "extension": "jar",
+                    "hash": "24bc48d35541894ebd3e518a0bb5dfa8"
+                },
+                "mdk": {
+                    "classifier": "mdk",
+                    "extension": "zip",
+                    "hash": "085d1bb8be26f303d50fb62c805464d5"
+                },
+                "shim": {
+                    "classifier": "shim",
+                    "extension": "jar",
+                    "hash": "a67c93b83d256c14fac9653bcc9916a3"
+                },
+                "sources": {
+                    "classifier": "sources",
+                    "extension": "jar",
+                    "hash": "404d1b619ce1a110b53b2531f2af4e79"
+                },
+                "universal": {
+                    "classifier": "universal",
+                    "extension": "jar",
+                    "hash": "a3bd4df77f22a323636bdf1e38f23781"
+                },
+                "universal-srg": {
+                    "classifier": "universal-srg",
+                    "extension": "jar",
+                    "hash": "dd609e7b61d62b6664c832afadbd33b1"
+                },
+                "userdev": {
+                    "classifier": "userdev",
+                    "extension": "jar",
+                    "hash": "8c817843d753b132105457391be80143"
+                }
+            },
+            "latest": true,
+            "longversion": "1.21.10-60.1.11",
+            "mcversion": "1.21.10",
+            "recommended": false,
+            "version": "60.1.11"
         },
         "1.21.10-60.1.3": {
             "build": 3,
