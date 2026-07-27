@@ -5,6 +5,54 @@
                 "architecture": "x64",
                 "heap_size": "normal",
                 "image_type": "jre",
+                "installer": {
+                    "checksum": "a0c56fbe62dd18a7da032c1e41fd1da027530ebd472e61b5ae64581ebdcfebc8",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B7/OpenJDK25U-jre_x64_windows_hotspot_25.0.4_7.msi.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B7/OpenJDK25U-jre_x64_windows_hotspot_25.0.4_7.msi",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B7/OpenJDK25U-jre_x64_windows_hotspot_25.0.4_7.msi.json",
+                    "name": "OpenJDK25U-jre_x64_windows_hotspot_25.0.4_7.msi",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B7/OpenJDK25U-jre_x64_windows_hotspot_25.0.4_7.msi.sig",
+                    "size": 42717184
+                },
+                "jvm_impl": "hotspot",
+                "os": "windows",
+                "package": {
+                    "checksum": "5b0d58f043f762fa3ee6cc12b6774b59b245cafdcb357e45ce61f822aa9a56cb",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B7/OpenJDK25U-jre_x64_windows_hotspot_25.0.4_7.zip.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B7/OpenJDK25U-jre_x64_windows_hotspot_25.0.4_7.zip",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B7/OpenJDK25U-jre_x64_windows_hotspot_25.0.4_7.zip.json",
+                    "name": "OpenJDK25U-jre_x64_windows_hotspot_25.0.4_7.zip",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4%2B7/OpenJDK25U-jre_x64_windows_hotspot_25.0.4_7.zip.sig",
+                    "size": 58474646
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-25.0.4+7_adopt",
+                "updated_at": "2026-07-27T17:54:34+00:00"
+            }
+        ],
+        "id": "RE_kwDONcCImc4Vfnxk.iMYUFUba5bJGAA==",
+        "release_link": "https://github.com/adoptium/temurin25-binaries/releases/tag/jdk-25.0.4%2B7",
+        "release_name": "jdk-25.0.4+7",
+        "release_type": "ga",
+        "timestamp": "2026-07-27T17:54:20+00:00",
+        "updated_at": "2026-07-27T17:55:11+00:00",
+        "vendor": "eclipse",
+        "version_data": {
+            "build": 7,
+            "major": 25,
+            "minor": 0,
+            "openjdk_version": "25.0.4+7-LTS",
+            "optional": "LTS",
+            "security": 4,
+            "semver": "25.0.4+7.0.LTS"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
                 "jvm_impl": "hotspot",
                 "os": "linux",
                 "package": {
