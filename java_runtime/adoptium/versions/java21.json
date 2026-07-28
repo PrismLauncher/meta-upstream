@@ -142,6 +142,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-21.0.12+8_adopt",
                 "updated_at": "2026-07-28T08:03:47+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "2ec0aecaec755ffa8c7904983f89873e51c28e683de39946ba49496acae8fe96",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_s390x_linux_hotspot_21.0.12_8.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_s390x_linux_hotspot_21.0.12_8.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_s390x_linux_hotspot_21.0.12_8.tar.gz.json",
+                    "name": "OpenJDK21U-jre_s390x_linux_hotspot_21.0.12_8.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_s390x_linux_hotspot_21.0.12_8.tar.gz.sig",
+                    "size": 48868071
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.12+8_adopt",
+                "updated_at": "2026-07-28T15:18:20+00:00"
             }
         ],
         "id": "RE_kwDOI-qQc84VbBQt.5r6HNbfYYukrZQ==",
@@ -154,7 +173,7 @@
             "size": 115041249
         },
         "timestamp": "2026-07-24T15:51:55+00:00",
-        "updated_at": "2026-07-28T08:03:58+00:00",
+        "updated_at": "2026-07-28T15:18:22+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
