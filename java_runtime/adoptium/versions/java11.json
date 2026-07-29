@@ -114,6 +114,53 @@
                 "project": "jdk",
                 "scm_ref": "jdk-11.0.32+9_adopt",
                 "updated_at": "2026-07-28T13:45:33+00:00"
+            },
+            {
+                "architecture": "arm",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "c6b7d991b454f54f794503aabd36ebaae1647190f9a41ba72f021aa5721f2dd4",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jre_arm_linux_hotspot_11.0.32_9.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jre_arm_linux_hotspot_11.0.32_9.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jre_arm_linux_hotspot_11.0.32_9.tar.gz.json",
+                    "name": "OpenJDK11U-jre_arm_linux_hotspot_11.0.32_9.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jre_arm_linux_hotspot_11.0.32_9.tar.gz.sig",
+                    "size": 41880912
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.32+9_adopt",
+                "updated_at": "2026-07-29T07:50:14+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "df081418748813e681157c616837a605d463c7a9cee631a3b6319ef838c4cc6e",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jre_x64_windows_hotspot_11.0.32_9.msi.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jre_x64_windows_hotspot_11.0.32_9.msi",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jre_x64_windows_hotspot_11.0.32_9.msi.json",
+                    "name": "OpenJDK11U-jre_x64_windows_hotspot_11.0.32_9.msi",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jre_x64_windows_hotspot_11.0.32_9.msi.sig",
+                    "size": 31547392
+                },
+                "jvm_impl": "hotspot",
+                "os": "windows",
+                "package": {
+                    "checksum": "e5ecbcad16562d271f074655beb1bc65a67200a55874f357d2b4aa98b2372e80",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jre_x64_windows_hotspot_11.0.32_9.zip.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jre_x64_windows_hotspot_11.0.32_9.zip",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jre_x64_windows_hotspot_11.0.32_9.zip.json",
+                    "name": "OpenJDK11U-jre_x64_windows_hotspot_11.0.32_9.zip",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32%2B9/OpenJDK11U-jre_x64_windows_hotspot_11.0.32_9.zip.sig",
+                    "size": 43576153
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.32+9_adopt",
+                "updated_at": "2026-07-29T08:51:51+00:00"
             }
         ],
         "id": "RE_kwDOFjph084VbA1L.8d45+X00hJ+5FA==",
@@ -126,7 +173,7 @@
             "size": 117520525
         },
         "timestamp": "2026-07-24T15:48:28+00:00",
-        "updated_at": "2026-07-28T13:45:34+00:00",
+        "updated_at": "2026-07-29T08:52:04+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 9,
