@@ -56,14 +56,38 @@
                 "project": "jdk",
                 "scm_ref": "jdk-26.0.2+10_adopt",
                 "updated_at": "2026-07-28T15:23:10+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "585c4cce5807ce5677289a123680a8648c84c9afac66727a0e3027298d8e32c7",
+                    "checksum_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_x64_linux_hotspot_26.0.2_10.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_x64_linux_hotspot_26.0.2_10.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_x64_linux_hotspot_26.0.2_10.tar.gz.json",
+                    "name": "OpenJDK26U-jre_x64_linux_hotspot_26.0.2_10.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_x64_linux_hotspot_26.0.2_10.tar.gz.sig",
+                    "size": 63208578
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-26.0.2+10_adopt",
+                "updated_at": "2026-07-29T11:42:57+00:00"
             }
         ],
         "id": "RE_kwDOPdJyvs4VhCLp.XXse4yG4ys8X0A==",
         "release_link": "https://github.com/adoptium/temurin26-binaries/releases/tag/jdk-26.0.2%2B10",
         "release_name": "jdk-26.0.2+10",
         "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jdk-sources_26.0.2_10.tar.gz",
+            "name": "OpenJDK26U-jdk-sources_26.0.2_10.tar.gz",
+            "size": 122613960
+        },
         "timestamp": "2026-07-28T09:46:31+00:00",
-        "updated_at": "2026-07-28T15:23:18+00:00",
+        "updated_at": "2026-07-29T11:43:15+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 10,
