@@ -75,6 +75,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-26.0.2+10_adopt",
                 "updated_at": "2026-07-29T11:42:57+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "3c689572d2ea7aa3e19db5e5bc4ee41e90b557593d15eefcec179a9b8abfff0e",
+                    "checksum_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_aarch64_linux_hotspot_26.0.2_10.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_aarch64_linux_hotspot_26.0.2_10.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_aarch64_linux_hotspot_26.0.2_10.tar.gz.json",
+                    "name": "OpenJDK26U-jre_aarch64_linux_hotspot_26.0.2_10.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_aarch64_linux_hotspot_26.0.2_10.tar.gz.sig",
+                    "size": 62017773
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-26.0.2+10_adopt",
+                "updated_at": "2026-07-29T16:29:20+00:00"
             }
         ],
         "id": "RE_kwDOPdJyvs4VhCLp.XXse4yG4ys8X0A==",
@@ -87,7 +106,7 @@
             "size": 122613960
         },
         "timestamp": "2026-07-28T09:46:31+00:00",
-        "updated_at": "2026-07-29T11:43:15+00:00",
+        "updated_at": "2026-07-29T16:30:00+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 10,
