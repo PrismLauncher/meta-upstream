@@ -217,11 +217,63 @@
                 "project": "jdk",
                 "scm_ref": "jdk-21.0.12+8_adopt",
                 "updated_at": "2026-07-30T08:38:52+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "dbb0e9d88a8252d4bad9265ca316ef6eb36e044532d8838f93425237abf3cefd",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.12_8.msi.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.12_8.msi",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.12_8.msi.json",
+                    "name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.12_8.msi",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.12_8.msi.sig",
+                    "size": 27742208
+                },
+                "jvm_impl": "hotspot",
+                "os": "windows",
+                "package": {
+                    "checksum": "a50ed83b6a88d3127d406713f5057d78f845c3412d59e201dac6db37714af85c",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.12_8.zip.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.12_8.zip",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.12_8.zip.json",
+                    "name": "OpenJDK21U-jre_aarch64_windows_hotspot_21.0.12_8.zip",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_aarch64_windows_hotspot_21.0.12_8.zip.sig",
+                    "size": 40074341
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.12+8_adopt",
+                "updated_at": "2026-07-31T14:10:49+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "a4f70d2be5c55940dd60b6636643a05125e60e6c3dbc2a8402032b0346744dfa",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.12_8.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.12_8.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.12_8.tar.gz.json",
+                    "name": "OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.12_8.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jre_aarch64_alpine-linux_hotspot_21.0.12_8.tar.gz.sig",
+                    "size": 51186771
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.12+8_adopt",
+                "updated_at": "2026-07-31T14:11:44+00:00"
             }
         ],
         "id": "RE_kwDOI-qQc84VbBQt.5r6HNbfYYukrZQ==",
         "release_link": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.12%2B8",
         "release_name": "jdk-21.0.12+8",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jdk-release-notes_21.0.12_8.json",
+            "name": "OpenJDK21U-jdk-release-notes_21.0.12_8.json",
+            "size": 90722
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12%2B8/OpenJDK21U-jdk-sources_21.0.12_8.tar.gz",
@@ -229,7 +281,7 @@
             "size": 115041249
         },
         "timestamp": "2026-07-24T15:51:55+00:00",
-        "updated_at": "2026-07-30T08:39:00+00:00",
+        "updated_at": "2026-07-31T15:13:15+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,

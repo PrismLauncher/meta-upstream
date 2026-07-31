@@ -217,11 +217,35 @@
                 "project": "jdk",
                 "scm_ref": "jdk-17.0.20+8_adopt",
                 "updated_at": "2026-07-30T09:52:36+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "aix",
+                "package": {
+                    "checksum": "5f8963cb94f7a9a9e79c8995a83b5c2c5ee08f75e0ee3418f8b3d95f7b735873",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.20_8.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.20_8.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.20_8.tar.gz.json",
+                    "name": "OpenJDK17U-jre_ppc64_aix_hotspot_17.0.20_8.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jre_ppc64_aix_hotspot_17.0.20_8.tar.gz.sig",
+                    "size": 41638720
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.20+8_adopt",
+                "updated_at": "2026-07-31T14:12:57+00:00"
             }
         ],
         "id": "RE_kwDOFjpjCs4VbJ7A.57kN3leneOZ5cg==",
         "release_link": "https://github.com/adoptium/temurin17-binaries/releases/tag/jdk-17.0.20%2B8",
         "release_name": "jdk-17.0.20+8",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jdk-release-notes_17.0.20_8.json",
+            "name": "OpenJDK17U-jdk-release-notes_17.0.20_8.json",
+            "size": 70427
+        },
         "release_type": "ga",
         "source": {
             "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20%2B8/OpenJDK17U-jdk-sources_17.0.20_8.tar.gz",
@@ -229,7 +253,7 @@
             "size": 109235059
         },
         "timestamp": "2026-07-24T17:14:15+00:00",
-        "updated_at": "2026-07-30T09:52:44+00:00",
+        "updated_at": "2026-07-31T15:11:26+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
