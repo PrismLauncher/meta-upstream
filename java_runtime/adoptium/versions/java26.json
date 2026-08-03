@@ -189,6 +189,53 @@
                 "project": "jdk",
                 "scm_ref": "jdk-26.0.2+10_adopt",
                 "updated_at": "2026-07-31T12:30:40+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "b35b3ded4429c10442e7809bf38b0000fc58d944b08e354c872938d638de4ee6",
+                    "checksum_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_x64_windows_hotspot_26.0.2_10.msi.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_x64_windows_hotspot_26.0.2_10.msi",
+                    "metadata_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_x64_windows_hotspot_26.0.2_10.msi.json",
+                    "name": "OpenJDK26U-jre_x64_windows_hotspot_26.0.2_10.msi",
+                    "signature_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_x64_windows_hotspot_26.0.2_10.msi.sig",
+                    "size": 43905024
+                },
+                "jvm_impl": "hotspot",
+                "os": "windows",
+                "package": {
+                    "checksum": "4323e886b6320e2166072bdfd604a4236c3dba6e5ab289e10aef623f09d355a0",
+                    "checksum_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_x64_windows_hotspot_26.0.2_10.zip.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_x64_windows_hotspot_26.0.2_10.zip",
+                    "metadata_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_x64_windows_hotspot_26.0.2_10.zip.json",
+                    "name": "OpenJDK26U-jre_x64_windows_hotspot_26.0.2_10.zip",
+                    "signature_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_x64_windows_hotspot_26.0.2_10.zip.sig",
+                    "size": 60081605
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-26.0.2+10_adopt",
+                "updated_at": "2026-08-03T08:47:23+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "5803ccac6551ec18aada9ab58a55d7fa3b82f5e698dfd32f8ed16f5dd4b5255e",
+                    "checksum_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_s390x_linux_hotspot_26.0.2_10.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_s390x_linux_hotspot_26.0.2_10.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_s390x_linux_hotspot_26.0.2_10.tar.gz.json",
+                    "name": "OpenJDK26U-jre_s390x_linux_hotspot_26.0.2_10.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_s390x_linux_hotspot_26.0.2_10.tar.gz.sig",
+                    "size": 61058942
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-26.0.2+10_adopt",
+                "updated_at": "2026-08-03T08:48:59+00:00"
             }
         ],
         "id": "RE_kwDOPdJyvs4VhCLp.XXse4yG4ys8X0A==",
@@ -206,7 +253,7 @@
             "size": 122613960
         },
         "timestamp": "2026-07-28T09:46:31+00:00",
-        "updated_at": "2026-07-31T15:22:13+00:00",
+        "updated_at": "2026-08-03T08:49:30+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 10,
