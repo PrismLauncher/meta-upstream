@@ -4839,5 +4839,43 @@
             "security": 12,
             "semver": "11.0.12-ea+7"
         }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "06fa66b99d3c9ba07f117860ef653d52bcb19dac1ea598c15f3b4eec9f832b36",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.12%2B7_openj9-0.27.0/ibm-semeru-open-jre_aarch64_linux_11.0.12_7_openj9-0.27.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.12%2B7_openj9-0.27.0/ibm-semeru-open-jre_aarch64_linux_11.0.12_7_openj9-0.27.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.12%2B7_openj9-0.27.0/ibm-semeru-open-jre_aarch64_linux_11.0.12_7_openj9-0.27.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_11.0.12_7_openj9-0.27.0.tar.gz",
+                    "size": 41737266
+                },
+                "project": "jdk",
+                "scm_ref": "v0.27.0-release",
+                "updated_at": "2021-08-03T16:07:57+00:00"
+            }
+        ],
+        "id": "MDc6UmVsZWFzZTQ3MjM4NDA4.P5vAkWZRL+vIuA==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/tag/jdk-11.0.12%2B7_openj9-0.27.0",
+        "release_name": "jdk-11.0.12+7_openj9-0.27.0",
+        "release_type": "ga",
+        "timestamp": "2021-08-03T16:16:45+00:00",
+        "updated_at": "2021-08-03T16:16:45+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 7,
+            "major": 11,
+            "minor": 0,
+            "openjdk_version": "11.0.12-ea+7",
+            "pre": "ea",
+            "security": 12,
+            "semver": "11.0.12-ea+7"
+        }
     }
 ]
