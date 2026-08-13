@@ -8,6 +8,200 @@
                 "jvm_impl": "openj9",
                 "os": "aix",
                 "package": {
+                    "checksum": "c86dda19b4d3f2c3dbcc945b3515cc8f4616a765c7d1e307d2e55696f5f3ef40",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_ppc64_aix_26.0.2.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_ppc64_aix_26.0.2.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_ppc64_aix_26.0.2.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_26.0.2.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_ppc64_aix_26.0.2.0.tar.gz.sig",
+                    "size": 63986613
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:14:52+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "be956d0d5ba6e925d8b76d1cbaa8548728b531374684ffd8c6e3599b0071089c",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_ppc64le_linux_26.0.2.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_ppc64le_linux_26.0.2.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_ppc64le_linux_26.0.2.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_26.0.2.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_ppc64le_linux_26.0.2.0.tar.gz.sig",
+                    "size": 61939807
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:16:01+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "ad6269a05de0c18d19dab872b9d11f099a72b2fed3ffbc0f90eeba294f1b421f",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_s390x_linux_26.0.2.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_s390x_linux_26.0.2.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_s390x_linux_26.0.2.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_26.0.2.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_s390x_linux_26.0.2.0.tar.gz.sig",
+                    "size": 59343971
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:17:09+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "3c08554784ff610cb21d35e3dbeb8f6d87498d234ea8ae062e488c7a1d3b11ac",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_linux_26.0.2.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_linux_26.0.2.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_linux_26.0.2.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_26.0.2.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_linux_26.0.2.0.tar.gz.sig",
+                    "size": 60409405
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:18:19+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "e32a84859955ccef44254162f806ed485beaf61d9953943fc2179d0e605f1c14",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_mac_26.0.2.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_mac_26.0.2.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_mac_26.0.2.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_26.0.2.0.pkg",
+                    "size": 56057970
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "cb31fcd13dbb5cddf1e88da08499d41edf59b2176ab4dce3f4eb51dee846d2d1",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_mac_26.0.2.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_mac_26.0.2.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_mac_26.0.2.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_26.0.2.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_mac_26.0.2.0.tar.gz.sig",
+                    "size": 56412087
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:19:18+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_windows_26.0.2.0.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_windows_26.0.2.0.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_windows_26.0.2.0.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_26.0.2.0.msi",
+                    "size": 41857024
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "489cbfa40d190aec622f53b0efe2e885c2294c0b05164af8c958c7da90249da5",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_windows_26.0.2.0.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_windows_26.0.2.0.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_windows_26.0.2.0.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_26.0.2.0.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_x64_windows_26.0.2.0.zip.sig",
+                    "size": 58138257
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:20:12+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "1624325b4e3dbe05144b410f87d189ae2e68c500a4e7eceef2bbc94ab7e26a56",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_aarch64_mac_26.0.2.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_aarch64_mac_26.0.2.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_aarch64_mac_26.0.2.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_26.0.2.0.pkg",
+                    "size": 52961800
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "e33ddd3cc7cac04439268f10495fc81e22c42792cb3730565312af71a2263c7a",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_aarch64_mac_26.0.2.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_aarch64_mac_26.0.2.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_aarch64_mac_26.0.2.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_26.0.2.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_aarch64_mac_26.0.2.0.tar.gz.sig",
+                    "size": 53456250
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:21:14+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "bc2b289aed2e496ac9fcab0e30a7dc3fa76c5104c015b709e6305587bc562520",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_aarch64_linux_26.0.2.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_aarch64_linux_26.0.2.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_aarch64_linux_26.0.2.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_26.0.2.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.2.0/ibm-semeru-open-jre_aarch64_linux_26.0.2.0.tar.gz.sig",
+                    "size": 58445186
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:22:18+00:00"
+            }
+        ],
+        "id": "RE_kwDOROzu-84WBTGV.XXse4yG4ys8X0A==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/tag/jdk-26.0.2.0",
+        "release_name": "jdk-26.0.2.0",
+        "release_type": "ga",
+        "timestamp": "2026-08-12T18:35:12+00:00",
+        "updated_at": "2026-08-12T18:35:12+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 10,
+            "major": 26,
+            "minor": 0,
+            "openjdk_version": "26.0.2+10",
+            "security": 2,
+            "semver": "26.0.2+10"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
                     "checksum": "5f1058990c6951de00b94aed23ff94431d84863cc1df9466c3953679dd819878",
                     "checksum_link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.1.0/ibm-semeru-open-jre_ppc64_aix_26.0.1.0.tar.gz.sha256.txt",
                     "link": "https://github.com/AdoptOpenJDK/semeru26-binaries/releases/download/jdk-26.0.1.0/ibm-semeru-open-jre_ppc64_aix_26.0.1.0.tar.gz",

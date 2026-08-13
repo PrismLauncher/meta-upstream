@@ -8,6 +8,200 @@
                 "jvm_impl": "openj9",
                 "os": "aix",
                 "package": {
+                    "checksum": "8b7d709347921d4591a638d3b78a2e5c9b0d4a3821f0e54cf74e710739c5b983",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_ppc64_aix_17.0.20.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_ppc64_aix_17.0.20.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_ppc64_aix_17.0.20.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_17.0.20.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_ppc64_aix_17.0.20.0.tar.gz.sig",
+                    "size": 65952657
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:05:26+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "44233d7f4f7c34322c374786c819a27522d2990f49b92e5ca5afc21ce43ea637",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_ppc64le_linux_17.0.20.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_ppc64le_linux_17.0.20.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_ppc64le_linux_17.0.20.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_17.0.20.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_ppc64le_linux_17.0.20.0.tar.gz.sig",
+                    "size": 56849170
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:06:45+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "648b95437dedc9cbe56b5dd2495dca63ac910f8db5ed14ca206aee96d9ef7a4d",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_s390x_linux_17.0.20.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_s390x_linux_17.0.20.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_s390x_linux_17.0.20.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_17.0.20.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_s390x_linux_17.0.20.0.tar.gz.sig",
+                    "size": 57446682
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:07:45+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "ab02e45b38724d16ecca928d179f98b0189adf5a9782d3adfbcedffc5db2a45f",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_linux_17.0.20.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_linux_17.0.20.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_linux_17.0.20.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_17.0.20.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_linux_17.0.20.0.tar.gz.sig",
+                    "size": 54990634
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:08:58+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "5633ef958417c0878f8b920c4fab92caef46f98e5c875fd719e0caaf2da93d45",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_mac_17.0.20.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_mac_17.0.20.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_mac_17.0.20.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_17.0.20.0.pkg",
+                    "size": 51277413
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "5aa33ee532b1074e92315642b2e554789e38b24797760afaf7aef50435a24ad1",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_mac_17.0.20.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_mac_17.0.20.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_mac_17.0.20.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_17.0.20.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_mac_17.0.20.0.tar.gz.sig",
+                    "size": 51585004
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:10:04+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_windows_17.0.20.0.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_windows_17.0.20.0.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_windows_17.0.20.0.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_17.0.20.0.msi",
+                    "size": 38674432
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "26c4b99a8c6cf0b88acbaf20b10fed64a862daf10a23d3975f8439f288180c28",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_windows_17.0.20.0.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_windows_17.0.20.0.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_windows_17.0.20.0.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_17.0.20.0.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_x64_windows_17.0.20.0.zip.sig",
+                    "size": 52992693
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:10:56+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "62d1d3a4588724a46ba315a6ee989e59fa4cf866636837c7c591f67bc09b894c",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_aarch64_mac_17.0.20.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_aarch64_mac_17.0.20.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_aarch64_mac_17.0.20.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_17.0.20.0.pkg",
+                    "size": 48233948
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "da36e5b03676f158301ffd317036f941521a9d5e731f3d2ab0eac14799ef1996",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_aarch64_mac_17.0.20.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_aarch64_mac_17.0.20.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_aarch64_mac_17.0.20.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_17.0.20.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_aarch64_mac_17.0.20.0.tar.gz.sig",
+                    "size": 48696747
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:11:49+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "0d1f7b72b7172276b3e9f9a720535441e0479c4334fa5b4baba991fede87a65b",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_aarch64_linux_17.0.20.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_aarch64_linux_17.0.20.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_aarch64_linux_17.0.20.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_17.0.20.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.20.0/ibm-semeru-open-jre_aarch64_linux_17.0.20.0.tar.gz.sig",
+                    "size": 53065503
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:13:08+00:00"
+            }
+        ],
+        "id": "RE_kwDOGgIW6M4WBSNO.57kN3leneOZ5cg==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/tag/jdk-17.0.20.0",
+        "release_name": "jdk-17.0.20.0",
+        "release_type": "ga",
+        "timestamp": "2026-08-12T18:34:15+00:00",
+        "updated_at": "2026-08-12T18:34:15+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 8,
+            "major": 17,
+            "minor": 0,
+            "openjdk_version": "17.0.20+8",
+            "security": 20,
+            "semver": "17.0.20+8"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
                     "checksum": "91dd246088b9d4708f54a9024556061099ff0e63264104f490235bdd43356e5b",
                     "checksum_link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.19.0/ibm-semeru-open-jre_ppc64_aix_17.0.19.0.tar.gz.sha256.txt",
                     "link": "https://github.com/AdoptOpenJDK/semeru17-binaries/releases/download/jdk-17.0.19.0/ibm-semeru-open-jre_ppc64_aix_17.0.19.0.tar.gz",

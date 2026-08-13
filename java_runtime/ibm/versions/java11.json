@@ -8,6 +8,200 @@
                 "jvm_impl": "openj9",
                 "os": "aix",
                 "package": {
+                    "checksum": "6641d4b0e0d7b34eb17c8f367a88eebed8bbda3a2f9c95848e96a54f289f11a4",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_ppc64_aix_11.0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_ppc64_aix_11.0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_ppc64_aix_11.0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_11.0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_ppc64_aix_11.0.32.0.tar.gz.sig",
+                    "size": 65694668
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:04:04+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "f8be2c88024f15b17f382c5d08d5a85e0155717b2d8698d429f5ebe33b09155f",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_ppc64le_linux_11.0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_ppc64le_linux_11.0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_ppc64le_linux_11.0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_11.0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_ppc64le_linux_11.0.32.0.tar.gz.sig",
+                    "size": 57056512
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:05:06+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "235198518725ded38b30e05559d756a2f02305ca7d84dd87608c265c8b639669",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_s390x_linux_11.0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_s390x_linux_11.0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_s390x_linux_11.0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_11.0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_s390x_linux_11.0.32.0.tar.gz.sig",
+                    "size": 57512858
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:06:18+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "2aa0aad217a1816630df86b4a74eff0ab3a9f2a57643ab1f1718240bf9384bb1",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_linux_11.0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_linux_11.0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_linux_11.0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_11.0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_linux_11.0.32.0.tar.gz.sig",
+                    "size": 55157186
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:07:29+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "07f1e499111a24a8fa4fafc85bbb853cd1b9cbd7fe09055fd1c1aeb7eca4abd9",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_mac_11.0.32.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_mac_11.0.32.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_mac_11.0.32.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_11.0.32.0.pkg",
+                    "size": 50685089
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "7580f1a6601c17233d6ab26499b6696666b6922c4a1ef4fad0d89d7d8dd90696",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_mac_11.0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_mac_11.0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_mac_11.0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_11.0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_mac_11.0.32.0.tar.gz.sig",
+                    "size": 50979935
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:10:40+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_windows_11.0.32.0.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_windows_11.0.32.0.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_windows_11.0.32.0.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_11.0.32.0.msi",
+                    "size": 39223296
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "c923a40d12fdcff2f5dde361d8abad9db30fb77c1ab45fdd15b3e9597adc152a",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_windows_11.0.32.0.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_windows_11.0.32.0.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_windows_11.0.32.0.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_11.0.32.0.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_x64_windows_11.0.32.0.zip.sig",
+                    "size": 53074465
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:11:27+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "09bc244e2e45a04dba87dd17501cd44ca989cbf12c40e3f02634ea7527a21538",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_aarch64_mac_11.0.32.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_aarch64_mac_11.0.32.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_aarch64_mac_11.0.32.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_11.0.32.0.pkg",
+                    "size": 47821349
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "0d08a1909633ff228940a0e62d6921a6539596bdc7edf85f8d1a7499633f2445",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_aarch64_mac_11.0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_aarch64_mac_11.0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_aarch64_mac_11.0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_11.0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_aarch64_mac_11.0.32.0.tar.gz.sig",
+                    "size": 48268387
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:12:37+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "40b6f31ea010ea8367f10e0da35811fa29be71f4ce52be99186ff23f5804fe71",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_aarch64_linux_11.0.32.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_aarch64_linux_11.0.32.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_aarch64_linux_11.0.32.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_11.0.32.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.32.0/ibm-semeru-open-jre_aarch64_linux_11.0.32.0.tar.gz.sig",
+                    "size": 53280441
+                },
+                "project": "jdk",
+                "scm_ref": "v0.60.0-release",
+                "updated_at": "2026-08-12T18:13:50+00:00"
+            }
+        ],
+        "id": "RE_kwDOF1Oxxc4WBSEi.8d45+X00hJ+5FA==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/tag/jdk-11.0.32.0",
+        "release_name": "jdk-11.0.32.0",
+        "release_type": "ga",
+        "timestamp": "2026-08-12T18:33:55+00:00",
+        "updated_at": "2026-08-12T18:33:55+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 9,
+            "major": 11,
+            "minor": 0,
+            "openjdk_version": "11.0.32+9",
+            "security": 32,
+            "semver": "11.0.32+9"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
                     "checksum": "9bb0d57e52cfe0639917a8b44a3ea1cbbf4b9b1e90bedcc28572c29eb45a56fa",
                     "checksum_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.31.0/ibm-semeru-open-jre_ppc64_aix_11.0.31.0.tar.gz.sha256.txt",
                     "link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.31.0/ibm-semeru-open-jre_ppc64_aix_11.0.31.0.tar.gz",
@@ -4800,44 +4994,6 @@
             "openjdk_version": "11.0.12+7",
             "security": 12,
             "semver": "11.0.12+7"
-        }
-    },
-    {
-        "binaries": [
-            {
-                "architecture": "aarch64",
-                "heap_size": "normal",
-                "image_type": "jre",
-                "jvm_impl": "openj9",
-                "os": "linux",
-                "package": {
-                    "checksum": "06fa66b99d3c9ba07f117860ef653d52bcb19dac1ea598c15f3b4eec9f832b36",
-                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.12%2B7_openj9-0.27.0/ibm-semeru-open-jre_aarch64_linux_11.0.12_7_openj9-0.27.0.tar.gz.sha256.txt",
-                    "link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.12%2B7_openj9-0.27.0/ibm-semeru-open-jre_aarch64_linux_11.0.12_7_openj9-0.27.0.tar.gz",
-                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/download/jdk-11.0.12%2B7_openj9-0.27.0/ibm-semeru-open-jre_aarch64_linux_11.0.12_7_openj9-0.27.0.tar.gz.json",
-                    "name": "ibm-semeru-open-jre_aarch64_linux_11.0.12_7_openj9-0.27.0.tar.gz",
-                    "size": 41737266
-                },
-                "project": "jdk",
-                "scm_ref": "v0.27.0-release",
-                "updated_at": "2021-08-03T16:07:57+00:00"
-            }
-        ],
-        "id": "MDc6UmVsZWFzZTQ3MjM4NDA4.P5vAkWZRL+vIuA==",
-        "release_link": "https://github.com/AdoptOpenJDK/semeru11-binaries/releases/tag/jdk-11.0.12%2B7_openj9-0.27.0",
-        "release_name": "jdk-11.0.12+7_openj9-0.27.0",
-        "release_type": "ga",
-        "timestamp": "2021-08-03T16:16:45+00:00",
-        "updated_at": "2021-08-03T16:16:45+00:00",
-        "vendor": "ibm",
-        "version_data": {
-            "build": 7,
-            "major": 11,
-            "minor": 0,
-            "openjdk_version": "11.0.12-ea+7",
-            "pre": "ea",
-            "security": 12,
-            "semver": "11.0.12-ea+7"
         }
     },
     {
