@@ -1,0 +1,56 @@
+{
+    "abi": "any",
+    "arch": "x86",
+    "archive_type": "zip",
+    "availability_type": "CA",
+    "build_date": "2026-08-03T21:40:48+00:00",
+    "certifications": [
+        "tck"
+    ],
+    "cpu_gen": [],
+    "distro_version": [
+        21,
+        52,
+        203,
+        0
+    ],
+    "download_url": "https://cdn.azul.com/zulu/bin/zulu21.52.203-ca-jre21.0.12.1-linux_x64.zip",
+    "hw_bitness": 64,
+    "java_package_type": "jre",
+    "java_version": [
+        21,
+        0,
+        12,
+        1
+    ],
+    "javafx_bundled": false,
+    "last_modified": "2026-08-17T13:41:25+00:00",
+    "latest": true,
+    "lib_c_type": "glibc",
+    "md5_hash": "a30e2b7df758fed6b9f767e1b01448a7",
+    "name": "zulu21.52.203-ca-jre21.0.12.1-linux_x64.zip",
+    "openjdk_build_number": 1,
+    "os": "linux",
+    "package_uuid": "f3e39928-393d-4516-8d49-2cef99d3bec1",
+    "product": "zulu",
+    "release_status": "ga",
+    "release_type": "PSU",
+    "sha256_hash": "9f087a513a3e6365739cef8933b2554d99f5b50296836ee91b74f8697251ad2d",
+    "signatures": [
+        {
+            "details": {
+                "digest_algo": "8",
+                "key_id": "B1998361219BD9C9",
+                "sig_algo": "1",
+                "sig_version": "4",
+                "timestamp": "2026-08-14T05:59:11"
+            },
+            "signature": "iQIzBAABCAAdFiEEJ7wMjLPYFiP1m9rcsZmDYSGb2ckFAmp+rq8ACgkQsZmDYSGb2clVWA/7Bl2/GL72ppoYHG9cngZRZ0HLweIevaJDmI6Y+maZZ3eemH9w25Y6famZWHrZUm/WRctkRiPUat+hER5ZLQCBX5m45YMnjJyTO5N2bx/AsE8L8lMJtUBXptCbbk0m3PpDDV6qeELgaky45TZwwvrnS416M23qaVDFDBwxNesDk5m7tE1wWSzJ3EfpQJKUvqGHJmaI7xwUtUrx15/GnO10anHD5N0G4BV5JiUWg7rdquaBV25wO19CaN/QHUOvUaUnZD0DjP+jPA/de6JSwMlQhZYfrzq7uwZWW/2+oX++Au9ThJmnXmwPQPLXJEzQMe/4W389l3Q06r9sLqzLlBrh90fgQ8Ok36AKo50clMp49g7TkvRY3vaArjNMb2rGYiUrfNCIvmv3I7hZ3LuGmwLxHvvKNrdfDxF9Appntxd6zMGdgCX72pCNP5Sy8G05FCGkOQ07MGtP2JjGUfZL9eKtq+AIU9Sc5n4d8vZhnEmvyc/8q9RZpQf4zoaCIt4noWbX9J0BceS81iSDv36pET/xDDDngirz8e5WH15lUGB1aXVxVstRP/nyh/RFhn5oQaxZuxzmwZAS4Zjaam/TsNLgJTL2hi4WOHotF9TrubJosWTZc60O94QsEhFIbnlaNy0cn/SqPiYPR4hq6Nippp5lqQJD9fQG3mE72ucqxSFiBCo=",
+            "signature_index": 0,
+            "type": "openpgp",
+            "url": "https://api.azul.com/metadata/v1/zulu/packages/f3e39928-393d-4516-8d49-2cef99d3bec1/signature-binary?signature-index=0"
+        }
+    ],
+    "size": 52567800,
+    "support_term": "lts"
+}
