@@ -19,6 +19,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-11.0.32.1+1_adopt",
                 "updated_at": "2026-08-24T08:23:55+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "0125e0d4911b9d7b11c6268cdf365a263f4794fd923d482e1b1c01b07a68b8b5",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_aarch64_linux_hotspot_11.0.32.1_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_aarch64_linux_hotspot_11.0.32.1_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_aarch64_linux_hotspot_11.0.32.1_1.tar.gz.json",
+                    "name": "OpenJDK11U-jre_aarch64_linux_hotspot_11.0.32.1_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_aarch64_linux_hotspot_11.0.32.1_1.tar.gz.sig",
+                    "size": 41826957
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.32.1+1_adopt",
+                "updated_at": "2026-08-24T14:55:46+00:00"
             }
         ],
         "id": "RE_kwDOFjph084WYlzA.waZ7c4uyypoQGQ==",
@@ -31,7 +50,7 @@
             "size": 117592517
         },
         "timestamp": "2026-08-24T08:23:33+00:00",
-        "updated_at": "2026-08-24T08:24:31+00:00",
+        "updated_at": "2026-08-24T14:56:39+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 1,
