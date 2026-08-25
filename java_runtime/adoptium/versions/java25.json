@@ -217,6 +217,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-25.0.4.1+1_adopt",
                 "updated_at": "2026-08-25T12:05:39+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "4ab6eca3e092fd63afe8f34b119f169fd434a080c96f8d37f46687389518c4c5",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_ppc64le_linux_hotspot_25.0.4.1_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_ppc64le_linux_hotspot_25.0.4.1_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_ppc64le_linux_hotspot_25.0.4.1_1.tar.gz.json",
+                    "name": "OpenJDK25U-jre_ppc64le_linux_hotspot_25.0.4.1_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_ppc64le_linux_hotspot_25.0.4.1_1.tar.gz.sig",
+                    "size": 60682543
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-25.0.4.1+1_adopt",
+                "updated_at": "2026-08-25T14:21:32+00:00"
             }
         ],
         "id": "RE_kwDONcCImc4WPY32.rZozmHKSLSqKzw==",
@@ -234,7 +253,7 @@
             "size": 120577922
         },
         "timestamp": "2026-08-19T14:49:26+00:00",
-        "updated_at": "2026-08-25T12:06:15+00:00",
+        "updated_at": "2026-08-25T14:22:11+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 1,

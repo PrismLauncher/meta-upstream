@@ -66,6 +66,34 @@
                 "project": "jdk",
                 "scm_ref": "jdk-11.0.32.1+1_adopt",
                 "updated_at": "2026-08-25T08:13:28+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "67dc093b195baf03782c6778af23fdeeb66e100c2b7e643013cde3ba6e9a11fa",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_x64_mac_hotspot_11.0.32.1_1.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_x64_mac_hotspot_11.0.32.1_1.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_x64_mac_hotspot_11.0.32.1_1.pkg.json",
+                    "name": "OpenJDK11U-jre_x64_mac_hotspot_11.0.32.1_1.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_x64_mac_hotspot_11.0.32.1_1.pkg.sig",
+                    "size": 39211192
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "3f29ec2c7c6eba5ec96680ea9be2413a1af8ca5dae8c0513d3f31d596cfbdb04",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_x64_mac_hotspot_11.0.32.1_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_x64_mac_hotspot_11.0.32.1_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_x64_mac_hotspot_11.0.32.1_1.tar.gz.json",
+                    "name": "OpenJDK11U-jre_x64_mac_hotspot_11.0.32.1_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_x64_mac_hotspot_11.0.32.1_1.tar.gz.sig",
+                    "size": 39072230
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.32.1+1_adopt",
+                "updated_at": "2026-08-25T16:03:11+00:00"
             }
         ],
         "id": "RE_kwDOFjph084WYlzA.waZ7c4uyypoQGQ==",
@@ -83,7 +111,7 @@
             "size": 117592517
         },
         "timestamp": "2026-08-24T08:23:33+00:00",
-        "updated_at": "2026-08-25T08:14:04+00:00",
+        "updated_at": "2026-08-25T16:03:42+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 1,
