@@ -160,6 +160,63 @@
                 "project": "jdk",
                 "scm_ref": "jdk-25.0.4.1+1_adopt",
                 "updated_at": "2026-08-21T14:27:02+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "26af224b439e3a020050c68de55fb373b7049603f82e7f87f1b3e221f09c2b3b",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_s390x_linux_hotspot_25.0.4.1_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_s390x_linux_hotspot_25.0.4.1_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_s390x_linux_hotspot_25.0.4.1_1.tar.gz.json",
+                    "name": "OpenJDK25U-jre_s390x_linux_hotspot_25.0.4.1_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_s390x_linux_hotspot_25.0.4.1_1.tar.gz.sig",
+                    "size": 59345795
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-25.0.4.1+1_adopt",
+                "updated_at": "2026-08-25T09:54:32+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "aix",
+                "package": {
+                    "checksum": "44e79e53c3312bbab922653c01ed00310c1380884e912041a7fce9e1f704fb83",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_ppc64_aix_hotspot_25.0.4.1_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_ppc64_aix_hotspot_25.0.4.1_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_ppc64_aix_hotspot_25.0.4.1_1.tar.gz.json",
+                    "name": "OpenJDK25U-jre_ppc64_aix_hotspot_25.0.4.1_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_ppc64_aix_hotspot_25.0.4.1_1.tar.gz.sig",
+                    "size": 41148403
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-25.0.4.1+1_adopt",
+                "updated_at": "2026-08-25T09:55:57+00:00"
+            },
+            {
+                "architecture": "riscv64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "dcf12c8c5e0b49bbae7978f42ca6671e10671db7509f406a0f0e65e3b3dc65a9",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_riscv64_linux_hotspot_25.0.4.1_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_riscv64_linux_hotspot_25.0.4.1_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_riscv64_linux_hotspot_25.0.4.1_1.tar.gz.json",
+                    "name": "OpenJDK25U-jre_riscv64_linux_hotspot_25.0.4.1_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.4.1%2B1/OpenJDK25U-jre_riscv64_linux_hotspot_25.0.4.1_1.tar.gz.sig",
+                    "size": 60386306
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-25.0.4.1+1_adopt",
+                "updated_at": "2026-08-25T12:05:39+00:00"
             }
         ],
         "id": "RE_kwDONcCImc4WPY32.rZozmHKSLSqKzw==",
@@ -177,7 +234,7 @@
             "size": 120577922
         },
         "timestamp": "2026-08-19T14:49:26+00:00",
-        "updated_at": "2026-08-24T22:00:16+00:00",
+        "updated_at": "2026-08-25T12:06:15+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 1,

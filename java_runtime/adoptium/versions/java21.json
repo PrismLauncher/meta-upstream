@@ -160,6 +160,63 @@
                 "project": "jdk",
                 "scm_ref": "jdk-21.0.12.1+1_adopt",
                 "updated_at": "2026-08-21T11:44:52+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "d2f07f1d97faab23b3add1af92db402b721b5b251cedab7144fdd4b2bf2e2f13",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.12.1_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.12.1_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.12.1_1.tar.gz.json",
+                    "name": "OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.12.1_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_ppc64le_linux_hotspot_21.0.12.1_1.tar.gz.sig",
+                    "size": 52070760
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.12.1+1_adopt",
+                "updated_at": "2026-08-25T12:50:53+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "aix",
+                "package": {
+                    "checksum": "023d83583116ec19523324f71c09524c23883ba006f882c085912067458aab82",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.12.1_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.12.1_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.12.1_1.tar.gz.json",
+                    "name": "OpenJDK21U-jre_ppc64_aix_hotspot_21.0.12.1_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_ppc64_aix_hotspot_21.0.12.1_1.tar.gz.sig",
+                    "size": 48392345
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.12.1+1_adopt",
+                "updated_at": "2026-08-25T12:51:48+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "df43dc82a935868915a4b76227e2c63ffeb32868b608980dc67312a3d6217e1e",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_s390x_linux_hotspot_21.0.12.1_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_s390x_linux_hotspot_21.0.12.1_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_s390x_linux_hotspot_21.0.12.1_1.tar.gz.json",
+                    "name": "OpenJDK21U-jre_s390x_linux_hotspot_21.0.12.1_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jre_s390x_linux_hotspot_21.0.12.1_1.tar.gz.sig",
+                    "size": 48871694
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.12.1+1_adopt",
+                "updated_at": "2026-08-25T12:53:31+00:00"
             }
         ],
         "id": "RE_kwDOI-qQc84WO9Zv.n5mI7i+Ystg5ug==",
@@ -177,7 +234,7 @@
             "size": 115126841
         },
         "timestamp": "2026-08-19T12:10:19+00:00",
-        "updated_at": "2026-08-24T21:32:56+00:00",
+        "updated_at": "2026-08-25T12:53:32+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 1,
