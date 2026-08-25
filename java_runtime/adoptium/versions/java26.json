@@ -5,6 +5,50 @@
                 "architecture": "x64",
                 "heap_size": "normal",
                 "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "35773116829554fb38e6acf9b92b3ba8bb7856557c3ab885e26e7d61e8c8e1b0",
+                    "checksum_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2.1%2B1/OpenJDK26U-jre_x64_linux_hotspot_26.0.2.1_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2.1%2B1/OpenJDK26U-jre_x64_linux_hotspot_26.0.2.1_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2.1%2B1/OpenJDK26U-jre_x64_linux_hotspot_26.0.2.1_1.tar.gz.json",
+                    "name": "OpenJDK26U-jre_x64_linux_hotspot_26.0.2.1_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2.1%2B1/OpenJDK26U-jre_x64_linux_hotspot_26.0.2.1_1.tar.gz.sig",
+                    "size": 63205629
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-26.0.2.1+1_adopt",
+                "updated_at": "2026-08-25T08:11:42+00:00"
+            }
+        ],
+        "id": "RE_kwDOPdJyvs4WbQDI.YyHWrG54rwkbWg==",
+        "release_link": "https://github.com/adoptium/temurin26-binaries/releases/tag/jdk-26.0.2.1%2B1",
+        "release_name": "jdk-26.0.2.1+1",
+        "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2.1%2B1/OpenJDK26U-jdk-sources_26.0.2.1_1.tar.gz",
+            "name": "OpenJDK26U-jdk-sources_26.0.2.1_1.tar.gz",
+            "size": 122612826
+        },
+        "timestamp": "2026-08-25T08:11:37+00:00",
+        "updated_at": "2026-08-25T08:12:33+00:00",
+        "vendor": "eclipse",
+        "version_data": {
+            "build": 1,
+            "major": 26,
+            "minor": 0,
+            "openjdk_version": "26.0.2.1+1",
+            "patch": 1,
+            "security": 2,
+            "semver": "26.0.2+101"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
                 "installer": {
                     "checksum": "c1726e1b70c8a098156a8446c0f801bac8a5d5d41cadba6e7ec8024953d57166",
                     "checksum_link": "https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26.0.2%2B10/OpenJDK26U-jre_x64_mac_hotspot_26.0.2_10.pkg.sha256.txt",
