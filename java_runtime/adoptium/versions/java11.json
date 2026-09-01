@@ -198,6 +198,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-11.0.32.1+1_adopt",
                 "updated_at": "2026-08-31T11:52:37+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "2095edca2f5f46413959f94e1e613f778e7287c41732a6164433cd872aa98aa8",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_s390x_linux_hotspot_11.0.32.1_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_s390x_linux_hotspot_11.0.32.1_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_s390x_linux_hotspot_11.0.32.1_1.tar.gz.json",
+                    "name": "OpenJDK11U-jre_s390x_linux_hotspot_11.0.32.1_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.32.1%2B1/OpenJDK11U-jre_s390x_linux_hotspot_11.0.32.1_1.tar.gz.sig",
+                    "size": 37754999
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.32.1+1_adopt",
+                "updated_at": "2026-09-01T14:10:06+00:00"
             }
         ],
         "id": "RE_kwDOFjph084WYlzA.waZ7c4uyypoQGQ==",
@@ -215,7 +234,7 @@
             "size": 117592517
         },
         "timestamp": "2026-08-24T08:23:33+00:00",
-        "updated_at": "2026-08-31T11:52:41+00:00",
+        "updated_at": "2026-09-01T14:10:56+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 1,

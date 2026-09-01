@@ -217,6 +217,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-17.0.20.1+1_adopt",
                 "updated_at": "2026-09-01T07:48:27+00:00"
+            },
+            {
+                "architecture": "riscv64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "79c40c11fbad2b6771d08b9d4a7328bedfe49660b711930d3fe6529e5f28f99f",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.20.1_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.20.1_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.20.1_1.tar.gz.json",
+                    "name": "OpenJDK17U-jre_riscv64_linux_hotspot_17.0.20.1_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jre_riscv64_linux_hotspot_17.0.20.1_1.tar.gz.sig",
+                    "size": 45228073
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.20.1+1_adopt",
+                "updated_at": "2026-09-01T12:04:15+00:00"
             }
         ],
         "id": "RE_kwDOFjpjCs4WPKu9.RMQfFhNGgOTV3A==",
@@ -234,7 +253,7 @@
             "size": 109272338
         },
         "timestamp": "2026-08-19T13:28:29+00:00",
-        "updated_at": "2026-09-01T07:49:07+00:00",
+        "updated_at": "2026-09-01T12:04:47+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 1,
