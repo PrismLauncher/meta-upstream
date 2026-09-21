@@ -1,0 +1,40 @@
+[
+    {
+        "binaries": [
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "65177a444f1a8201ef6e557c6f24c1dded80ae2e4dc33987fb31173f6c06cd74",
+                    "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_aarch64_alpine-linux_hotspot_27_35.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_aarch64_alpine-linux_hotspot_27_35.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_aarch64_alpine-linux_hotspot_27_35.tar.gz.json",
+                    "name": "OpenJDK27U-jre_aarch64_alpine-linux_hotspot_27_35.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_aarch64_alpine-linux_hotspot_27_35.tar.gz.sig",
+                    "size": 60306778
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-27+35_adopt",
+                "updated_at": "2026-09-21T10:23:39+00:00"
+            }
+        ],
+        "id": "RE_kwDOQ0GVfs4XaqDz.nVXxpuU/djDn/Q==",
+        "release_link": "https://github.com/adoptium/temurin27-binaries/releases/tag/jdk-27%2B35",
+        "release_name": "jdk-27+35",
+        "release_type": "ga",
+        "timestamp": "2026-09-21T10:22:53+00:00",
+        "updated_at": "2026-09-21T10:23:41+00:00",
+        "vendor": "eclipse",
+        "version_data": {
+            "build": 35,
+            "major": 27,
+            "minor": 0,
+            "openjdk_version": "27+35",
+            "security": 0,
+            "semver": "27.0.0+35"
+        }
+    }
+]
