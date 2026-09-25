@@ -180,6 +180,34 @@
                 "project": "jdk",
                 "scm_ref": "jdk-27+35_adopt",
                 "updated_at": "2026-09-24T13:35:01+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "65d0bd6802f06058e8f7b063127f25b3123d5cc406e8fd49208a34a0de563acf",
+                    "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_windows_hotspot_27_35.msi.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_windows_hotspot_27_35.msi",
+                    "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_windows_hotspot_27_35.msi.json",
+                    "name": "OpenJDK27U-jre_x64_windows_hotspot_27_35.msi",
+                    "signature_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_windows_hotspot_27_35.msi.sig",
+                    "size": 43200512
+                },
+                "jvm_impl": "hotspot",
+                "os": "windows",
+                "package": {
+                    "checksum": "e9cf542d5ffe2a894637b18c27a7802853976deaa3abe3e04dfbb8a307a145dd",
+                    "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_windows_hotspot_27_35.zip.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_windows_hotspot_27_35.zip",
+                    "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_windows_hotspot_27_35.zip.json",
+                    "name": "OpenJDK27U-jre_x64_windows_hotspot_27_35.zip",
+                    "signature_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27%2B35/OpenJDK27U-jre_x64_windows_hotspot_27_35.zip.sig",
+                    "size": 59133983
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-27+35_adopt",
+                "updated_at": "2026-09-25T14:29:58+00:00"
             }
         ],
         "id": "RE_kwDOQ0GVfs4XaqDz.nVXxpuU/djDn/Q==",
@@ -197,7 +225,7 @@
             "size": 122192629
         },
         "timestamp": "2026-09-21T10:22:53+00:00",
-        "updated_at": "2026-09-24T13:39:43+00:00",
+        "updated_at": "2026-09-25T14:30:23+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 35,
