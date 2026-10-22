@@ -6,6 +6,78 @@
                 "heap_size": "normal",
                 "image_type": "jre",
                 "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "6fac98f0c8202efc3135a9e9e42aa61963ec42d1c5cbb40caf231e7b14a24ef6",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_linux_hotspot_25.0.5_8.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_linux_hotspot_25.0.5_8.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_linux_hotspot_25.0.5_8.tar.gz.json",
+                    "name": "OpenJDK25U-jre_x64_linux_hotspot_25.0.5_8.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_linux_hotspot_25.0.5_8.tar.gz.sig",
+                    "size": 61736206
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-25.0.5+8_adopt",
+                "updated_at": "2026-10-22T08:18:50+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "6405c2b8e66f9405a96d24c56eff28b2db30a04d3e52b5bf4bc527aa8bae47d1",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.pkg.json",
+                    "name": "OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.pkg.sig",
+                    "size": 56667686
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "72ebd76b502c849e88dea39afae51baf5f82f2b5b1b6389c28ea707b20451bce",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.tar.gz.json",
+                    "name": "OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_aarch64_mac_hotspot_25.0.5_8.tar.gz.sig",
+                    "size": 56298727
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-25.0.5+8_adopt",
+                "updated_at": "2026-10-22T08:22:19+00:00"
+            }
+        ],
+        "id": "RE_kwDONcCImc4ZD8N9.7MRjPYXKV/+abg==",
+        "release_link": "https://github.com/adoptium/temurin25-binaries/releases/tag/jdk-25.0.5%2B8",
+        "release_name": "jdk-25.0.5+8",
+        "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jdk-sources_25.0.5_8.tar.gz",
+            "name": "OpenJDK25U-jdk-sources_25.0.5_8.tar.gz",
+            "size": 120593019
+        },
+        "timestamp": "2026-10-22T08:18:33+00:00",
+        "updated_at": "2026-10-22T08:22:26+00:00",
+        "vendor": "eclipse",
+        "version_data": {
+            "build": 8,
+            "major": 25,
+            "minor": 0,
+            "openjdk_version": "25.0.5+8-LTS",
+            "optional": "LTS",
+            "security": 5,
+            "semver": "25.0.5+8.0.LTS"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
                 "os": "alpine-linux",
                 "package": {
                     "checksum": "cde9e39d32cab07722cb3218d91980091012f16333f8a298c40896cd05e2ffea",
