@@ -85,6 +85,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-25.0.5+8_adopt",
                 "updated_at": "2026-10-23T08:50:25+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "68fd959a83c4c0fa18e50d332323b178e6f4f14bf0a5e7f708114545013c3389",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_s390x_linux_hotspot_25.0.5_8.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_s390x_linux_hotspot_25.0.5_8.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_s390x_linux_hotspot_25.0.5_8.tar.gz.json",
+                    "name": "OpenJDK25U-jre_s390x_linux_hotspot_25.0.5_8.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_s390x_linux_hotspot_25.0.5_8.tar.gz.sig",
+                    "size": 59023158
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-25.0.5+8_adopt",
+                "updated_at": "2026-10-23T11:21:17+00:00"
             }
         ],
         "id": "RE_kwDONcCImc4ZD8N9.7MRjPYXKV/+abg==",
@@ -97,7 +116,7 @@
             "size": 120593019
         },
         "timestamp": "2026-10-22T08:18:33+00:00",
-        "updated_at": "2026-10-23T08:51:08+00:00",
+        "updated_at": "2026-10-23T11:21:59+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
