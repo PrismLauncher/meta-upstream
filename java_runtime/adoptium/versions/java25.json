@@ -104,6 +104,34 @@
                 "project": "jdk",
                 "scm_ref": "jdk-25.0.5+8_adopt",
                 "updated_at": "2026-10-23T11:21:17+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "0a0034464ec33cac14a91fa935f71385ad31ff177b1a6fb1753f7122142c8b49",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_mac_hotspot_25.0.5_8.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_mac_hotspot_25.0.5_8.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_mac_hotspot_25.0.5_8.pkg.json",
+                    "name": "OpenJDK25U-jre_x64_mac_hotspot_25.0.5_8.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_mac_hotspot_25.0.5_8.pkg.sig",
+                    "size": 42366171
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "806902c796c670969b7b27df73b8f0fe0924a61bd65083aa53064115e49cab2d",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_mac_hotspot_25.0.5_8.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_mac_hotspot_25.0.5_8.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_mac_hotspot_25.0.5_8.tar.gz.json",
+                    "name": "OpenJDK25U-jre_x64_mac_hotspot_25.0.5_8.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5%2B8/OpenJDK25U-jre_x64_mac_hotspot_25.0.5_8.tar.gz.sig",
+                    "size": 42207761
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-25.0.5+8_adopt",
+                "updated_at": "2026-10-23T19:16:49+00:00"
             }
         ],
         "id": "RE_kwDONcCImc4ZD8N9.7MRjPYXKV/+abg==",
@@ -116,7 +144,7 @@
             "size": 120593019
         },
         "timestamp": "2026-10-22T08:18:33+00:00",
-        "updated_at": "2026-10-23T11:21:59+00:00",
+        "updated_at": "2026-10-23T19:17:35+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 8,
