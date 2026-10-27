@@ -85,6 +85,44 @@
                 "project": "jdk",
                 "scm_ref": "jdk-27.0.1.0.2+1_adopt",
                 "updated_at": "2026-10-26T11:40:32+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "3024a37374f4f73da17560907cb24e42e89148e10c47f423d26b0d70dc1ba254",
+                    "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_ppc64le_linux_hotspot_27.0.1.0.2_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_ppc64le_linux_hotspot_27.0.1.0.2_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_ppc64le_linux_hotspot_27.0.1.0.2_1.tar.gz.json",
+                    "name": "OpenJDK27U-jre_ppc64le_linux_hotspot_27.0.1.0.2_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_ppc64le_linux_hotspot_27.0.1.0.2_1.tar.gz.sig",
+                    "size": 60741765
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-27.0.1.0.2+1_adopt",
+                "updated_at": "2026-10-27T11:53:33+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "7d50814d945ad726824329658b58e032f003b3faa13c69ad1d0308a6743d60c6",
+                    "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_s390x_linux_hotspot_27.0.1.0.2_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_s390x_linux_hotspot_27.0.1.0.2_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_s390x_linux_hotspot_27.0.1.0.2_1.tar.gz.json",
+                    "name": "OpenJDK27U-jre_s390x_linux_hotspot_27.0.1.0.2_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.0.2%2B1/OpenJDK27U-jre_s390x_linux_hotspot_27.0.1.0.2_1.tar.gz.sig",
+                    "size": 60351484
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-27.0.1.0.2+1_adopt",
+                "updated_at": "2026-10-27T12:10:52+00:00"
             }
         ],
         "id": "RE_kwDOQ0GVfs4ZMcvt./MSnOOx6Kds81w==",
@@ -97,7 +135,7 @@
             "size": 122496805
         },
         "timestamp": "2026-10-24T11:36:00+00:00",
-        "updated_at": "2026-10-26T11:40:47+00:00",
+        "updated_at": "2026-10-27T12:11:09+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 0,
