@@ -8,6 +8,202 @@
                 "jvm_impl": "openj9",
                 "os": "aix",
                 "package": {
+                    "checksum": "8a47bcfd80c0ce7c62407f00d1b9f967f1207da0c8284f55420b54756370aaf2",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_ppc64_aix_25.0.5.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_ppc64_aix_25.0.5.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_ppc64_aix_25.0.5.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64_aix_25.0.5.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_ppc64_aix_25.0.5.0.tar.gz.sig",
+                    "size": 63094511
+                },
+                "project": "jdk",
+                "scm_ref": "v0.63.0-release",
+                "updated_at": "2026-10-28T17:39:30+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "5731821285dbf00c196b247828c135ec7ea8f8888b743c9b7e24f627a79b7ade",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_ppc64le_linux_25.0.5.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_ppc64le_linux_25.0.5.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_ppc64le_linux_25.0.5.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_ppc64le_linux_25.0.5.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_ppc64le_linux_25.0.5.0.tar.gz.sig",
+                    "size": 60995302
+                },
+                "project": "jdk",
+                "scm_ref": "v0.63.0-release",
+                "updated_at": "2026-10-28T17:41:42+00:00"
+            },
+            {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "ef43f0f17b9d598121e9ca8766ef105a933dd501a7616951b08a35ca1efc21d7",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_s390x_linux_25.0.5.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_s390x_linux_25.0.5.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_s390x_linux_25.0.5.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_s390x_linux_25.0.5.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_s390x_linux_25.0.5.0.tar.gz.sig",
+                    "size": 61973668
+                },
+                "project": "jdk",
+                "scm_ref": "v0.63.0-release",
+                "updated_at": "2026-10-28T17:43:15+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "dead27a708a2b843ed0787b7fceb92fed04245718474da51577599183e54a958",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_linux_25.0.5.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_linux_25.0.5.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_linux_25.0.5.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_linux_25.0.5.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_linux_25.0.5.0.tar.gz.sig",
+                    "size": 59519274
+                },
+                "project": "jdk",
+                "scm_ref": "v0.63.0-release",
+                "updated_at": "2026-10-28T17:44:32+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "8f1ba27100da840642941f75e3ff2844743f2fd36598faff24f561bdd22928f7",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_mac_25.0.5.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_mac_25.0.5.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_mac_25.0.5.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_25.0.5.0.pkg",
+                    "size": 55066254
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "b0e23a71fa09713fc19ab764af125c6da2db36036d0753d9cc9452c426ce1b79",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_mac_25.0.5.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_mac_25.0.5.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_mac_25.0.5.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_x64_mac_25.0.5.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_mac_25.0.5.0.tar.gz.sig",
+                    "size": 55411987
+                },
+                "project": "jdk",
+                "scm_ref": "v0.63.0-release",
+                "updated_at": "2026-10-28T17:45:35+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "32a96bd94754525ac96e25f8a4212edc636ac93e44ecf09d1538876d81014bed",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_windows_25.0.5.0.msi.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_windows_25.0.5.0.msi",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_windows_25.0.5.0.msi.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_25.0.5.0.msi",
+                    "size": 41390080
+                },
+                "jvm_impl": "openj9",
+                "os": "windows",
+                "package": {
+                    "checksum": "968c4c59cf7cfe2ad6683eb378bb8c25803e7b5f635bf4500fef5063ecbbba53",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_windows_25.0.5.0.zip.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_windows_25.0.5.0.zip",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_windows_25.0.5.0.zip.json",
+                    "name": "ibm-semeru-open-jre_x64_windows_25.0.5.0.zip",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_x64_windows_25.0.5.0.zip.sig",
+                    "size": 57302234
+                },
+                "project": "jdk",
+                "scm_ref": "v0.63.0-release",
+                "updated_at": "2026-10-28T17:46:33+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "182f0f53b20679bf5cb285d82f8520c7ec3db272cb8d22ff9843dbb99cd17c31",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_aarch64_mac_25.0.5.0.pkg.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_aarch64_mac_25.0.5.0.pkg",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_aarch64_mac_25.0.5.0.pkg.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_25.0.5.0.pkg",
+                    "size": 52013208
+                },
+                "jvm_impl": "openj9",
+                "os": "mac",
+                "package": {
+                    "checksum": "8333025a5dee6ff44de2c039c3ebe3817c01f511723d63eb5d1618241cf82fe4",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_aarch64_mac_25.0.5.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_aarch64_mac_25.0.5.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_aarch64_mac_25.0.5.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_mac_25.0.5.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_aarch64_mac_25.0.5.0.tar.gz.sig",
+                    "size": 52521241
+                },
+                "project": "jdk",
+                "scm_ref": "v0.63.0-release",
+                "updated_at": "2026-10-28T17:47:28+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "linux",
+                "package": {
+                    "checksum": "7df1d21793596891bb4e76b63948d6cb08c23a3092f7f06fcdecdca80b6eab90",
+                    "checksum_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_aarch64_linux_25.0.5.0.tar.gz.sha256.txt",
+                    "link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_aarch64_linux_25.0.5.0.tar.gz",
+                    "metadata_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_aarch64_linux_25.0.5.0.tar.gz.json",
+                    "name": "ibm-semeru-open-jre_aarch64_linux_25.0.5.0.tar.gz",
+                    "signature_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.5.0/ibm-semeru-open-jre_aarch64_linux_25.0.5.0.tar.gz.sig",
+                    "size": 57568766
+                },
+                "project": "jdk",
+                "scm_ref": "v0.63.0-release",
+                "updated_at": "2026-10-28T17:48:31+00:00"
+            }
+        ],
+        "id": "RE_kwDOPpzqjs4ZJd_D.QwuqSbuWPzrhzg==",
+        "release_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/tag/jdk-25.0.5.0",
+        "release_name": "jdk-25.0.5.0",
+        "release_type": "ga",
+        "timestamp": "2026-10-29T17:02:54+00:00",
+        "updated_at": "2026-10-29T17:02:54+00:00",
+        "vendor": "ibm",
+        "version_data": {
+            "build": 0,
+            "major": 25,
+            "minor": 0,
+            "openjdk_version": "25.0.5.0",
+            "patch": 0,
+            "security": 5,
+            "semver": "25.0.5+0"
+        }
+    },
+    {
+        "binaries": [
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "openj9",
+                "os": "aix",
+                "package": {
                     "checksum": "414b4d972542ac9f2d5c42d3dc683137406258f723bdc9a39b50c730581bd489",
                     "checksum_link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.4.15/ibm-semeru-open-jre_ppc64_aix_25.0.4.15.tar.gz.sha256.txt",
                     "link": "https://github.com/AdoptOpenJDK/semeru25-binaries/releases/download/jdk-25.0.4.15/ibm-semeru-open-jre_ppc64_aix_25.0.4.15.tar.gz",
