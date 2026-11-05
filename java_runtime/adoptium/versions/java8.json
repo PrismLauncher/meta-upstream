@@ -19,14 +19,66 @@
                 "project": "jdk",
                 "scm_ref": "jdk8u512-b09_adopt",
                 "updated_at": "2026-11-04T12:45:30+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "c60f51ed33d483cebae883d22cba42fb956c79a42150b22fe42341967973c129",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jre_x64_windows_hotspot_8u512b09.msi.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jre_x64_windows_hotspot_8u512b09.msi",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jre_x64_windows_hotspot_8u512b09.msi.json",
+                    "name": "OpenJDK8U-jre_x64_windows_hotspot_8u512b09.msi",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jre_x64_windows_hotspot_8u512b09.msi.sig",
+                    "size": 32038912
+                },
+                "jvm_impl": "hotspot",
+                "os": "windows",
+                "package": {
+                    "checksum": "ae1ae12f817d7735477c6555107eece73854da0654da69077309ef9bff0b78bf",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jre_x64_windows_hotspot_8u512b09.zip.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jre_x64_windows_hotspot_8u512b09.zip",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jre_x64_windows_hotspot_8u512b09.zip.json",
+                    "name": "OpenJDK8U-jre_x64_windows_hotspot_8u512b09.zip",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jre_x64_windows_hotspot_8u512b09.zip.sig",
+                    "size": 40124908
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u512-b09_adopt",
+                "updated_at": "2026-11-05T13:03:11+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "57468dc8bfd71dd0578d9717e63a8c13b9efe0a2f2c85c2a13966d1c0f9b1e5f",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jre_x64_linux_hotspot_8u512b09.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jre_x64_linux_hotspot_8u512b09.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jre_x64_linux_hotspot_8u512b09.tar.gz.json",
+                    "name": "OpenJDK8U-jre_x64_linux_hotspot_8u512b09.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jre_x64_linux_hotspot_8u512b09.tar.gz.sig",
+                    "size": 41877429
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u512-b09_adopt",
+                "updated_at": "2026-11-05T13:35:07+00:00"
             }
         ],
         "id": "RE_kwDOFjpgDM4Z3Ozt.l3YMrNkg7POvKg==",
         "release_link": "https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u512-b09",
         "release_name": "jdk8u512-b09",
         "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jdk-sources_8u512b09.tar.gz",
+            "name": "OpenJDK8U-jdk-sources_8u512b09.tar.gz",
+            "size": 94353989
+        },
         "timestamp": "2026-11-04T12:45:11+00:00",
-        "updated_at": "2026-11-04T12:45:38+00:00",
+        "updated_at": "2026-11-05T13:35:19+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 9,
