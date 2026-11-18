@@ -19,6 +19,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-27.0.1.1+4_adopt",
                 "updated_at": "2026-11-18T10:08:48+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "b77dceb6bc1ddcddb2a1c291d1e972d5e6eda22c15c4cb843c95ea36f833023f",
+                    "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_x64_alpine-linux_hotspot_27.0.1.1_4.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_x64_alpine-linux_hotspot_27.0.1.1_4.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_x64_alpine-linux_hotspot_27.0.1.1_4.tar.gz.json",
+                    "name": "OpenJDK27U-jre_x64_alpine-linux_hotspot_27.0.1.1_4.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_x64_alpine-linux_hotspot_27.0.1.1_4.tar.gz.sig",
+                    "size": 61565674
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-27.0.1.1+4_adopt",
+                "updated_at": "2026-11-18T20:37:20+00:00"
             }
         ],
         "id": "RE_kwDOQ0GVfs4az3Cg.v1dbqPypLUDo1w==",
@@ -36,7 +55,7 @@
             "size": 122473478
         },
         "timestamp": "2026-11-18T10:08:11+00:00",
-        "updated_at": "2026-11-18T13:18:33+00:00",
+        "updated_at": "2026-11-18T20:38:11+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 4,
