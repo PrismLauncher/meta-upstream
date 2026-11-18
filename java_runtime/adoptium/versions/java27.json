@@ -2,6 +2,50 @@
     {
         "binaries": [
             {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "9e15835ca3451a0089aac2c3667c009bc2743b9cb15030a14c6f5ec05f8d5aaf",
+                    "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_x64_linux_hotspot_27.0.1.1_4.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_x64_linux_hotspot_27.0.1.1_4.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_x64_linux_hotspot_27.0.1.1_4.tar.gz.json",
+                    "name": "OpenJDK27U-jre_x64_linux_hotspot_27.0.1.1_4.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_x64_linux_hotspot_27.0.1.1_4.tar.gz.sig",
+                    "size": 62147203
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-27.0.1.1+4_adopt",
+                "updated_at": "2026-11-18T10:08:48+00:00"
+            }
+        ],
+        "id": "RE_kwDOQ0GVfs4az3Cg.v1dbqPypLUDo1w==",
+        "release_link": "https://github.com/adoptium/temurin27-binaries/releases/tag/jdk-27.0.1.1%2B4",
+        "release_name": "jdk-27.0.1.1+4",
+        "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jdk-sources_27.0.1.1_4.tar.gz",
+            "name": "OpenJDK27U-jdk-sources_27.0.1.1_4.tar.gz",
+            "size": 122473478
+        },
+        "timestamp": "2026-11-18T10:08:11+00:00",
+        "updated_at": "2026-11-18T10:09:16+00:00",
+        "vendor": "eclipse",
+        "version_data": {
+            "build": 4,
+            "major": 27,
+            "minor": 0,
+            "openjdk_version": "27.0.1.1+4",
+            "patch": 1,
+            "security": 1,
+            "semver": "27.0.1+100000004"
+        }
+    },
+    {
+        "binaries": [
+            {
                 "architecture": "aarch64",
                 "heap_size": "normal",
                 "image_type": "jre",
