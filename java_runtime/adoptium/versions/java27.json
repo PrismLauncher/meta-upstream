@@ -38,6 +38,53 @@
                 "project": "jdk",
                 "scm_ref": "jdk-27.0.1.1+4_adopt",
                 "updated_at": "2026-11-18T20:37:20+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "66b6166c41991f93e370e4f2baa739ffd4b6a7386b15a816c5cc5ea0b438029f",
+                    "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.1_4.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.1_4.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.1_4.pkg.json",
+                    "name": "OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.1_4.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.1_4.pkg.sig",
+                    "size": 57409317
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "809398a4dc95ab15bfdad77b6c40921ea49d6d0333af530334e854a52e0456f4",
+                    "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.1_4.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.1_4.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.1_4.tar.gz.json",
+                    "name": "OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.1_4.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_aarch64_mac_hotspot_27.0.1.1_4.tar.gz.sig",
+                    "size": 57041646
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-27.0.1.1+4_adopt",
+                "updated_at": "2026-11-19T16:57:30+00:00"
+            },
+            {
+                "architecture": "ppc64le",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "c96bc02045a4fffe5225aed2e6834d69351abbefc1eaebc2393fcbebf94b9eed",
+                    "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_ppc64le_linux_hotspot_27.0.1.1_4.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_ppc64le_linux_hotspot_27.0.1.1_4.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_ppc64le_linux_hotspot_27.0.1.1_4.tar.gz.json",
+                    "name": "OpenJDK27U-jre_ppc64le_linux_hotspot_27.0.1.1_4.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_ppc64le_linux_hotspot_27.0.1.1_4.tar.gz.sig",
+                    "size": 60745952
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-27.0.1.1+4_adopt",
+                "updated_at": "2026-11-19T19:45:40+00:00"
             }
         ],
         "id": "RE_kwDOQ0GVfs4az3Cg.v1dbqPypLUDo1w==",
@@ -55,7 +102,7 @@
             "size": 122473478
         },
         "timestamp": "2026-11-18T10:08:11+00:00",
-        "updated_at": "2026-11-18T20:38:11+00:00",
+        "updated_at": "2026-11-19T19:45:40+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 4,
