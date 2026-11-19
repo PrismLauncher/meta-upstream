@@ -19,6 +19,53 @@
                 "project": "jdk",
                 "scm_ref": "jdk-17.0.21.1+2_adopt",
                 "updated_at": "2026-11-18T20:39:54+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "99fabb8e2517861fbbf1fc26103ee62240ec693340c4c7a812f7043e82acb203",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.21.1_2.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.21.1_2.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.21.1_2.tar.gz.json",
+                    "name": "OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.21.1_2.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_x64_alpine-linux_hotspot_17.0.21.1_2.tar.gz.sig",
+                    "size": 46417416
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.21.1+2_adopt",
+                "updated_at": "2026-11-19T03:15:30+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "1d4a4c6545e0f869cc283fc440d3c6a3140b53eac0155abd36265df1dd627d6a",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.pkg.json",
+                    "name": "OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.pkg.sig",
+                    "size": 43023118
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "398046289ca1acef2d3800d74c55a31f08b2fee32a17ee7c1c4e4ad7489f8311",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.tar.gz.json",
+                    "name": "OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_mac_hotspot_17.0.21.1_2.tar.gz.sig",
+                    "size": 42828495
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.21.1+2_adopt",
+                "updated_at": "2026-11-19T03:16:39+00:00"
             }
         ],
         "id": "RE_kwDOFjpjCs4a2onV.GeUBIpX5aWMkqw==",
@@ -36,7 +83,7 @@
             "size": 109918905
         },
         "timestamp": "2026-11-18T20:39:00+00:00",
-        "updated_at": "2026-11-18T20:42:12+00:00",
+        "updated_at": "2026-11-19T03:17:24+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 2,
