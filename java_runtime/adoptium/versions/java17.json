@@ -179,6 +179,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-17.0.21.1+2_adopt",
                 "updated_at": "2026-11-20T11:02:05+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "ed968eb2cde06ba38c3d957956cab7faced9181aaeebed4904f89e2e6efa8d11",
+                    "checksum_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.21.1_2.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.21.1_2.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.21.1_2.tar.gz.json",
+                    "name": "OpenJDK17U-jre_aarch64_linux_hotspot_17.0.21.1_2.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.21.1%2B2/OpenJDK17U-jre_aarch64_linux_hotspot_17.0.21.1_2.tar.gz.sig",
+                    "size": 46121315
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-17.0.21.1+2_adopt",
+                "updated_at": "2026-11-20T21:53:34+00:00"
             }
         ],
         "id": "RE_kwDOFjpjCs4a2onV.GeUBIpX5aWMkqw==",
@@ -196,7 +215,7 @@
             "size": 109918905
         },
         "timestamp": "2026-11-18T20:39:00+00:00",
-        "updated_at": "2026-11-20T11:02:25+00:00",
+        "updated_at": "2026-11-20T21:53:35+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 2,
