@@ -19,14 +19,43 @@
                 "project": "jdk",
                 "scm_ref": "jdk8u514-b01_adopt",
                 "updated_at": "2026-11-19T20:41:32+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "b3e38dc60261a548fe83d297bf6faf7880f1b84f7d48e5741f3c6f3c3021cd4d",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jre_x64_linux_hotspot_8u514b01.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jre_x64_linux_hotspot_8u514b01.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jre_x64_linux_hotspot_8u514b01.tar.gz.json",
+                    "name": "OpenJDK8U-jre_x64_linux_hotspot_8u514b01.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jre_x64_linux_hotspot_8u514b01.tar.gz.sig",
+                    "size": 41870390
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u514-b01_adopt",
+                "updated_at": "2026-11-19T23:07:24+00:00"
             }
         ],
         "id": "RE_kwDOFjpgDM4a74Vr.zjf6udxUTDi6Qw==",
         "release_link": "https://github.com/adoptium/temurin8-binaries/releases/tag/jdk8u514-b01",
         "release_name": "jdk8u514-b01",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jdk-release-notes_8.0.514_01.json",
+            "name": "OpenJDK8U-jdk-release-notes_8.0.514_01.json",
+            "size": 3066
+        },
         "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jdk-sources_8u514b01.tar.gz",
+            "name": "OpenJDK8U-jdk-sources_8u514b01.tar.gz",
+            "size": 94330915
+        },
         "timestamp": "2026-11-19T20:41:10+00:00",
-        "updated_at": "2026-11-19T20:41:33+00:00",
+        "updated_at": "2026-11-19T23:07:27+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 1,
