@@ -2,6 +2,45 @@
     {
         "binaries": [
             {
+                "architecture": "s390x",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "fd09d70bc5902d2fb24532a9e6988459d545b5b921ae90c3c9b0d6b222eb2787",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_s390x_linux_hotspot_11.0.33.1_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_s390x_linux_hotspot_11.0.33.1_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_s390x_linux_hotspot_11.0.33.1_1.tar.gz.json",
+                    "name": "OpenJDK11U-jre_s390x_linux_hotspot_11.0.33.1_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_s390x_linux_hotspot_11.0.33.1_1.tar.gz.sig",
+                    "size": 37462768
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.33.1+1_adopt",
+                "updated_at": "2026-11-20T09:09:55+00:00"
+            }
+        ],
+        "id": "RE_kwDOFjph084a-DUl.oYDW/+kp760aNQ==",
+        "release_link": "https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.33.1%2B1",
+        "release_name": "jdk-11.0.33.1+1",
+        "release_type": "ga",
+        "timestamp": "2026-11-20T09:09:28+00:00",
+        "updated_at": "2026-11-20T09:10:19+00:00",
+        "vendor": "eclipse",
+        "version_data": {
+            "build": 1,
+            "major": 11,
+            "minor": 0,
+            "openjdk_version": "11.0.33.1+1",
+            "patch": 1,
+            "security": 33,
+            "semver": "11.0.33+100000001"
+        }
+    },
+    {
+        "binaries": [
+            {
                 "architecture": "ppc64le",
                 "heap_size": "normal",
                 "image_type": "jre",
