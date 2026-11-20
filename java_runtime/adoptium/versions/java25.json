@@ -170,6 +170,53 @@
                 "project": "jdk",
                 "scm_ref": "jdk-25.0.5.1+2_adopt",
                 "updated_at": "2026-11-20T09:48:09+00:00"
+            },
+            {
+                "architecture": "aarch64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "c6161dcfb365024fbfbcda265343d562d6f821c78dd8e7aeaeaf294893f6ff8b",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_aarch64_linux_hotspot_25.0.5.1_2.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_aarch64_linux_hotspot_25.0.5.1_2.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_aarch64_linux_hotspot_25.0.5.1_2.tar.gz.json",
+                    "name": "OpenJDK25U-jre_aarch64_linux_hotspot_25.0.5.1_2.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_aarch64_linux_hotspot_25.0.5.1_2.tar.gz.sig",
+                    "size": 60526698
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-25.0.5.1+2_adopt",
+                "updated_at": "2026-11-20T11:09:32+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "9c835ef62197c85bda55d92a0c28dbfc137849609ed0c33176ea2913dbc2a35c",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_x64_mac_hotspot_25.0.5.1_2.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_x64_mac_hotspot_25.0.5.1_2.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_x64_mac_hotspot_25.0.5.1_2.pkg.json",
+                    "name": "OpenJDK25U-jre_x64_mac_hotspot_25.0.5.1_2.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_x64_mac_hotspot_25.0.5.1_2.pkg.sig",
+                    "size": 42377828
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "fac7e81bba96b45cfc3381dbc8bbca6ffd129e3e30aed70493245b61dde7d639",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_x64_mac_hotspot_25.0.5.1_2.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_x64_mac_hotspot_25.0.5.1_2.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_x64_mac_hotspot_25.0.5.1_2.tar.gz.json",
+                    "name": "OpenJDK25U-jre_x64_mac_hotspot_25.0.5.1_2.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_x64_mac_hotspot_25.0.5.1_2.tar.gz.sig",
+                    "size": 42215950
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-25.0.5.1+2_adopt",
+                "updated_at": "2026-11-20T11:49:30+00:00"
             }
         ],
         "id": "RE_kwDONcCImc4a2X-L.iQtdhcL9tnKilQ==",
@@ -187,7 +234,7 @@
             "size": 120729473
         },
         "timestamp": "2026-11-18T19:34:09+00:00",
-        "updated_at": "2026-11-20T09:48:50+00:00",
+        "updated_at": "2026-11-20T11:50:03+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 2,

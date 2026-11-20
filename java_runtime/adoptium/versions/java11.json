@@ -19,14 +19,90 @@
                 "project": "jdk",
                 "scm_ref": "jdk-11.0.33.1+1_adopt",
                 "updated_at": "2026-11-20T09:09:55+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "e32167b352a56497b0ac401409321c00948e0a4131d9d1f92abf0f901e7bf62d",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_x64_linux_hotspot_11.0.33.1_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_x64_linux_hotspot_11.0.33.1_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_x64_linux_hotspot_11.0.33.1_1.tar.gz.json",
+                    "name": "OpenJDK11U-jre_x64_linux_hotspot_11.0.33.1_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_x64_linux_hotspot_11.0.33.1_1.tar.gz.sig",
+                    "size": 43524308
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.33.1+1_adopt",
+                "updated_at": "2026-11-20T10:11:08+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "94cf2e9c59fd90a3686cee4e2c7cdf99b3a7b081d83423d24a9524d7e9987345",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_x64_mac_hotspot_11.0.33.1_1.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_x64_mac_hotspot_11.0.33.1_1.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_x64_mac_hotspot_11.0.33.1_1.pkg.json",
+                    "name": "OpenJDK11U-jre_x64_mac_hotspot_11.0.33.1_1.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_x64_mac_hotspot_11.0.33.1_1.pkg.sig",
+                    "size": 39257934
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "e1ca13a72997986ae348ad38aa661807184295c41ec689b2b28f135a6b9cbb5b",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_x64_mac_hotspot_11.0.33.1_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_x64_mac_hotspot_11.0.33.1_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_x64_mac_hotspot_11.0.33.1_1.tar.gz.json",
+                    "name": "OpenJDK11U-jre_x64_mac_hotspot_11.0.33.1_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_x64_mac_hotspot_11.0.33.1_1.tar.gz.sig",
+                    "size": 39103504
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.33.1+1_adopt",
+                "updated_at": "2026-11-20T10:13:02+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "alpine-linux",
+                "package": {
+                    "checksum": "6cb33b6a9b5f89e73c843eca7d588ba17187c3a2443a36992c55669b1115a3d3",
+                    "checksum_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.33.1_1.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.33.1_1.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.33.1_1.tar.gz.json",
+                    "name": "OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.33.1_1.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jre_x64_alpine-linux_hotspot_11.0.33.1_1.tar.gz.sig",
+                    "size": 42886844
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-11.0.33.1+1_adopt",
+                "updated_at": "2026-11-20T12:23:23+00:00"
             }
         ],
         "id": "RE_kwDOFjph084a-DUl.oYDW/+kp760aNQ==",
         "release_link": "https://github.com/adoptium/temurin11-binaries/releases/tag/jdk-11.0.33.1%2B1",
         "release_name": "jdk-11.0.33.1+1",
+        "release_notes": {
+            "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11-jdk-release-notes_11.0.33.1_1.json",
+            "name": "OpenJDK11-jdk-release-notes_11.0.33.1_1.json",
+            "size": 2636
+        },
         "release_type": "ga",
+        "source": {
+            "link": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jdk-sources_11.0.33.1_1.tar.gz",
+            "name": "OpenJDK11U-jdk-sources_11.0.33.1_1.tar.gz",
+            "size": 117670540
+        },
         "timestamp": "2026-11-20T09:09:28+00:00",
-        "updated_at": "2026-11-20T09:10:19+00:00",
+        "updated_at": "2026-11-20T12:24:17+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 1,
