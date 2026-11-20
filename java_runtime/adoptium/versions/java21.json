@@ -170,6 +170,53 @@
                 "project": "jdk",
                 "scm_ref": "jdk-21.0.13.1+2_adopt",
                 "updated_at": "2026-11-20T10:14:41+00:00"
+            },
+            {
+                "architecture": "riscv64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "bc5acf3fb17a177e808cddad7c0b33613425fc0e5bf737212ab5de2a09283a80",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B2/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.13.1_2.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B2/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.13.1_2.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B2/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.13.1_2.tar.gz.json",
+                    "name": "OpenJDK21U-jre_riscv64_linux_hotspot_21.0.13.1_2.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B2/OpenJDK21U-jre_riscv64_linux_hotspot_21.0.13.1_2.tar.gz.sig",
+                    "size": 51699926
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.13.1+2_adopt",
+                "updated_at": "2026-11-20T15:08:24+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "b93c527e856ceb96e8ce783605e19ec3da8730903b4a66d5f2e547b7fa5dd224",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B2/OpenJDK21U-jre_x64_mac_hotspot_21.0.13.1_2.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B2/OpenJDK21U-jre_x64_mac_hotspot_21.0.13.1_2.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B2/OpenJDK21U-jre_x64_mac_hotspot_21.0.13.1_2.pkg.json",
+                    "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.13.1_2.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B2/OpenJDK21U-jre_x64_mac_hotspot_21.0.13.1_2.pkg.sig",
+                    "size": 42074554
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "10cee6ba4cd83fd4613a3f0bb3ef9dddd68c68d5f3ccfcc7e456707c9e1eafe0",
+                    "checksum_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B2/OpenJDK21U-jre_x64_mac_hotspot_21.0.13.1_2.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B2/OpenJDK21U-jre_x64_mac_hotspot_21.0.13.1_2.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B2/OpenJDK21U-jre_x64_mac_hotspot_21.0.13.1_2.tar.gz.json",
+                    "name": "OpenJDK21U-jre_x64_mac_hotspot_21.0.13.1_2.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.13.1%2B2/OpenJDK21U-jre_x64_mac_hotspot_21.0.13.1_2.tar.gz.sig",
+                    "size": 41907486
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-21.0.13.1+2_adopt",
+                "updated_at": "2026-11-20T15:29:35+00:00"
             }
         ],
         "id": "RE_kwDOI-qQc84a1XTg.F5WAdUVANxCMdQ==",
@@ -187,7 +234,7 @@
             "size": 115300994
         },
         "timestamp": "2026-11-18T15:41:19+00:00",
-        "updated_at": "2026-11-20T10:15:20+00:00",
+        "updated_at": "2026-11-20T15:30:22+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 2,
