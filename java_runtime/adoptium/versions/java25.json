@@ -217,6 +217,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-25.0.5.1+2_adopt",
                 "updated_at": "2026-11-20T11:49:30+00:00"
+            },
+            {
+                "architecture": "riscv64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "linux",
+                "package": {
+                    "checksum": "0748da253ca1ed7a936d7149a553809217ae6e32f863047a258beb8bd44a4b70",
+                    "checksum_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_riscv64_linux_hotspot_25.0.5.1_2.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_riscv64_linux_hotspot_25.0.5.1_2.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_riscv64_linux_hotspot_25.0.5.1_2.tar.gz.json",
+                    "name": "OpenJDK25U-jre_riscv64_linux_hotspot_25.0.5.1_2.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin25-binaries/releases/download/jdk-25.0.5.1%2B2/OpenJDK25U-jre_riscv64_linux_hotspot_25.0.5.1_2.tar.gz.sig",
+                    "size": 60443401
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-25.0.5.1+2_adopt",
+                "updated_at": "2026-11-24T08:03:54+00:00"
             }
         ],
         "id": "RE_kwDONcCImc4a2X-L.iQtdhcL9tnKilQ==",
@@ -234,7 +253,7 @@
             "size": 120729473
         },
         "timestamp": "2026-11-18T19:34:09+00:00",
-        "updated_at": "2026-11-20T11:50:03+00:00",
+        "updated_at": "2026-11-24T08:04:11+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 2,
