@@ -161,6 +161,25 @@
                 "project": "jdk",
                 "scm_ref": "jdk-27.0.1.1+4_adopt",
                 "updated_at": "2026-11-23T15:02:55+00:00"
+            },
+            {
+                "architecture": "ppc64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "jvm_impl": "hotspot",
+                "os": "aix",
+                "package": {
+                    "checksum": "b60765bed7a406fea527d574f380d44d3aa75b4dd54f24a39407ad1e913a2efb",
+                    "checksum_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_ppc64_aix_hotspot_27.0.1.1_4.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_ppc64_aix_hotspot_27.0.1.1_4.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_ppc64_aix_hotspot_27.0.1.1_4.tar.gz.json",
+                    "name": "OpenJDK27U-jre_ppc64_aix_hotspot_27.0.1.1_4.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin27-binaries/releases/download/jdk-27.0.1.1%2B4/OpenJDK27U-jre_ppc64_aix_hotspot_27.0.1.1_4.tar.gz.sig",
+                    "size": 41607704
+                },
+                "project": "jdk",
+                "scm_ref": "jdk-27.0.1.1+4_adopt",
+                "updated_at": "2026-11-24T08:00:39+00:00"
             }
         ],
         "id": "RE_kwDOQ0GVfs4az3Cg.v1dbqPypLUDo1w==",
@@ -178,7 +197,7 @@
             "size": 122473478
         },
         "timestamp": "2026-11-18T10:08:11+00:00",
-        "updated_at": "2026-11-23T15:03:37+00:00",
+        "updated_at": "2026-11-24T08:01:00+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 4,
