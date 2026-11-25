@@ -95,6 +95,34 @@
                 "project": "jdk",
                 "scm_ref": "jdk8u514-b01_adopt",
                 "updated_at": "2026-11-24T16:53:21+00:00"
+            },
+            {
+                "architecture": "x64",
+                "heap_size": "normal",
+                "image_type": "jre",
+                "installer": {
+                    "checksum": "674aa42967d6807bd4e8d16f875419f836e6ced2ed773ea5cbf19c4b6dbe6776",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jre_x64_mac_hotspot_8u514b01.pkg.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jre_x64_mac_hotspot_8u514b01.pkg",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jre_x64_mac_hotspot_8u514b01.pkg.json",
+                    "name": "OpenJDK8U-jre_x64_mac_hotspot_8u514b01.pkg",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jre_x64_mac_hotspot_8u514b01.pkg.sig",
+                    "size": 44448315
+                },
+                "jvm_impl": "hotspot",
+                "os": "mac",
+                "package": {
+                    "checksum": "5690d86985a82616ce20befdf9d8d920460acca63e2eeacd37b5fff0b8b2c734",
+                    "checksum_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jre_x64_mac_hotspot_8u514b01.tar.gz.sha256.txt",
+                    "link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jre_x64_mac_hotspot_8u514b01.tar.gz",
+                    "metadata_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jre_x64_mac_hotspot_8u514b01.tar.gz.json",
+                    "name": "OpenJDK8U-jre_x64_mac_hotspot_8u514b01.tar.gz",
+                    "signature_link": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jre_x64_mac_hotspot_8u514b01.tar.gz.sig",
+                    "size": 44396694
+                },
+                "project": "jdk",
+                "scm_ref": "jdk8u514-b01_adopt",
+                "updated_at": "2026-11-25T14:48:23+00:00"
             }
         ],
         "id": "RE_kwDOFjpgDM4a74Vr.zjf6udxUTDi6Qw==",
@@ -112,7 +140,7 @@
             "size": 94330915
         },
         "timestamp": "2026-11-19T20:41:10+00:00",
-        "updated_at": "2026-11-24T16:53:34+00:00",
+        "updated_at": "2026-11-25T14:48:24+00:00",
         "vendor": "eclipse",
         "version_data": {
             "build": 1,
